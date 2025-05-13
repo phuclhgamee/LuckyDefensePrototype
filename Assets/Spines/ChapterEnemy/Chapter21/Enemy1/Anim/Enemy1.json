@@ -1,0 +1,24 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap21/New folder/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 18", "bone": "root", "attachment": "Layer 18" },
+	{ "name": "Layer 19", "bone": "root", "attachment": "Layer 19" },
+	{ "name": "Layer 16", "bone": "root", "attachment": "Layer 16" }
+],
+"skins": {
+	"default": {
+		"Layer 18": {
+			"Layer 18": { "x": 327, "y": -204.5, "width": 474, "height": 407 }
+		},
+		"Layer 19": {
+			"Layer 19": { "x": 276, "y": -299.5, "width": 332, "height": 203 }
+		},
+		"Layer 16": {
+			"Layer 16": { "x": 246.5, "y": -335, "width": 285, "height": 204 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

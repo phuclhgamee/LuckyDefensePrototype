@@ -1,0 +1,23 @@
+char_ninja_03.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Ellipse 2
+bounds:2,24,108,45
+rotate:90
+skin2/Layer 1346
+bounds:137,127,114,126
+skin2/Layer 1351
+bounds:2,134,133,119
+skin2/Layer 1356
+bounds:116,22,85,59
+skin2/Layer 1359
+bounds:49,42,90,65
+rotate:90
+skin2/Layer 60
+bounds:203,2,40,36
+skin2/Layer 60 copy
+bounds:204,40,38,85
+skin2/Layer 60 copy 2
+bounds:116,83,42,86
+rotate:90

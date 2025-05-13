@@ -1,0 +1,14 @@
+blessing_pack.png
+size:436,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+Hit_10
+bounds:2,38,236,214
+offsets:8,15,249,244
+Layer_1137
+bounds:338,128,95,124
+Layer_1137_copy_2
+bounds:240,128,96,124
+Layer_1168_copy
+bounds:240,2,153,124

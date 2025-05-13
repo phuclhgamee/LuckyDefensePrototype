@@ -1,0 +1,14 @@
+turret3.png
+size:180,180
+filter:Linear,Linear
+pma:true
+Layer 184 - Smart Object Group
+bounds:2,5,44,61
+rotate:90
+Layer 188
+bounds:65,12,52,37
+Layer 189
+bounds:2,51,145,127
+Layer 212
+bounds:149,125,53,29
+rotate:90

@@ -1,0 +1,32 @@
+Island_Chap20.png
+size:1132,1132
+filter:Linear,Linear
+pma:true
+Body
+bounds:928,895,201,234
+Island
+bounds:2,29,924,1100
+L Arm
+bounds:1023,654,69,123
+L Armpit
+bounds:928,296,122,152
+L Feet
+bounds:1052,297,74,67
+rotate:90
+L Leg
+bounds:1009,43,78,93
+Layer 19
+bounds:928,450,153,157
+R Arm
+bounds:1023,779,114,106
+rotate:90
+R Armpit
+bounds:928,138,114,156
+R Feet
+bounds:1052,373,75,67
+rotate:90
+R Leg
+bounds:928,43,79,93
+Weapon
+bounds:928,609,284,93
+rotate:90

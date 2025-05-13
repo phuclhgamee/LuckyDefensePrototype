@@ -1,0 +1,23 @@
+Island_Chap19.png
+size:1072,920
+filter:Linear,Linear
+pma:true
+Group 1
+bounds:890,606,132,139
+Island
+bounds:2,2,886,915
+offsets:92,99,1069,1152
+Layer 4
+bounds:890,747,138,129
+Layer 6
+bounds:890,405,57,101
+offsets:1,1,59,103
+Layer 6 copy
+bounds:890,508,70,96
+offsets:1,1,72,98
+Leg
+bounds:890,336,52,67
+Leg2
+bounds:890,267,47,67
+Shadow
+bounds:890,878,177,39

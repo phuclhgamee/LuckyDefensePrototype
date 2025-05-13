@@ -1,0 +1,56 @@
+Lucky_Spin.png
+size:912,912
+filter:Linear,Linear
+pma:true
+scale:0.8
+Ellipse 1 copy 13
+bounds:579,271,301,90
+Ellipse 1 copy 14
+bounds:40,2,42,28
+rotate:90
+Ellipse 1 copy 15
+bounds:2,2,42,36
+rotate:90
+Ellipse 1 copy 4
+bounds:2,2,42,36
+rotate:90
+Ellipse 1 copy 7
+bounds:2,2,42,36
+rotate:90
+Ellipse 1 copy 8
+bounds:2,2,42,36
+rotate:90
+Ellipse 1 copy 16
+bounds:70,8,36,24
+rotate:90
+Ellipse 1 copy 17
+bounds:70,8,36,24
+rotate:90
+Ellipse 1 copy 22
+bounds:559,644,26,30
+rotate:90
+Ellipse 1 copy 23
+bounds:96,22,16,22
+Ellipse 1 copy 24
+bounds:526,644,31,26
+Ellipse 2 copy 9
+bounds:591,539,131,54
+rotate:90
+Layer 1257
+bounds:579,57,202,212
+Layer 1383
+bounds:2,641,522,145
+Layer 1385
+bounds:2,788,645,119
+Layer 1387
+bounds:783,135,86,134
+Layer-1388-copy-2
+bounds:649,641,245,266
+Layer-1388-copy-6
+bounds:526,672,114,114
+Rectangle 1386
+bounds:2,46,593,575
+rotate:90
+Rectangle 17 copy 2
+bounds:647,363,276,235
+rotate:90

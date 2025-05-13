@@ -1,0 +1,96 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Heroes/Anim_Hero/nezha_ul/anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 7593", "bone": "root", "attachment": "Layer 7593" },
+	{ "name": "Layer 7405 copy 4", "bone": "root", "attachment": "Layer 7405 copy 4" },
+	{ "name": "Layer 7405 copy 6", "bone": "root", "attachment": "Layer 7405 copy 6" },
+	{ "name": "Group 45", "bone": "root", "attachment": "Group 45" },
+	{ "name": "Hand4", "bone": "root", "attachment": "Hand4" },
+	{ "name": "Hand3", "bone": "root", "attachment": "Hand3" },
+	{ "name": "Hand2", "bone": "root", "attachment": "Hand2" },
+	{ "name": "weapon", "bone": "root", "attachment": "weapon" },
+	{ "name": "Hand1", "bone": "root", "attachment": "Hand1" },
+	{ "name": "HandR1", "bone": "root", "attachment": "HandR1" },
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "LegL2", "bone": "root", "attachment": "LegL2" },
+	{ "name": "LegL1", "bone": "root", "attachment": "LegL1" },
+	{ "name": "LegR2", "bone": "root", "attachment": "LegR2" },
+	{ "name": "LegR1", "bone": "root", "attachment": "LegR1" },
+	{ "name": "belt", "bone": "root", "attachment": "belt" },
+	{ "name": "handR", "bone": "root", "attachment": "handR" },
+	{ "name": "HandR2", "bone": "root", "attachment": "HandR2" },
+	{ "name": "HandL3", "bone": "root", "attachment": "HandL3" },
+	{ "name": "HandR3", "bone": "root", "attachment": "HandR3" },
+	{ "name": "Head", "bone": "root", "attachment": "Head" }
+],
+"skins": {
+	"default": {
+		"Layer 7593": {
+			"Layer 7593": { "x": 344.5, "y": -656, "width": 165, "height": 62 }
+		},
+		"Layer 7405 copy 4": {
+			"Layer 7405 copy 4": { "x": 367, "y": -581.5, "width": 106, "height": 101 }
+		},
+		"Layer 7405 copy 6": {
+			"Layer 7405 copy 6": { "x": 290.5, "y": -580.5, "width": 83, "height": 115 }
+		},
+		"Group 45": {
+			"Group 45": { "x": 327, "y": -316.5, "width": 656, "height": 535 }
+		},
+		"Hand4": {
+			"Hand4": { "x": 515, "y": -417, "width": 176, "height": 158 }
+		},
+		"Hand3": {
+			"Hand3": { "x": 120, "y": -165, "width": 202, "height": 174 }
+		},
+		"Hand2": {
+			"Hand2": { "x": 467.5, "y": -142.5, "width": 193, "height": 199 }
+		},
+		"weapon": {
+			"weapon": { "x": 142.5, "y": -379, "width": 185, "height": 760 }
+		},
+		"Hand1": {
+			"Hand1": { "x": 165, "y": -405.5, "width": 134, "height": 141 }
+		},
+		"HandR1": {
+			"HandR1": { "x": 379.5, "y": -426, "width": 57, "height": 70 }
+		},
+		"Body": {
+			"Body": { "x": 343, "y": -436.5, "width": 102, "height": 91 }
+		},
+		"LegL2": {
+			"LegL2": { "x": 379.5, "y": -533, "width": 41, "height": 56 }
+		},
+		"LegL1": {
+			"LegL1": { "x": 365.5, "y": -507.5, "width": 69, "height": 69 }
+		},
+		"LegR2": {
+			"LegR2": { "x": 313.5, "y": -538, "width": 39, "height": 56 }
+		},
+		"LegR1": {
+			"LegR1": { "x": 325.5, "y": -506.5, "width": 73, "height": 73 }
+		},
+		"belt": {
+			"belt": { "x": 342.5, "y": -478, "width": 101, "height": 64 }
+		},
+		"handR": {
+			"handR": { "x": 295, "y": -437.5, "width": 50, "height": 79 }
+		},
+		"HandR2": {
+			"HandR2": { "x": 372.5, "y": -436.5, "width": 39, "height": 37 }
+		},
+		"HandL3": {
+			"HandL3": { "x": 348, "y": -445, "width": 110, "height": 56 }
+		},
+		"HandR3": {
+			"HandR3": { "x": 333, "y": -451.5, "width": 80, "height": 59 }
+		},
+		"Head": {
+			"Head": { "x": 311.5, "y": -294, "width": 229, "height": 262 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

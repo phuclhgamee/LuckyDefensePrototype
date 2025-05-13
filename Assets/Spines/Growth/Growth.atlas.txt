@@ -1,0 +1,18 @@
+Growth.png
+size:348,348
+filter:Linear,Linear
+pma:true
+Layer 1377 copy
+bounds:236,220,124,108
+rotate:90
+Layer 6988 copy
+bounds:2,113,232,231
+Polygon 1 copy 13
+bounds:307,194,24,29
+rotate:90
+Polygon 1 copy 14
+bounds:307,194,24,29
+rotate:90
+Triangle 1
+bounds:236,171,47,69
+rotate:90

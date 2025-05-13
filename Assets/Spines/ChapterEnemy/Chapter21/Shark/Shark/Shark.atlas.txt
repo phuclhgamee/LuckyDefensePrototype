@@ -1,0 +1,28 @@
+Shark.png
+size:396,540
+filter:Linear,Linear
+pma:true
+scale:0.6
+L Feet Behind
+bounds:328,165,58,63
+L Feet In Front
+bounds:221,116,105,112
+L Leg Behind
+bounds:170,33,49,38
+L Leg In Front
+bounds:86,8,82,63
+offsets:0,0,82,64
+Layer 34
+bounds:2,326,390,209
+Layer 39
+bounds:221,230,166,94
+offsets:0,0,166,110
+Layer 42
+bounds:2,73,217,251
+offsets:1,0,218,252
+Layer 43
+bounds:328,126,33,37
+R Feet
+bounds:221,2,105,112
+R Leg
+bounds:2,7,82,64

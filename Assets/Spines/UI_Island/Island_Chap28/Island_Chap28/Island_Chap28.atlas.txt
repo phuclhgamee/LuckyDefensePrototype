@@ -1,0 +1,12 @@
+Island_Chap28.png
+size:524,744
+filter:Linear,Linear
+pma:true
+scale:0.6
+Ellipse 4 copy 4
+bounds:2,698,83,44
+Enemy2_C28
+bounds:87,605,155,137
+Island
+bounds:2,2,517,601
+offsets:61,66,643,728

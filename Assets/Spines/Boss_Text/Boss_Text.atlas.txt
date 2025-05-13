@@ -1,0 +1,14 @@
+Boss_Text.png
+size:328,164
+filter:Linear,Linear
+pma:true
+Boss
+bounds:2,2,256,158
+Layer 718
+bounds:260,85,75,59
+rotate:90
+Layer 719
+bounds:260,18,27,46
+rotate:90
+Layer 720
+bounds:260,47,64,36

@@ -1,0 +1,34 @@
+Island_Chap11.png
+size:1100,756
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:878,631,180,123
+offsets:1,1,183,125
+Layer 2
+bounds:1060,696,22,58
+offsets:1,1,24,60
+Layer 3
+bounds:878,519,67,56
+offsets:2,2,70,59
+Layer 4
+bounds:1060,641,19,53
+offsets:1,2,21,56
+Map/_Path_-1
+bounds:2,2,637,752
+offsets:19,14,675,766
+Shadow
+bounds:641,6,172,38
+Snow/Layer 1
+bounds:641,46,226,232
+Snow/Layer 2
+bounds:871,283,227,234
+Snow/Layer 3
+bounds:641,280,228,237
+Snow/Layer 4
+bounds:869,61,229,217
+Snow/Layer 5
+bounds:641,519,235,235
+leg
+bounds:878,577,78,52
+offsets:2,2,81,56

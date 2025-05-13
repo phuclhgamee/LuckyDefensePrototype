@@ -1,0 +1,101 @@
+Boss2_SeaKing_Chap6.png
+size:780,1032
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,522,173,227
+offsets:0,0,174,227
+Coat 1
+bounds:287,888,257,141
+offsets:1,0,258,142
+Coat 2
+bounds:2,751,283,278
+Crown
+bounds:380,116,109,86
+offsets:1,1,111,88
+Face
+bounds:379,393,148,134
+offsets:2,1,151,136
+L Arm
+bounds:721,765,52,109
+offsets:1,1,54,111
+L Armpit
+bounds:529,60,84,118
+offsets:1,1,86,120
+L Feet
+bounds:690,2,66,87
+L Hand
+bounds:721,712,56,51
+offsets:1,2,59,54
+L Leg
+bounds:378,12,74,102
+offsets:1,1,76,104
+R Arm
+bounds:454,12,73,102
+offsets:1,1,75,104
+R Armpit
+bounds:702,589,68,113
+offsets:1,1,71,116
+R Feet
+bounds:690,91,67,87
+offsets:1,0,68,87
+R Hand
+bounds:702,531,54,56
+offsets:1,1,56,61
+R Leg
+bounds:615,75,73,103
+offsets:1,1,75,105
+ultimate/Fx_fly (10)
+bounds:179,372,198,172
+offsets:23,20,250,250
+ultimate/Fx_fly (11)
+bounds:177,546,202,169
+offsets:20,21,250,250
+ultimate/Fx_fly (12)
+bounds:2,7,205,154
+offsets:18,21,250,250
+ultimate/Fx_fly (13)
+bounds:529,411,207,117
+offsets:17,21,250,250
+ultimate/Fx_fly (14)
+bounds:507,704,212,170
+offsets:13,21,250,250
+ultimate/Fx_fly (15)
+bounds:287,717,218,169
+offsets:9,22,250,250
+ultimate/Fx_fly (16)
+bounds:546,876,222,153
+offsets:6,22,250,250
+ultimate/Fx_fly (17)
+bounds:536,293,223,116
+offsets:5,23,250,250
+ultimate/Fx_fly (18)
+bounds:536,180,225,111
+offsets:5,25,250,250
+ultimate/Fx_fly (19)
+bounds:721,704,14,6
+offsets:217,29,250,250
+ultimate/Fx_fly (3)
+bounds:381,529,123,186
+offsets:65,0,250,250
+ultimate/Fx_fly (4)
+bounds:380,204,154,187
+offsets:49,4,250,250
+ultimate/Fx_fly (5)
+bounds:209,15,167,176
+offsets:43,20,250,250
+ultimate/Fx_fly (6)
+bounds:2,342,175,178
+offsets:38,20,250,250
+ultimate/Fx_fly (7)
+bounds:2,163,185,177
+offsets:32,21,250,250
+ultimate/Fx_fly (8)
+bounds:189,193,189,177
+offsets:29,21,250,250
+ultimate/Fx_fly (9)
+bounds:506,530,194,172
+offsets:26,21,250,250
+ultimate/Ray (1)
+bounds:615,2,68,71
+offsets:446,57,1000,1000

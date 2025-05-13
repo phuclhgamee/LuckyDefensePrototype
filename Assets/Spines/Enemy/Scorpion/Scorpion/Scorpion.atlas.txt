@@ -1,0 +1,31 @@
+Scorpion.png
+size:1107,178
+filter:Linear,Linear
+pma:true
+Layer 11
+bounds:573,12,148,164
+offsets:1,1,150,166
+Layer 12
+bounds:2,6,170,216
+offsets:1,1,172,218
+rotate:90
+Layer 13
+bounds:220,2,197,174
+offsets:1,1,199,176
+Layer 14
+bounds:852,22,93,154
+Layer 15
+bounds:1044,2,61,83
+offsets:1,1,63,85
+Layer 16 copy 2
+bounds:947,87,89,105
+offsets:1,0,90,105
+rotate:90
+Layer 17
+bounds:723,32,127,144
+Layer 18
+bounds:419,14,152,162
+Layer 19
+bounds:947,4,81,95
+offsets:0,1,82,97
+rotate:90

@@ -1,0 +1,28 @@
+Boss_Chap17.png
+size:286,535
+filter:Linear,Linear
+pma:true
+scale:0.8
+Body
+bounds:2,357,187,176
+Eyes
+bounds:2,119,138,136
+L Arm
+bounds:191,415,81,118
+L Armpit
+bounds:2,7,70,110
+L Feet
+bounds:139,2,70,92
+L Leg
+bounds:191,360,46,53
+Layer 18
+bounds:142,96,113,159
+R Armpit
+bounds:74,9,63,108
+R Feet
+bounds:211,2,69,92
+R Leg
+bounds:239,360,45,53
+Weapon
+bounds:2,257,212,98
+offsets:0,0,213,99

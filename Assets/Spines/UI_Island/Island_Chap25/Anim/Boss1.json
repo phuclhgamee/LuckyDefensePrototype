@@ -1,0 +1,88 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap6/Boss1/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Tail", "bone": "root", "attachment": "Tail" },
+	{ "name": "R Hand", "bone": "root", "attachment": "R Hand" },
+	{ "name": "R Arm", "bone": "root", "attachment": "R Arm" },
+	{ "name": "R Armpit", "bone": "root", "attachment": "R Armpit" },
+	{ "name": "Oar", "bone": "root", "attachment": "Oar" },
+	{ "name": "R Feet", "bone": "root", "attachment": "R Feet" },
+	{ "name": "R Leg", "bone": "root", "attachment": "R Leg" },
+	{ "name": "Scarf", "bone": "root", "attachment": "Scarf" },
+	{ "name": "Head", "bone": "root", "attachment": "Head" },
+	{ "name": "Mouth", "bone": "root", "attachment": "Mouth" },
+	{ "name": "Layer 33", "bone": "root", "attachment": "Layer 33" },
+	{ "name": "L Feet", "bone": "root", "attachment": "L Feet" },
+	{ "name": "L Leg", "bone": "root", "attachment": "L Leg" },
+	{ "name": "Knife", "bone": "root", "attachment": "Knife" },
+	{ "name": "L Hand", "bone": "root", "attachment": "L Hand" },
+	{ "name": "L Arm", "bone": "root", "attachment": "L Arm" },
+	{ "name": "L Armpit", "bone": "root", "attachment": "L Armpit" },
+	{ "name": "Layer 34", "bone": "root", "attachment": "Layer 34" },
+	{ "name": "Hat", "bone": "root", "attachment": "Hat" }
+],
+"skins": {
+	"default": {
+		"Tail": {
+			"Tail": { "x": 439.5, "y": -316.5, "width": 291, "height": 159 }
+		},
+		"R Hand": {
+			"R Hand": { "x": 82.5, "y": -347.5, "width": 81, "height": 87 }
+		},
+		"R Arm": {
+			"R Arm": { "x": 119, "y": -305, "width": 88, "height": 90 }
+		},
+		"R Armpit": {
+			"R Armpit": { "x": 152.5, "y": -264.5, "width": 89, "height": 101 }
+		},
+		"Oar": {
+			"Oar": { "x": 230.5, "y": -82.5, "width": 215, "height": 99 }
+		},
+		"R Feet": {
+			"R Feet": { "x": 215.5, "y": -403.5, "width": 89, "height": 57 }
+		},
+		"R Leg": {
+			"R Leg": { "x": 215.5, "y": -350, "width": 97, "height": 106 }
+		},
+		"Scarf": {
+			"Scarf": { "x": 263.5, "y": -234, "width": 271, "height": 288 }
+		},
+		"Head": {
+			"Head": { "x": 165.5, "y": -167, "width": 253, "height": 198 }
+		},
+		"Mouth": {
+			"Mouth": { "x": 169, "y": -208, "width": 260, "height": 142 }
+		},
+		"Layer 33": {
+			"Layer 33": { "x": 98, "y": -272, "width": 198, "height": 186 }
+		},
+		"L Feet": {
+			"L Feet": { "x": 326.5, "y": -403.5, "width": 89, "height": 57 }
+		},
+		"L Leg": {
+			"L Leg": { "x": 330.5, "y": -350, "width": 97, "height": 106 }
+		},
+		"Knife": {
+			"Knife": { "x": 207, "y": -389, "width": 214, "height": 64 }
+		},
+		"L Hand": {
+			"L Hand": { "x": 308, "y": -366, "width": 84, "height": 76 }
+		},
+		"L Arm": {
+			"L Arm": { "x": 314.5, "y": -313.5, "width": 87, "height": 87 }
+		},
+		"L Armpit": {
+			"L Armpit": { "x": 312, "y": -254.5, "width": 96, "height": 107 }
+		},
+		"Layer 34": {
+			"Layer 34": { "x": 207.5, "y": -230, "width": 377, "height": 104 }
+		},
+		"Hat": {
+			"Hat": { "x": 122, "y": -78, "width": 150, "height": 158 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,22 @@
+Bee.png
+size:294,172
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy 2
+bounds:86,99,136,71
+offsets:1,1,138,73
+Layer 116840
+bounds:128,3,91,94
+offsets:1,1,93,96
+Layer 116841
+bounds:224,99,68,71
+offsets:1,1,70,73
+Layer 116842
+bounds:2,13,124,84
+offsets:1,1,126,86
+Layer 116843
+bounds:2,104,82,66
+offsets:1,1,84,68
+Layer 116843 copy
+bounds:221,2,60,95
+offsets:1,2,62,98

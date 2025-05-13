@@ -1,0 +1,35 @@
+Boss1.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Body
+bounds:277,278,108,135
+rotate:90
+Head
+bounds:2,266,273,244
+L Arm
+bounds:246,58,56,53
+L Armpit
+bounds:246,2,42,54
+L Leg
+bounds:461,175,43,55
+Layer 14 copy
+bounds:2,113,324,151
+R Arm
+bounds:414,291,64,39
+R Armpit
+bounds:461,232,35,57
+R Leg
+bounds:461,119,40,54
+fire/Layer 2
+bounds:183,13,61,98
+fire/Layer 3
+bounds:277,388,140,122
+fire/Layer 4
+bounds:2,12,179,99
+fire/Layer 5
+bounds:419,332,178,71
+rotate:90
+sung
+bounds:328,29,247,131
+rotate:90

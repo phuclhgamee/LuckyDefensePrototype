@@ -1,0 +1,32 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap22/Enemy/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Ellipse 4 copy 4", "bone": "root", "attachment": "Ellipse 4 copy 4" },
+	{ "name": "Layer 116851", "bone": "root", "attachment": "Layer 116851" },
+	{ "name": "Layer 116852", "bone": "root", "attachment": "Layer 116852" },
+	{ "name": "Layer 116852 copy", "bone": "root", "attachment": "Layer 116852 copy" },
+	{ "name": "Layer 116854", "bone": "root", "attachment": "Layer 116854" }
+],
+"skins": {
+	"default": {
+		"Ellipse 4 copy 4": {
+			"Ellipse 4 copy 4": { "x": 118, "y": -229.5, "width": 138, "height": 73 }
+		},
+		"Layer 116851": {
+			"Layer 116851": { "x": 117, "y": -177, "width": 154, "height": 148 }
+		},
+		"Layer 116852": {
+			"Layer 116852": { "x": 166.5, "y": -66.5, "width": 113, "height": 135 }
+		},
+		"Layer 116852 copy": {
+			"Layer 116852 copy": { "x": 55.5, "y": -66.5, "width": 113, "height": 135 }
+		},
+		"Layer 116854": {
+			"Layer 116854": { "x": 95.5, "y": -183.5, "width": 81, "height": 37 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

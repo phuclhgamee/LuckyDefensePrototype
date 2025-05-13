@@ -1,0 +1,28 @@
+Budda_03.png
+size:364,364
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy 2
+bounds:194,139,138,73
+skin3/L Arm - Smart Object Group
+bounds:52,29,52,41
+skin3/L Armpit
+bounds:2,9,48,61
+skin3/L Hand - Smart Object Group
+bounds:316,41,36,46
+rotate:90
+skin3/Layer 1
+bounds:194,214,148,168
+rotate:90
+skin3/Layer 1408
+bounds:2,72,180,76
+skin3/Layer 30
+bounds:184,11,130,126
+skin3/R Arm - Smart Object Group
+bounds:106,34,55,36
+skin3/R Armpit - Smart Object Group
+bounds:316,79,46,58
+skin3/R Hand - Smart Object Group
+bounds:316,8,39,31
+skin3/Towel
+bounds:2,150,190,212

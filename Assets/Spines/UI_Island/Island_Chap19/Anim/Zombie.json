@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "F:/GAMEE/Vampire_Survivor/Enemies/Zombie/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 6 copy", "bone": "root", "attachment": "Layer 6 copy" },
+	{ "name": "Leg2", "bone": "root", "attachment": "Leg2" },
+	{ "name": "Leg", "bone": "root", "attachment": "Leg" },
+	{ "name": "Layer 4", "bone": "root", "attachment": "Layer 4" },
+	{ "name": "Layer 6", "bone": "root", "attachment": "Layer 6" },
+	{ "name": "Group 1", "bone": "root", "attachment": "Group 1" }
+],
+"skins": {
+	"default": {
+		"Layer 6 copy": {
+			"Layer 6 copy": { "x": 162, "y": -132, "width": 72, "height": 98 }
+		},
+		"Leg2": {
+			"Leg2": { "x": 95.5, "y": -181.5, "width": 47, "height": 67 }
+		},
+		"Leg": {
+			"Leg": { "x": 57, "y": -180.5, "width": 52, "height": 67 }
+		},
+		"Layer 4": {
+			"Layer 4": { "x": 111, "y": -109.5, "width": 138, "height": 129 }
+		},
+		"Layer 6": {
+			"Layer 6": { "x": 103.5, "y": -129.5, "width": 59, "height": 103 }
+		},
+		"Group 1": {
+			"Group 1": { "x": 171, "y": -68.5, "width": 132, "height": 139 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

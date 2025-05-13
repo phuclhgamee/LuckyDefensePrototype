@@ -1,0 +1,53 @@
+char_valkyrie_ultimate.png
+size:576,532
+filter:Linear,Linear
+pma:true
+Group 12
+bounds:178,52,124,67
+Group 13
+bounds:124,50,52,69
+Layer 7068
+bounds:96,2,31,36
+Layer 7068 copy
+bounds:513,157,29,31
+Layer 7165 copy
+bounds:413,190,149,86
+Layer 7223
+bounds:247,2,31,48
+Layer 7223_r
+bounds:129,3,45,43
+rotate:90
+Layer 7227
+bounds:480,153,35,31
+rotate:90
+Layer 7227_r
+bounds:445,150,33,38
+Layer 7237
+bounds:213,2,32,48
+Layer 7240
+bounds:174,5,43,37
+rotate:90
+Layer 7241
+bounds:280,8,30,42
+Layer 7242
+bounds:413,138,30,50
+Layer 7252
+bounds:413,278,158,121
+Layer 7253
+bounds:438,13,123,121
+rotate:90
+Layer 7257
+bounds:2,19,100,92
+rotate:90
+Layer 7309
+bounds:413,401,129,159
+rotate:90
+blob_shadow
+bounds:96,40,79,26
+rotate:90
+sun
+bounds:2,121,409,409
+w1
+bounds:312,16,124,50
+w2
+bounds:304,68,124,51

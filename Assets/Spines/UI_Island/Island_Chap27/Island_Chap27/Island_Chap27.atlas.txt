@@ -1,0 +1,18 @@
+Island_Chap27.png
+size:464,916
+filter:Linear,Linear
+pma:true
+Island
+bounds:2,362,456,551
+offsets:66,0,522,625
+Layer 15 copy
+bounds:2,101,291,259
+Layer 20
+bounds:295,165,162,195
+Layer 22
+bounds:295,16,166,147
+offsets:1,1,168,149
+Layer 25
+bounds:2,9,75,90
+Layer 26
+bounds:79,2,56,97

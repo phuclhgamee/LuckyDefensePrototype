@@ -1,0 +1,43 @@
+Island_Chap35.png
+size:860,668
+filter:Linear,Linear
+pma:true
+Body
+bounds:514,408,225,257
+Ellipse 4 copy 4
+bounds:514,40,136,71
+offsets:1,1,138,73
+Island_Chap35
+bounds:2,2,510,663
+offsets:52,56,615,776
+L Arm
+bounds:741,409,107,126
+offsets:0,1,108,127
+L Armpit
+bounds:514,113,139,139
+offsets:0,6,139,145
+L Feet
+bounds:780,36,54,64
+L Hand
+bounds:764,256,80,69
+L Leg
+bounds:699,317,63,89
+Layer 15 copy
+bounds:514,254,183,152
+R Arm
+bounds:741,537,116,128
+offsets:1,1,117,130
+R Armpit
+bounds:655,118,137,134
+offsets:0,1,137,135
+R Feet
+bounds:794,102,55,67
+offsets:1,0,56,67
+R Hand
+bounds:764,327,80,80
+offsets:0,0,81,80
+R Leg
+bounds:794,171,63,83
+Wooden_Stick
+bounds:655,56,123,60
+offsets:1,0,124,61

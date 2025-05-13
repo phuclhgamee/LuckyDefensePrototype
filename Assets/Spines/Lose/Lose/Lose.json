@@ -1,0 +1,76 @@
+{ "skeleton": { "images": "C:/Spine project/Lose/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "R_arrow", "bone": "root", "attachment": "R_arrow" },
+	{ "name": "L_arrow", "bone": "root", "attachment": "L_arrow" },
+	{ "name": "Tail1", "bone": "root", "attachment": "Tail1" },
+	{ "name": "Tail2", "bone": "root", "attachment": "Tail2" },
+	{ "name": "Sword1", "bone": "root", "attachment": "Sword1" },
+	{ "name": "Sword2", "bone": "root", "attachment": "Sword2" },
+	{ "name": "Sword3", "bone": "root", "attachment": "Sword3" },
+	{ "name": "R_arrow2", "bone": "root", "attachment": "R_arrow2" },
+	{ "name": "Shield", "bone": "root", "attachment": "Shield" },
+	{ "name": "M_towel", "bone": "root", "attachment": "M_towel" },
+	{ "name": "R_Axe", "bone": "root", "attachment": "R_Axe" },
+	{ "name": "L_Axe", "bone": "root", "attachment": "L_Axe" },
+	{ "name": "DEFEAT", "bone": "root", "attachment": "DEFEAT" },
+	{ "name": "R_towel", "bone": "root", "attachment": "R_towel" },
+	{ "name": "L_towel", "bone": "root", "attachment": "L_towel" },
+	{ "name": "Head", "bone": "root", "attachment": "Head" }
+],
+"skins": {
+	"default": {
+		"R_arrow": {
+			"R_arrow": { "x": 709, "y": -153, "width": 172, "height": 220 }
+		},
+		"L_arrow": {
+			"L_arrow": { "x": 262, "y": -186, "width": 186, "height": 210 }
+		},
+		"Tail1": {
+			"Tail1": { "x": 345.5, "y": -139.5, "width": 147, "height": 205 }
+		},
+		"Tail2": {
+			"Tail2": { "x": 748, "y": -280.5, "width": 210, "height": 141 }
+		},
+		"Sword1": {
+			"Sword1": { "x": 418, "y": -707.5, "width": 134, "height": 231 }
+		},
+		"Sword2": {
+			"Sword2": { "x": 515, "y": -772, "width": 102, "height": 250 }
+		},
+		"Sword3": {
+			"Sword3": { "x": 652, "y": -658, "width": 170, "height": 150 }
+		},
+		"R_arrow2": {
+			"R_arrow2": { "x": 669.5, "y": -710.5, "width": 153, "height": 235 }
+		},
+		"Shield": {
+			"Shield": { "x": 515.5, "y": -470.5, "width": 567, "height": 499 }
+		},
+		"M_towel": {
+			"M_towel": { "x": 524.5, "y": -651, "width": 311, "height": 220 }
+		},
+		"R_Axe": {
+			"R_Axe": { "x": 821, "y": -319, "width": 380, "height": 302 }
+		},
+		"L_Axe": {
+			"L_Axe": { "x": 218, "y": -333, "width": 380, "height": 302 }
+		},
+		"DEFEAT": {
+			"DEFEAT": { "x": 496, "y": -542, "width": 670, "height": 214 }
+		},
+		"R_towel": {
+			"R_towel": { "x": 762.5, "y": -638, "width": 141, "height": 434 }
+		},
+		"L_towel": {
+			"L_towel": { "x": 261.5, "y": -645, "width": 175, "height": 476 }
+		},
+		"Head": {
+			"Head": { "x": 517.5, "y": -301, "width": 287, "height": 354 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

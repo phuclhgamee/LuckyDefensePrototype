@@ -1,0 +1,19 @@
+Creep.png
+size:481,162
+filter:Linear,Linear
+pma:true
+Group 42
+bounds:310,5,155,116
+offsets:1,0,156,117
+rotate:90
+Group 43
+bounds:2,2,158,178
+offsets:1,1,160,180
+rotate:90
+Group 44
+bounds:182,2,126,158
+offsets:1,2,128,161
+Layer 1191
+bounds:428,98,62,51
+offsets:1,1,65,53
+rotate:90

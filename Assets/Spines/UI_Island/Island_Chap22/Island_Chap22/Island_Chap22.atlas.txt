@@ -1,0 +1,20 @@
+Island_Chap22.png
+size:1016,1000
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy 4
+bounds:862,502,136,71
+offsets:1,1,138,73
+Island
+bounds:2,2,858,993
+offsets:104,109,1064,1209
+Layer 116851
+bounds:862,849,152,146
+offsets:1,1,154,148
+Layer 116852
+bounds:862,575,113,135
+Layer 116852 copy
+bounds:862,712,113,135
+Layer 116854
+bounds:862,465,79,35
+offsets:1,1,81,37

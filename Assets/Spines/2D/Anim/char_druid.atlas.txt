@@ -1,0 +1,30 @@
+char_druid.png
+size:512,512
+filter:Linear,Linear
+Ellipse 2 copy 11
+bounds:2,2,96,39
+offsets:1,1,98,41
+Layer 1189
+bounds:2,135,146,146
+offsets:0,1,147,147
+Layer 1194
+bounds:115,27,80,106
+offsets:1,0,83,106
+Layer 1195
+bounds:150,144,56,60
+offsets:10,8,75,81
+Layer 1196
+bounds:208,166,22,38
+offsets:1,1,24,40
+Layer 1196 copy
+bounds:197,104,22,38
+offsets:1,1,24,40
+Layer 1197
+bounds:200,206,48,75
+offsets:1,1,50,77
+Layer 1197 copy
+bounds:150,206,48,75
+offsets:1,1,50,77
+Layer 1198
+bounds:2,43,111,90
+offsets:2,2,120,97

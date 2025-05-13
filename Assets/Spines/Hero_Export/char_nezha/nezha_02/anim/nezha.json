@@ -1,0 +1,68 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Heroes/Anim_Hero/nezha/anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 7466", "bone": "root", "attachment": "Layer 7466" },
+	{ "name": "Layer 7405 copy 4", "bone": "root", "attachment": "Layer 7405 copy 4" },
+	{ "name": "Layer 7405 copy 3", "bone": "root", "attachment": "Layer 7405 copy 3" },
+	{ "name": "Cloth1", "bone": "root", "attachment": "Cloth1" },
+	{ "name": "Cloth2", "bone": "root", "attachment": "Cloth2" },
+	{ "name": "Weapon", "bone": "root", "attachment": "Weapon" },
+	{ "name": "LegL1", "bone": "root", "attachment": "LegL1" },
+	{ "name": "LegL2", "bone": "root", "attachment": "LegL2" },
+	{ "name": "LegR1", "bone": "root", "attachment": "LegR1" },
+	{ "name": "LegR2", "bone": "root", "attachment": "LegR2" },
+	{ "name": "HandL", "bone": "root", "attachment": "HandL" },
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "HandR", "bone": "root", "attachment": "HandR" },
+	{ "name": "Head", "bone": "root", "attachment": "Head" }
+],
+"skins": {
+	"default": {
+		"Layer 7466": {
+			"Layer 7466": { "x": 248.5, "y": -474, "width": 165, "height": 62 }
+		},
+		"Layer 7405 copy 4": {
+			"Layer 7405 copy 4": { "x": 290, "y": -402, "width": 82, "height": 112 }
+		},
+		"Layer 7405 copy 3": {
+			"Layer 7405 copy 3": { "x": 207, "y": -406, "width": 82, "height": 112 }
+		},
+		"Cloth1": {
+			"Cloth1": { "x": 164.5, "y": -187, "width": 245, "height": 306 }
+		},
+		"Cloth2": {
+			"Cloth2": { "x": 364, "y": -92, "width": 140, "height": 186 }
+		},
+		"Weapon": {
+			"Weapon": { "x": 221.5, "y": -306.5, "width": 445, "height": 373 }
+		},
+		"LegL1": {
+			"LegL1": { "x": 305.5, "y": -371, "width": 33, "height": 48 }
+		},
+		"LegL2": {
+			"LegL2": { "x": 303, "y": -351.5, "width": 68, "height": 55 }
+		},
+		"LegR1": {
+			"LegR1": { "x": 246, "y": -381.5, "width": 44, "height": 51 }
+		},
+		"LegR2": {
+			"LegR2": { "x": 258, "y": -350.5, "width": 82, "height": 63 }
+		},
+		"HandL": {
+			"HandL": { "x": 344.5, "y": -321, "width": 89, "height": 82 }
+		},
+		"Body": {
+			"Body": { "x": 276.5, "y": -315, "width": 123, "height": 104 }
+		},
+		"HandR": {
+			"HandR": { "x": 197.5, "y": -321, "width": 103, "height": 90 }
+		},
+		"Head": {
+			"Head": { "x": 266.5, "y": -187.5, "width": 263, "height": 219 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

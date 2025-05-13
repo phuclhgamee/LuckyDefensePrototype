@@ -1,0 +1,56 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap17/Boss_Chap17/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "R Leg", "bone": "root", "attachment": "R Leg" },
+	{ "name": "R Feet", "bone": "root", "attachment": "R Feet" },
+	{ "name": "R Armpit", "bone": "root", "attachment": "R Armpit" },
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "L Leg", "bone": "root", "attachment": "L Leg" },
+	{ "name": "L Feet", "bone": "root", "attachment": "L Feet" },
+	{ "name": "L Armpit", "bone": "root", "attachment": "L Armpit" },
+	{ "name": "Eyes", "bone": "root", "attachment": "Eyes" },
+	{ "name": "Layer 18", "bone": "root", "attachment": "Layer 18" },
+	{ "name": "Weapon", "bone": "root", "attachment": "Weapon" },
+	{ "name": "L Arm", "bone": "root", "attachment": "L Arm" }
+],
+"skins": {
+	"default": {
+		"R Leg": {
+			"R Leg": { "x": 149, "y": -225, "width": 56, "height": 66 }
+		},
+		"R Feet": {
+			"R Feet": { "x": 153, "y": -267.5, "width": 86, "height": 115 }
+		},
+		"R Armpit": {
+			"R Armpit": { "x": 97.5, "y": -144.5, "width": 79, "height": 135 }
+		},
+		"Body": {
+			"Body": { "x": 196, "y": -154, "width": 234, "height": 220 }
+		},
+		"L Leg": {
+			"L Leg": { "x": 259.5, "y": -226, "width": 57, "height": 66 }
+		},
+		"L Feet": {
+			"L Feet": { "x": 262.5, "y": -267.5, "width": 87, "height": 115 }
+		},
+		"L Armpit": {
+			"L Armpit": { "x": 304.5, "y": -148.5, "width": 87, "height": 137 }
+		},
+		"Eyes": {
+			"Eyes": { "x": 187.5, "y": -113, "width": 173, "height": 170 }
+		},
+		"Layer 18": {
+			"Layer 18": { "x": 97.5, "y": -233.5, "width": 141, "height": 199 }
+		},
+		"Weapon": {
+			"Weapon": { "x": 224, "y": -282, "width": 266, "height": 124 }
+		},
+		"L Arm": {
+			"L Arm": { "x": 304.5, "y": -250, "width": 101, "height": 148 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

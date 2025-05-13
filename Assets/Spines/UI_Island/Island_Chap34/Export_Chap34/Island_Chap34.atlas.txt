@@ -1,0 +1,39 @@
+Island_Chap34.png
+size:976,889
+filter:Linear,Linear
+pma:true
+Body
+bounds:716,434,167,210
+offsets:1,1,169,212
+Fire/Layer 1
+bounds:795,346,63,86
+Fire/Layer 2
+bounds:788,178,60,83
+offsets:0,1,61,84
+Fire/Layer 3
+bounds:779,93,60,83
+Fire/Layer 4
+bounds:716,34,60,84
+Fire/Layer 5
+bounds:716,120,61,84
+Fire/Layer 6
+bounds:860,347,58,85
+Fire/Layer 7
+bounds:885,451,61,86
+Fire/Layer 8
+bounds:795,263,61,81
+Head
+bounds:716,646,258,241
+offsets:1,1,260,243
+Island_Chap34
+bounds:2,2,712,885
+offsets:70,97,868,1079
+L Arm
+bounds:716,309,77,123
+offsets:1,1,79,125
+L Leg
+bounds:716,206,70,101
+offsets:2,1,73,103
+R Leg
+bounds:885,539,89,105
+offsets:1,1,91,107

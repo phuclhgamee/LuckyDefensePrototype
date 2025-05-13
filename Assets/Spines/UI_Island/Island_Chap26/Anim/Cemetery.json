@@ -1,0 +1,28 @@
+{ "skeleton": { "images": "F:/GAMEE/Vampire_Survivor/Map/Cemetery/Cemetery/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "a", "bone": "root", "attachment": "a" },
+	{ "name": "b", "bone": "root", "attachment": "b" },
+	{ "name": "c", "bone": "root", "attachment": "c" },
+	{ "name": "Layer 1 copy", "bone": "root", "attachment": "Layer 1 copy" }
+],
+"skins": {
+	"default": {
+		"a": {
+			"a": { "x": 468.5, "y": -547.5, "width": 481, "height": 571 }
+		},
+		"b": {
+			"b": { "x": 386.5, "y": -479.5, "width": 77, "height": 77 }
+		},
+		"c": {
+			"c": { "x": 462.5, "y": -253.5, "width": 113, "height": 107 }
+		},
+		"Layer 1 copy": {
+			"Layer 1 copy": { "x": 436, "y": -581, "width": 76, "height": 58 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

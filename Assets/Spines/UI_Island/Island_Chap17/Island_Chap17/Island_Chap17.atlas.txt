@@ -1,0 +1,23 @@
+Island_Chap17.png
+size:802,982
+filter:Linear,Linear
+pma:true
+scale:0.8
+Body
+bounds:718,820,73,72
+Group 27
+bounds:2,2,714,978
+Head
+bounds:718,894,82,86
+Layer 1
+bounds:718,664,40,22
+Layer 116671
+bounds:718,633,20,29
+Layer 116673
+bounds:718,768,59,50
+Layer 116674
+bounds:718,728,38,38
+Layer 653 copy
+bounds:718,688,38,38
+Layer 656 copy
+bounds:718,602,20,29

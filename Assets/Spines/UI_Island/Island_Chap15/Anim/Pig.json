@@ -1,0 +1,44 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap15/Pig/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Group 4", "bone": "root", "attachment": "Group 4" },
+	{ "name": "Group 2 copy 2", "bone": "root", "attachment": "Group 2 copy 2" },
+	{ "name": "Group 2 copy 3", "bone": "root", "attachment": "Group 2 copy 3" },
+	{ "name": "Group 1", "bone": "root", "attachment": "Group 1" },
+	{ "name": "Group 2", "bone": "root", "attachment": "Group 2" },
+	{ "name": "Group 2 copy", "bone": "root", "attachment": "Group 2 copy" },
+	{ "name": "Group 3", "bone": "root", "attachment": "Group 3" },
+	{ "name": "Layer 1144", "bone": "root", "attachment": "Layer 1144" }
+],
+"skins": {
+	"default": {
+		"Group 4": {
+			"Group 4": { "x": 219.5, "y": -148.5, "width": 105, "height": 87 }
+		},
+		"Group 2 copy 2": {
+			"Group 2 copy 2": { "x": 193.5, "y": -333.5, "width": 67, "height": 71 }
+		},
+		"Group 2 copy 3": {
+			"Group 2 copy 3": { "x": 295.5, "y": -337, "width": 59, "height": 62 }
+		},
+		"Group 1": {
+			"Group 1": { "x": 238, "y": -248, "width": 324, "height": 240 }
+		},
+		"Group 2": {
+			"Group 2": { "x": 135, "y": -335, "width": 70, "height": 74 }
+		},
+		"Group 2 copy": {
+			"Group 2 copy": { "x": 241, "y": -338.5, "width": 62, "height": 65 }
+		},
+		"Group 3": {
+			"Group 3": { "x": 130, "y": -165, "width": 124, "height": 86 }
+		},
+		"Layer 1144": {
+			"Layer 1144": { "x": 308.5, "y": -89.5, "width": 183, "height": 53 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,17 @@
+Enemy2.png
+size:348,348
+filter:Linear,Linear
+pma:true
+Body
+bounds:174,167,146,177
+Head
+bounds:2,119,170,225
+L Arm
+bounds:231,32,74,133
+L Arm copy
+bounds:2,2,115,108
+rotate:90
+L Leg
+bounds:112,9,55,108
+R Leg
+bounds:169,13,60,104

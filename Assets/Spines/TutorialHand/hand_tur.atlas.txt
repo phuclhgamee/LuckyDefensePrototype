@@ -1,0 +1,13 @@
+hand_tur.png
+size:220,220
+filter:Linear,Linear
+pma:true
+Group 1
+bounds:147,139,61,78
+Group 2
+bounds:147,72,65,58
+rotate:90
+Group 3
+bounds:2,63,143,154
+Layer 172
+bounds:2,2,98,59

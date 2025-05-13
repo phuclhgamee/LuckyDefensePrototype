@@ -1,0 +1,37 @@
+Island_Chap20.png
+size:988,888
+filter:Linear,Linear
+pma:true
+Body
+bounds:704,651,201,234
+Island
+bounds:2,2,700,883
+offsets:111,111,924,1100
+L Arm
+bounds:907,762,68,123
+offsets:0,0,69,123
+L Armpit
+bounds:857,424,120,150
+offsets:1,1,122,152
+L Feet
+bounds:704,269,74,67
+L Leg
+bounds:907,576,75,91
+offsets:1,1,78,93
+Layer 19
+bounds:704,494,151,155
+offsets:1,1,153,157
+R Arm
+bounds:818,316,114,106
+R Armpit
+bounds:704,338,112,154
+offsets:1,1,114,156
+R Feet
+bounds:704,109,74,66
+offsets:0,1,75,67
+R Leg
+bounds:907,669,76,91
+offsets:1,1,79,93
+Weapon
+bounds:704,177,282,90
+offsets:1,1,284,93

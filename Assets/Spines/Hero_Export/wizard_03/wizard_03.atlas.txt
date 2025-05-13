@@ -1,0 +1,42 @@
+wizard_03.png
+size:532,532
+filter:Linear,Linear
+pma:true
+Layer 116601
+bounds:316,13,96,50
+Layer 116603
+bounds:344,229,64,128
+Layer 116605
+bounds:471,46,27,23
+Layer 116611
+bounds:254,11,31,31
+Layer 116612
+bounds:287,13,29,27
+rotate:90
+blob_shadow
+bounds:173,16,79,26
+ef_11_0000
+bounds:2,359,169,169
+ef_11_0001
+bounds:2,188,169,169
+ef_11_0002
+bounds:2,17,169,169
+ef_11_0003
+bounds:173,359,169,169
+ef_11_0004
+bounds:344,359,169,169
+ef_11_0005
+bounds:173,188,169,169
+skin2/Layer 1336
+bounds:414,2,61,55
+rotate:90
+skin2/Layer 1337
+bounds:430,71,60,45
+skin2/Layer 1341
+bounds:173,44,142,137
+rotate:90
+skin2/Layer 1343 copy 2
+bounds:312,65,121,116
+rotate:90
+skin2/Layer 1354
+bounds:430,118,72,239

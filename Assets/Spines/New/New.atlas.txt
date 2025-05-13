@@ -1,0 +1,7 @@
+New.png
+size:124,124
+filter:Linear,Linear
+pma:true
+scale:0.6
+New
+bounds:2,2,120,120

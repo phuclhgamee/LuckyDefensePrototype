@@ -1,0 +1,23 @@
+char_inventor_03.png
+size:264,264
+filter:Linear,Linear
+pma:true
+Ellipse 2 copy
+bounds:106,23,102,42
+Layer 1138
+bounds:210,40,25,29
+rotate:90
+Layer 83
+bounds:210,11,22,27
+skin2/Ellipse 1 copy
+bounds:2,77,167,184
+skin2/Layer 1139
+bounds:171,67,80,103
+skin2/Layer 79
+bounds:171,172,90,89
+skin2/Layer 80
+bounds:54,2,73,50
+rotate:90
+skin2/Layer 80 copy
+bounds:2,2,73,50
+rotate:90

@@ -1,0 +1,47 @@
+chara_valkyrie_02.png
+size:524,280
+filter:Linear,Linear
+pma:true
+Group 12
+bounds:2,7,144,79
+Group 13
+bounds:176,2,41,55
+rotate:90
+Layer 7068
+bounds:305,3,35,34
+rotate:90
+Layer 7068 copy
+bounds:341,7,29,31
+Layer 7165 copy
+bounds:2,88,190,86
+rotate:90
+Layer 7223
+bounds:283,78,38,38
+Layer 7223_r
+bounds:323,40,37,37
+Layer 7227
+bounds:265,10,38,39
+Layer 7227_r
+bounds:323,79,38,37
+Layer 7237
+bounds:176,45,36,56
+Layer 7240
+bounds:214,47,54,35
+rotate:90
+Layer 7241
+bounds:233,3,30,42
+Layer 7242
+bounds:251,51,30,50
+Layer 7252
+bounds:264,118,160,123
+rotate:90
+Layer 7253
+bounds:389,2,125,123
+rotate:90
+Layer 7257
+bounds:389,129,132,149
+Layer 7309
+bounds:90,103,172,175
+blob_shadow
+bounds:148,22,79,26
+rotate:90

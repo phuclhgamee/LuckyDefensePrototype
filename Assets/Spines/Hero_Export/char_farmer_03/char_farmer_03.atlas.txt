@@ -1,0 +1,26 @@
+char_farmer_03.png
+size:288,288
+filter:Linear,Linear
+pma:true
+Ellipse 2 copy 12
+bounds:232,194,89,37
+rotate:90
+Layer 1225
+bounds:2,19,110,93
+Layer 1231
+bounds:210,23,22,34
+Layer 1231 copy
+bounds:210,59,23,34
+Layer 1232
+bounds:232,95,51,44
+Layer 1232 copy
+bounds:232,141,51,44
+rotate:90
+Layer 1368
+bounds:114,17,79,94
+rotate:90
+Layer 1370
+bounds:133,98,185,97
+rotate:90
+Layer 1372
+bounds:2,114,129,169

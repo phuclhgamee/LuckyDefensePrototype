@@ -1,0 +1,57 @@
+Island_Chap23.png
+size:864,648
+filter:Linear,Linear
+pma:true
+scale:0.6
+Ellipse 1
+bounds:640,490,154,154
+Island
+bounds:2,2,636,642
+offsets:69,70,773,779
+Layer 116707
+bounds:640,143,119,112
+Layer 116707 copy 2
+bounds:640,257,119,112
+Layer 1167071 copy 4
+bounds:640,7,118,134
+Layer 116709
+bounds:640,371,133,117
+Layer 116713 copy
+bounds:830,342,29,58
+Layer 116713 copy 2
+bounds:830,402,29,58
+Layer 116714
+bounds:775,332,52,59
+Layer 116714 copy
+bounds:811,76,50,61
+offsets:1,0,51,61
+Layer 116716
+bounds:760,49,49,92
+Layer 116716 copy
+bounds:811,139,50,91
+offsets:1,0,51,92
+Layer 116728
+bounds:761,271,98,59
+offsets:0,7,106,68
+Layer 116729
+bounds:760,9,38,38
+blob_shadow1 copy 2
+bounds:761,232,95,37
+blood/blood_05_0001
+bounds:811,9,43,65
+offsets:13,0,60,80
+blood/blood_05_0002
+bounds:775,393,53,67
+offsets:3,4,60,80
+blood/blood_05_0003
+bounds:796,462,59,66
+offsets:0,7,60,80
+blood/blood_05_0004
+bounds:796,587,60,57
+offsets:0,23,60,80
+blood/blood_05_0005
+bounds:796,530,60,55
+offsets:0,25,60,80
+blood/blood_05_0006
+bounds:761,198,45,32
+offsets:15,48,60,80

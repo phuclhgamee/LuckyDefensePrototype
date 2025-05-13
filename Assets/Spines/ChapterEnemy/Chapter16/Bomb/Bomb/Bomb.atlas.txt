@@ -1,0 +1,15 @@
+Bomb.png
+size:563,187
+filter:Linear,Linear
+pma:true
+Layer 116878
+bounds:183,18,147,167
+Layer 116879 copy
+bounds:332,88,221,97
+Layer 116881 copy
+bounds:332,2,182,84
+Layer 116882
+bounds:516,19,45,67
+Ring_08
+bounds:2,5,179,180
+offsets:84,78,338,338

@@ -1,0 +1,15 @@
+Enemy3.png
+size:436,436
+filter:Linear,Linear
+pma:true
+Body
+bounds:264,221,169,212
+Head
+bounds:2,190,260,243
+L Arm
+bounds:2,109,79,125
+rotate:90
+L Leg
+bounds:357,116,73,103
+R Leg
+bounds:264,112,91,107

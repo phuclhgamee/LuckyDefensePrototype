@@ -1,0 +1,57 @@
+Chimera.png
+size:804,804
+filter:Linear,Linear
+pma:true
+Group 19
+bounds:370,139,186,198
+rotate:90
+Group 20
+bounds:598,555,188,247
+Group 25
+bounds:552,41,75,78
+Group 26
+bounds:239,109,112,126
+rotate:90
+Layer 230 - Smart Object Group
+bounds:573,259,103,156
+rotate:90
+Layer 230 - Smart Object Group copy
+bounds:237,17,90,115
+rotate:90
+Layer 245
+bounds:2,14,195,233
+rotate:90
+Layer 245 copy
+bounds:2,211,235,287
+Layer 271
+bounds:735,431,122,59
+rotate:90
+Layer 277 - Smart Object Group
+bounds:629,27,95,45
+Layer 277 - Smart Object Group copy
+bounds:629,74,95,45
+Layer 278 - Smart Object Group
+bounds:726,108,53,73
+Layer 278 - Smart Object Group copy
+bounds:726,183,53,74
+Layer 280
+bounds:239,223,275,129
+rotate:90
+Layer 281
+bounds:370,327,201,217
+Layer 282
+bounds:573,364,160,180
+Layer 288
+bounds:330,546,266,256
+Layer 289
+bounds:2,500,326,302
+Layer 290
+bounds:491,17,120,59
+rotate:90
+c
+bounds:367,28,109,122
+rotate:90
+mouth2
+bounds:570,121,154,136
+v
+bounds:731,285,71,77

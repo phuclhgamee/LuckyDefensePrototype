@@ -1,0 +1,44 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap16/Tree/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Ellipse 4 copy 7", "bone": "root", "attachment": "Ellipse 4 copy 7" },
+	{ "name": "Layer 116861 copy", "bone": "root", "attachment": "Layer 116861 copy" },
+	{ "name": "Layer 116860", "bone": "root", "attachment": "Layer 116860" },
+	{ "name": "Layer 116861", "bone": "root", "attachment": "Layer 116861" },
+	{ "name": "Layer 116855", "bone": "root", "attachment": "Layer 116855" },
+	{ "name": "Layer 116858", "bone": "root", "attachment": "Layer 116858" },
+	{ "name": "Layer 116859", "bone": "root", "attachment": "Layer 116859" },
+	{ "name": "Layer 116856", "bone": "root", "attachment": "Layer 116856" }
+],
+"skins": {
+	"default": {
+		"Ellipse 4 copy 7": {
+			"Ellipse 4 copy 7": { "x": 224, "y": -298.5, "width": 214, "height": 113 }
+		},
+		"Layer 116861 copy": {
+			"Layer 116861 copy": { "x": 159.5, "y": -178, "width": 169, "height": 122 }
+		},
+		"Layer 116860": {
+			"Layer 116860": { "x": 226, "y": -200, "width": 192, "height": 190 }
+		},
+		"Layer 116861": {
+			"Layer 116861": { "x": 331.5, "y": -178, "width": 169, "height": 122 }
+		},
+		"Layer 116855": {
+			"Layer 116855": { "x": 121.5, "y": -90, "width": 245, "height": 182 }
+		},
+		"Layer 116858": {
+			"Layer 116858": { "x": 163, "y": -52, "width": 54, "height": 64 }
+		},
+		"Layer 116859": {
+			"Layer 116859": { "x": 48, "y": -110.5, "width": 68, "height": 93 }
+		},
+		"Layer 116856": {
+			"Layer 116856": { "x": 158.5, "y": -32, "width": 75, "height": 64 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

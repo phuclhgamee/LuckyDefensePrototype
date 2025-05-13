@@ -1,0 +1,43 @@
+Island_Chap29.png
+size:1072,1048
+filter:Linear,Linear
+pma:true
+Body
+bounds:843,789,225,257
+Ellipse 4 copy 4
+bounds:843,285,136,71
+offsets:1,1,138,73
+Island_Chap29
+bounds:2,2,839,1044
+offsets:89,95,1014,1222
+L Arm
+bounds:961,95,107,126
+offsets:0,1,108,127
+L Armpit
+bounds:843,494,139,139
+offsets:0,6,139,145
+L Feet
+bounds:984,500,54,64
+L Hand
+bounds:843,22,80,69
+L Leg
+bounds:981,267,63,89
+Layer 15 copy
+bounds:843,635,183,152
+R Arm
+bounds:843,93,116,128
+offsets:1,1,117,130
+R Armpit
+bounds:843,358,137,134
+offsets:0,1,137,135
+R Feet
+bounds:984,566,55,67
+offsets:1,0,56,67
+R Hand
+bounds:961,13,80,80
+offsets:0,0,81,80
+R Leg
+bounds:982,409,63,83
+Wooden_Stick
+bounds:843,223,123,60
+offsets:1,0,124,61

@@ -1,0 +1,12 @@
+turret.png
+size:252,252
+filter:Linear,Linear
+pma:true
+Layer 219
+bounds:2,66,189,184
+Layer 246
+bounds:2,11,51,53
+Layer 247
+bounds:193,170,45,38
+Layer 248
+bounds:193,210,57,40

@@ -1,0 +1,56 @@
+{ "skeleton": { "images": "F:/GAMEE/OLD/Survivor/Enemy/Chap36/Island_Chap36/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "R_Leg", "bone": "root", "attachment": "R_Leg" },
+	{ "name": "R_Feet", "bone": "root", "attachment": "R_Feet" },
+	{ "name": "L_Leg", "bone": "root", "attachment": "L_Leg" },
+	{ "name": "L_Feet", "bone": "root", "attachment": "L_Feet" },
+	{ "name": "R_Arm", "bone": "root", "attachment": "R_Arm" },
+	{ "name": "R_Hand", "bone": "root", "attachment": "R_Hand" },
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "Weapon", "bone": "root", "attachment": "Weapon" },
+	{ "name": "Head", "bone": "root", "attachment": "Head" },
+	{ "name": "L_Arm", "bone": "root", "attachment": "L_Arm" },
+	{ "name": "L_Hand", "bone": "root", "attachment": "L_Hand" }
+],
+"skins": {
+	"default": {
+		"R_Leg": {
+			"R_Leg": { "x": 53, "y": -147.5, "width": 16, "height": 23 }
+		},
+		"R_Feet": {
+			"R_Feet": { "x": 45.5, "y": -167.5, "width": 27, "height": 31 }
+		},
+		"L_Leg": {
+			"L_Leg": { "x": 93, "y": -148, "width": 18, "height": 24 }
+		},
+		"L_Feet": {
+			"L_Feet": { "x": 91, "y": -169, "width": 26, "height": 32 }
+		},
+		"R_Arm": {
+			"R_Arm": { "x": 44, "y": -100, "width": 28, "height": 36 }
+		},
+		"R_Hand": {
+			"R_Hand": { "x": 32.5, "y": -130, "width": 53, "height": 60 }
+		},
+		"Body": {
+			"Body": { "x": 80.5, "y": -99.5, "width": 91, "height": 95 }
+		},
+		"Weapon": {
+			"Weapon": { "x": 96.5, "y": -132.5, "width": 115, "height": 45 }
+		},
+		"Head": {
+			"Head": { "x": 79, "y": -47.5, "width": 72, "height": 77 }
+		},
+		"L_Arm": {
+			"L_Arm": { "x": 125, "y": -93.5, "width": 34, "height": 31 }
+		},
+		"L_Hand": {
+			"L_Hand": { "x": 130.5, "y": -121.5, "width": 35, "height": 61 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

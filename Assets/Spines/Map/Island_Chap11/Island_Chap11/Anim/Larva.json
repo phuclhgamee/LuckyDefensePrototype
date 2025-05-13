@@ -1,0 +1,32 @@
+{ "skeleton": { "images": "F:/GAMEE/Vampire_Survivor/Enemies/Map Blizzard/Larva/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 3", "bone": "root", "attachment": "Layer 3" },
+	{ "name": "Layer 1", "bone": "root", "attachment": "Layer 1" },
+	{ "name": "leg", "bone": "root", "attachment": "leg" },
+	{ "name": "Layer 2", "bone": "root", "attachment": "Layer 2" },
+	{ "name": "Layer 4", "bone": "root", "attachment": "Layer 4" }
+],
+"skins": {
+	"default": {
+		"Layer 3": {
+			"Layer 3": { "x": 165, "y": -88.5, "width": 70, "height": 59 }
+		},
+		"Layer 1": {
+			"Layer 1": { "x": 90.5, "y": -61.5, "width": 183, "height": 125 }
+		},
+		"leg": {
+			"leg": { "x": 114.5, "y": -113, "width": 81, "height": 56 }
+		},
+		"Layer 2": {
+			"Layer 2": { "x": 52, "y": -107, "width": 24, "height": 60 }
+		},
+		"Layer 4": {
+			"Layer 4": { "x": 17.5, "y": -109, "width": 21, "height": 56 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

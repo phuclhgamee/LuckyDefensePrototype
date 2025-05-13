@@ -1,0 +1,53 @@
+wizard.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Layer 116599
+bounds:204,375,137,133
+offsets:0,2,139,136
+Layer 116601
+bounds:233,172,94,48
+offsets:1,1,96,50
+Layer 116603
+bounds:148,41,64,128
+Layer 116605
+bounds:65,337,25,21
+offsets:1,1,27,23
+Layer 116607
+bounds:137,171,60,49
+offsets:1,3,61,52
+Layer 116609
+bounds:214,55,118,114
+offsets:2,2,122,119
+Layer 116611
+bounds:148,10,29,29
+offsets:1,1,31,31
+Layer 116612
+bounds:323,28,26,25
+offsets:1,1,29,27
+Layer 116613
+bounds:260,11,61,42
+offsets:0,1,62,44
+Layer 116615
+bounds:2,334,61,174
+offsets:2,51,69,265
+blob_shadow
+bounds:179,13,79,26
+ef_11_0000
+bounds:258,318,43,55
+offsets:60,55,169,169
+ef_11_0001
+bounds:137,222,119,136
+offsets:22,21,169,169
+ef_11_0002
+bounds:65,360,137,148
+offsets:14,14,169,169
+ef_11_0003
+bounds:2,2,144,163
+offsets:13,6,169,169
+ef_11_0004
+bounds:2,167,133,165
+offsets:27,4,169,169
+ef_11_0005
+bounds:199,171,32,49
+offsets:128,120,169,169

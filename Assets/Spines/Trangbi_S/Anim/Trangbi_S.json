@@ -1,0 +1,68 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Trangbi_S/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 6955", "bone": "root", "attachment": "Layer 6955" },
+	{ "name": "Layer 6964", "bone": "root", "attachment": "Layer 6964" },
+	{ "name": "Layer 6965", "bone": "root", "attachment": "Layer 6965" },
+	{ "name": "Layer 6962", "bone": "root", "attachment": "Layer 6962" },
+	{ "name": "Layer 6963", "bone": "root", "attachment": "Layer 6963" },
+	{ "name": "Layer 6961", "bone": "root", "attachment": "Layer 6961" },
+	{ "name": "Rectangle 4 copy", "bone": "root", "attachment": "Rectangle 4 copy" },
+	{ "name": "Rectangle 4 copy 2", "bone": "root", "attachment": "Rectangle 4 copy 2" },
+	{ "name": "Rectangle 4 copy 4", "bone": "root", "attachment": "Rectangle 4 copy 4" },
+	{ "name": "Rectangle 4 copy 6", "bone": "root", "attachment": "Rectangle 4 copy 6" },
+	{ "name": "Rectangle 4 copy 5", "bone": "root", "attachment": "Rectangle 4 copy 5" },
+	{ "name": "Rectangle 4 copy 3", "bone": "root", "attachment": "Rectangle 4 copy 3" },
+	{ "name": "Rectangle 4 copy 7", "bone": "root", "attachment": "Rectangle 4 copy 7" },
+	{ "name": "Layer 6960", "bone": "root", "attachment": "Layer 6960" }
+],
+"skins": {
+	"default": {
+		"Layer 6955": {
+			"Layer 6955": { "x": 321.5, "y": -310, "width": 645, "height": 622 }
+		},
+		"Layer 6964": {
+			"Layer 6964": { "x": 226, "y": -207, "width": 174, "height": 168 }
+		},
+		"Layer 6965": {
+			"Layer 6965": { "x": 395.5, "y": -253.5, "width": 191, "height": 185 }
+		},
+		"Layer 6962": {
+			"Layer 6962": { "x": 160, "y": -326, "width": 124, "height": 128 }
+		},
+		"Layer 6963": {
+			"Layer 6963": { "x": 421, "y": -396.5, "width": 174, "height": 165 }
+		},
+		"Layer 6961": {
+			"Layer 6961": { "x": 272.5, "y": -436.5, "width": 165, "height": 161 }
+		},
+		"Rectangle 4 copy": {
+			"Rectangle 4 copy": { "x": 285, "y": -232, "width": 18, "height": 18 }
+		},
+		"Rectangle 4 copy 2": {
+			"Rectangle 4 copy 2": { "x": 394.5, "y": -401.5, "width": 37, "height": 37 }
+		},
+		"Rectangle 4 copy 4": {
+			"Rectangle 4 copy 4": { "x": 290.5, "y": -165.5, "width": 37, "height": 37 }
+		},
+		"Rectangle 4 copy 6": {
+			"Rectangle 4 copy 6": { "x": 470, "y": -198, "width": 38, "height": 38 }
+		},
+		"Rectangle 4 copy 5": {
+			"Rectangle 4 copy 5": { "x": 310.5, "y": -458.5, "width": 37, "height": 37 }
+		},
+		"Rectangle 4 copy 3": {
+			"Rectangle 4 copy 3": { "x": 190.5, "y": -396.5, "width": 37, "height": 37 }
+		},
+		"Rectangle 4 copy 7": {
+			"Rectangle 4 copy 7": { "x": 479, "y": -226.5, "width": 20, "height": 29 }
+		},
+		"Layer 6960": {
+			"Layer 6960": { "x": 297.5, "y": -329, "width": 341, "height": 358 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

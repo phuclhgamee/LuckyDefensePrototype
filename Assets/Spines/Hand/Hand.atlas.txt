@@ -1,0 +1,9 @@
+Hand.png
+size:628,628
+filter:Linear,Linear
+pma:true
+Layer 2
+bounds:2,216,408,408
+common_hand
+bounds:2,2,212,321
+rotate:90

@@ -1,0 +1,64 @@
+popup_shopS.png
+size:1912,900
+filter:Linear,Linear
+pma:true
+1
+bounds:1139,28,424,411
+offsets:3,3,429,417
+2
+bounds:371,7,368,389
+offsets:2,3,372,395
+3
+bounds:741,25,396,414
+offsets:2,2,400,419
+4
+bounds:1372,529,363,369
+offsets:2,2,367,374
+5
+bounds:2,2,367,394
+offsets:2,2,371,399
+Layer 1
+bounds:2,398,482,500
+offsets:1,29,512,559
+Layer 6967 copy
+bounds:929,441,441,457
+offsets:1,27,469,512
+Layer 6967 copy 2
+bounds:486,441,441,457
+offsets:1,27,469,512
+Rectangle 4 copy 2
+bounds:521,408,31,31
+offsets:1,1,33,33
+Rectangle 4 copy 3
+bounds:554,408,31,31
+offsets:1,1,33,33
+Rectangle 4 copy 4
+bounds:587,408,31,31
+offsets:1,1,33,33
+Rectangle 4 copy 5
+bounds:620,408,31,31
+offsets:1,1,33,33
+Rectangle 4 copy 6
+bounds:486,406,33,33
+offsets:1,1,35,35
+Rectangle 4 copy 7
+bounds:653,415,16,24
+offsets:1,1,18,26
+_0000_Art_Dragon_Suit
+bounds:1737,575,161,172
+offsets:2,2,165,176
+_0002_Art_Dragon_Pendant
+bounds:1737,435,153,138
+offsets:2,2,157,142
+_0002_Art_Dragon_Ring
+bounds:1565,18,264,265
+offsets:5,4,274,273
+_0003_Art_Dragon_Hat
+bounds:1565,379,139,148
+offsets:2,2,143,152
+_0004_Art_Dragon_Glove
+bounds:1706,285,135,148
+offsets:2,2,139,152
+_0005_Art_Dragon_Boots
+bounds:1737,749,173,149
+offsets:2,2,177,153

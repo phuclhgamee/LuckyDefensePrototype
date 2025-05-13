@@ -1,0 +1,35 @@
+Xekeo.png
+size:536,232
+filter:Linear,Linear
+pma:true
+Knight_righthand
+bounds:371,79,74,149
+Layer 2
+bounds:2,99,124,129
+offsets:0,0,125,130
+images/Layer 10
+bounds:128,21,111,102
+offsets:10,36,130,174
+images/Layer 12
+bounds:251,124,118,104
+offsets:6,35,130,174
+images/Layer 14
+bounds:128,125,121,103
+offsets:4,35,130,174
+images/Layer 16
+bounds:2,2,123,95
+offsets:3,39,130,174
+images/Layer 2
+bounds:407,49,33,28
+offsets:49,73,130,174
+images/Layer 4
+bounds:344,15,61,62
+offsets:34,56,130,174
+images/Layer 6
+bounds:447,142,86,86
+offsets:22,44,130,174
+images/Layer 8
+bounds:241,28,101,94
+offsets:14,41,130,174
+knight_head
+bounds:447,65,80,75

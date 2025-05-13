@@ -1,0 +1,76 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Heroes/Anim_Hero/char_GOW/anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 7390", "bone": "root", "attachment": "Layer 7390" },
+	{ "name": "Layer 7355", "bone": "root", "attachment": "Layer 7355" },
+	{ "name": "Layer 7356", "bone": "root", "attachment": "Layer 7356" },
+	{ "name": "Layer 7360", "bone": "root", "attachment": "Layer 7360" },
+	{ "name": "Layer 7362", "bone": "root", "attachment": "Layer 7362" },
+	{ "name": "Layer 7364", "bone": "root", "attachment": "Layer 7364" },
+	{ "name": "Layer 7366", "bone": "root", "attachment": "Layer 7366" },
+	{ "name": "Layer 7376", "bone": "root", "attachment": "Layer 7376" },
+	{ "name": "Layer 7379", "bone": "root", "attachment": "Layer 7379" },
+	{ "name": "Layer 7389", "bone": "root", "attachment": "Layer 7389" },
+	{ "name": "Group 15 copy 2", "bone": "root", "attachment": "Group 15 copy 2" },
+	{ "name": "Layer 7384", "bone": "root", "attachment": "Layer 7384" },
+	{ "name": "Layer 7385", "bone": "root", "attachment": "Layer 7385" },
+	{ "name": "Layer 7386", "bone": "root", "attachment": "Layer 7386" },
+	{ "name": "Group 15 copy", "bone": "root", "attachment": "Group 15 copy" },
+	{ "name": "Layer 7388", "bone": "root", "attachment": "Layer 7388" }
+],
+"skins": {
+	"default": {
+		"Layer 7390": {
+			"Layer 7390": { "x": 110.5, "y": -226, "width": 127, "height": 48 }
+		},
+		"Layer 7355": {
+			"Layer 7355": { "x": 78, "y": -209.5, "width": 24, "height": 43 }
+		},
+		"Layer 7356": {
+			"Layer 7356": { "x": 140, "y": -210.5, "width": 26, "height": 37 }
+		},
+		"Layer 7360": {
+			"Layer 7360": { "x": 191.5, "y": -170.5, "width": 69, "height": 49 }
+		},
+		"Layer 7362": {
+			"Layer 7362": { "x": 161.5, "y": -134, "width": 57, "height": 76 }
+		},
+		"Layer 7364": {
+			"Layer 7364": { "x": 118, "y": -141, "width": 104, "height": 104 }
+		},
+		"Layer 7366": {
+			"Layer 7366": { "x": 110, "y": -190.5, "width": 88, "height": 49 }
+		},
+		"Layer 7376": {
+			"Layer 7376": { "x": 137.5, "y": -68.5, "width": 137, "height": 137 }
+		},
+		"Layer 7379": {
+			"Layer 7379": { "x": 77.5, "y": -132, "width": 73, "height": 72 }
+		},
+		"Layer 7389": {
+			"Layer 7389": { "x": 62.5, "y": -159, "width": 53, "height": 52 }
+		},
+		"Group 15 copy 2": {
+			"Group 15 copy 2": { "x": 242, "y": -145.5, "width": 110, "height": 119 }
+		},
+		"Layer 7384": {
+			"Layer 7384": { "x": 204.5, "y": -161.5, "width": 23, "height": 23 }
+		},
+		"Layer 7385": {
+			"Layer 7385": { "x": 219, "y": -174.5, "width": 26, "height": 37 }
+		},
+		"Layer 7386": {
+			"Layer 7386": { "x": 65, "y": -156.5, "width": 36, "height": 23 }
+		},
+		"Group 15 copy": {
+			"Group 15 copy": { "x": 43, "y": -141.5, "width": 88, "height": 115 }
+		},
+		"Layer 7388": {
+			"Layer 7388": { "x": 62, "y": -174, "width": 50, "height": 40 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

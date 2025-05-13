@@ -1,0 +1,55 @@
+
+char_knight.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Knight_body
+  rotate: true
+  xy: 2, 2
+  size: 98, 105
+  orig: 102, 109
+  offset: 2, 2
+  index: -1
+Knight_lefthand
+  rotate: false
+  xy: 109, 64
+  size: 58, 48
+  orig: 62, 52
+  offset: 2, 2
+  index: -1
+Knight_leg1
+  rotate: true
+  xy: 127, 116
+  size: 18, 27
+  orig: 22, 31
+  offset: 2, 2
+  index: -1
+Knight_leg2
+  rotate: true
+  xy: 101, 114
+  size: 20, 24
+  orig: 24, 28
+  offset: 2, 2
+  index: -1
+Knight_righthand
+  rotate: false
+  xy: 109, 14
+  size: 58, 48
+  orig: 62, 52
+  offset: 2, 2
+  index: -1
+knight_head
+  rotate: false
+  xy: 2, 102
+  size: 97, 128
+  orig: 101, 132
+  offset: 2, 2
+  index: -1
+knight_sword
+  rotate: true
+  xy: 101, 136
+  size: 94, 118
+  orig: 99, 122
+  offset: 2, 2
+  index: -1

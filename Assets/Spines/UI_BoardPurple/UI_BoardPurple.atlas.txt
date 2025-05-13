@@ -1,0 +1,37 @@
+UI_BoardPurple.png
+size:1220,524
+filter:Linear,Linear
+pma:true
+scale:0.6
+Board PURPLE
+bounds:2,25,476,496
+offsets:1,1,478,498
+BrightnessContrast 1 copy
+bounds:747,236,201,285
+Group 1
+bounds:480,219,265,302
+offsets:0,1,265,303
+Layer 11 copy 2
+bounds:989,2,143,253
+Layer 6
+bounds:2,14,386,9
+ffx/Layer 2
+bounds:1134,207,43,48
+offsets:2,2,47,52
+ffx/Layer 3
+bounds:864,12,64,70
+offsets:2,2,68,72
+ffx/Layer 4
+bounds:799,5,63,77
+offsets:2,0,67,79
+ffx/Layer 5
+bounds:930,18,57,64
+offsets:2,2,60,67
+glow5
+bounds:950,257,265,264
+offsets:24,25,314,296
+shop_label_popular copy 2
+bounds:480,2,317,80
+vang
+bounds:480,84,492,133
+offsets:1,0,493,133

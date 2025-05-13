@@ -1,0 +1,19 @@
+Orc.png
+size:205,272
+filter:Linear,Linear
+pma:true
+Layer 116686
+bounds:100,22,103,105
+offsets:1,1,105,107
+Layer 116687
+bounds:2,2,96,125
+Layer 116687 copy 2
+bounds:122,170,79,100
+Layer 116688
+bounds:2,129,118,141
+Layer 116689
+bounds:122,137,42,31
+offsets:1,1,44,33
+Layer 116690
+bounds:166,136,33,32
+offsets:1,1,35,34

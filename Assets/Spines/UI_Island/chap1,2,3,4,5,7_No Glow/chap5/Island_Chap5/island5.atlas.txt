@@ -1,0 +1,34 @@
+island5.png
+size:1080,652
+filter:Linear,Linear
+pma:true
+Ellipse 3 copy 2
+bounds:980,117,95,141
+offsets:1,1,97,143
+Ellipse 7 copy 6
+bounds:803,6,145,52
+offsets:1,1,147,54
+Ellipse 7 copy 7
+bounds:803,578,197,71
+offsets:1,1,199,73
+Layer 116764 copy
+bounds:803,363,189,213
+offsets:1,1,191,215
+Layer 116768 copy
+bounds:803,60,164,156
+offsets:1,1,166,158
+Layer 116770 copy 2
+bounds:994,419,80,157
+offsets:1,1,82,159
+Layer 116770 copy 222
+bounds:994,260,80,157
+offsets:1,1,82,159
+Layer 116828
+bounds:803,218,175,143
+offsets:1,1,177,145
+Rectangle 1
+bounds:2,20,799,629
+offsets:1,3,801,633
+Rectangle 2 copy 4
+bounds:969,2,95,113
+offsets:1,1,97,115

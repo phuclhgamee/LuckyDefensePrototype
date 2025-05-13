@@ -1,0 +1,12 @@
+Snail.png
+size:572,243
+filter:Linear,Linear
+pma:true
+Body
+bounds:426,53,188,144
+rotate:90
+Eyes
+bounds:280,37,204,144
+rotate:90
+Layer 3
+bounds:2,2,276,239

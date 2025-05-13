@@ -1,0 +1,72 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap6/Boss2_Chap6/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Coat 2", "bone": "root", "attachment": "Coat 2" },
+	{ "name": "R Leg", "bone": "root", "attachment": "R Leg" },
+	{ "name": "R Feet", "bone": "root", "attachment": "R Feet" },
+	{ "name": "R Arm", "bone": "root", "attachment": "R Arm" },
+	{ "name": "R Hand", "bone": "root", "attachment": "R Hand" },
+	{ "name": "R Armpit", "bone": "root", "attachment": "R Armpit" },
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "L Leg", "bone": "root", "attachment": "L Leg" },
+	{ "name": "L Feet", "bone": "root", "attachment": "L Feet" },
+	{ "name": "L Armpit", "bone": "root", "attachment": "L Armpit" },
+	{ "name": "L Hand", "bone": "root", "attachment": "L Hand" },
+	{ "name": "L Arm", "bone": "root", "attachment": "L Arm" },
+	{ "name": "Coat 1", "bone": "root", "attachment": "Coat 1" },
+	{ "name": "Face", "bone": "root", "attachment": "Face" },
+	{ "name": "Crown", "bone": "root", "attachment": "Crown" }
+],
+"skins": {
+	"default": {
+		"Coat 2": {
+			"Coat 2": { "x": 154.5, "y": -210, "width": 283, "height": 278 }
+		},
+		"R Leg": {
+			"R Leg": { "x": 104.5, "y": -278.5, "width": 75, "height": 105 }
+		},
+		"R Feet": {
+			"R Feet": { "x": 101, "y": -341.5, "width": 68, "height": 87 }
+		},
+		"R Arm": {
+			"R Arm": { "x": 50.5, "y": -234, "width": 75, "height": 104 }
+		},
+		"R Hand": {
+			"R Hand": { "x": 27, "y": -271.5, "width": 56, "height": 61 }
+		},
+		"R Armpit": {
+			"R Armpit": { "x": 70.5, "y": -170, "width": 71, "height": 116 }
+		},
+		"Body": {
+			"Body": { "x": 142, "y": -195.5, "width": 174, "height": 227 }
+		},
+		"L Leg": {
+			"L Leg": { "x": 178, "y": -277, "width": 76, "height": 104 }
+		},
+		"L Feet": {
+			"L Feet": { "x": 200, "y": -340.5, "width": 66, "height": 87 }
+		},
+		"L Armpit": {
+			"L Armpit": { "x": 213, "y": -154, "width": 86, "height": 120 }
+		},
+		"L Hand": {
+			"L Hand": { "x": 237.5, "y": -275, "width": 59, "height": 54 }
+		},
+		"L Arm": {
+			"L Arm": { "x": 236, "y": -227.5, "width": 54, "height": 111 }
+		},
+		"Coat 1": {
+			"Coat 1": { "x": 134, "y": -130, "width": 258, "height": 142 }
+		},
+		"Face": {
+			"Face": { "x": 100.5, "y": -98, "width": 151, "height": 136 }
+		},
+		"Crown": {
+			"Crown": { "x": 87.5, "y": -43, "width": 111, "height": 88 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

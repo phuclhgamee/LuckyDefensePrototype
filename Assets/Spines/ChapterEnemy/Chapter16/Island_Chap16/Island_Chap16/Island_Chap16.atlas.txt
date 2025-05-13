@@ -1,0 +1,40 @@
+Island_Chap16.png
+size:1168,694
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy 7
+bounds:789,397,212,111
+offsets:1,1,214,113
+Island
+bounds:2,2,785,690
+offsets:1,0,787,690
+Layer 116855
+bounds:789,510,245,182
+Layer 116856
+bounds:983,211,73,62
+offsets:1,1,75,64
+Layer 116858
+bounds:920,19,52,62
+offsets:1,1,54,64
+Layer 116859
+bounds:1100,443,66,91
+offsets:1,1,68,93
+Layer 116860
+bounds:789,205,192,190
+Layer 116861
+bounds:983,275,167,120
+offsets:1,1,169,122
+Layer 116861 copy
+bounds:920,83,167,120
+offsets:1,1,169,122
+b
+bounds:1089,132,71,141
+b1
+bounds:1036,536,123,156
+offsets:0,0,123,157
+b2
+bounds:1089,43,73,87
+b3
+bounds:789,41,129,162
+b4
+bounds:1036,442,62,92

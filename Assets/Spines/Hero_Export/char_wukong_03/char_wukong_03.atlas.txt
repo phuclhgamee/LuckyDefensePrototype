@@ -1,0 +1,28 @@
+char_wukong_03.png
+size:276,276
+filter:Linear,Linear
+pma:true
+Ellipse 2 copy 10
+bounds:176,128,98,41
+skin2/Layer 1161
+bounds:170,94,23,32
+skin2/Layer 1161 copy
+bounds:144,91,24,35
+skin2/Layer 1162 - Smart Object Group
+bounds:119,14,55,73
+skin2/Layer 1162 - Smart Object Group copy 2
+bounds:2,11,61,76
+skin2/Layer 1178
+bounds:2,216,156,58
+skin2/Layer 1184
+bounds:65,11,52,76
+skin2/Layer 1339
+bounds:160,171,103,110
+rotate:90
+skin2/Layer 1348
+bounds:195,76,53,50
+skin2/Layer 1348 copy - Smart Object Group
+bounds:176,22,51,52
+skin2/Layer 1349
+bounds:2,89,125,140
+rotate:90

@@ -1,0 +1,19 @@
+Island_Chap39.png
+size:1305,794
+filter:Linear,Linear
+pma:true
+Ellipse 6
+bounds:1123,682,156,110
+Island_Chap39
+bounds:2,26,799,766
+offsets:112,115,1022,992
+Layer 116825
+bounds:803,362,318,430
+Layer 116871
+bounds:1123,515,180,70
+Layer 116881
+bounds:803,171,407,189
+Layer 116886
+bounds:803,2,403,167
+eyes
+bounds:1123,587,169,93

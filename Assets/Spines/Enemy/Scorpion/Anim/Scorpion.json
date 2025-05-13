@@ -1,0 +1,48 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap13/Scorpion/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 14", "bone": "root", "attachment": "Layer 14" },
+	{ "name": "Layer 15", "bone": "root", "attachment": "Layer 15" },
+	{ "name": "Layer 13", "bone": "root", "attachment": "Layer 13" },
+	{ "name": "Layer 16 copy 2", "bone": "root", "attachment": "Layer 16 copy 2" },
+	{ "name": "Layer 19", "bone": "root", "attachment": "Layer 19" },
+	{ "name": "Layer 12", "bone": "root", "attachment": "Layer 12" },
+	{ "name": "Layer 17", "bone": "root", "attachment": "Layer 17" },
+	{ "name": "Layer 18", "bone": "root", "attachment": "Layer 18" },
+	{ "name": "Layer 11", "bone": "root", "attachment": "Layer 11" }
+],
+"skins": {
+	"default": {
+		"Layer 14": {
+			"Layer 14": { "x": 480.5, "y": -245, "width": 93, "height": 154 }
+		},
+		"Layer 15": {
+			"Layer 15": { "x": 443.5, "y": -205.5, "width": 63, "height": 85 }
+		},
+		"Layer 13": {
+			"Layer 13": { "x": 400.5, "y": -344, "width": 199, "height": 176 }
+		},
+		"Layer 16 copy 2": {
+			"Layer 16 copy 2": { "x": 513, "y": -348.5, "width": 90, "height": 105 }
+		},
+		"Layer 19": {
+			"Layer 19": { "x": 471, "y": -409.5, "width": 82, "height": 97 }
+		},
+		"Layer 12": {
+			"Layer 12": { "x": 346, "y": -352, "width": 172, "height": 218 }
+		},
+		"Layer 17": {
+			"Layer 17": { "x": 221.5, "y": -424, "width": 127, "height": 144 }
+		},
+		"Layer 18": {
+			"Layer 18": { "x": 393, "y": -474, "width": 152, "height": 162 }
+		},
+		"Layer 11": {
+			"Layer 11": { "x": 318, "y": -385, "width": 150, "height": 166 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

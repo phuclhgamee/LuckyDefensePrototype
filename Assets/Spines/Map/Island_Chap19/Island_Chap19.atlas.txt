@@ -1,0 +1,7 @@
+Island_Chap19.png
+size:892,924
+filter:Linear,Linear
+pma:true
+Island
+bounds:2,2,887,917
+offsets:0,0,887,956

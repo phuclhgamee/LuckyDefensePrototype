@@ -1,0 +1,8 @@
+Hippocampus.png
+size:488,299
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:2,2,296,295
+body
+bounds:300,46,186,251

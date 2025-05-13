@@ -1,0 +1,41 @@
+Island_Chap13.png
+size:1847,811
+filter:Linear,Linear
+pma:true
+scale:0.6
+Eyes
+bounds:1040,2,119,71
+offsets:1,1,120,72
+Eyes - Copy
+bounds:919,2,119,71
+offsets:1,1,120,72
+Group 1
+bounds:1456,561,248,389
+rotate:90
+Group 27
+bounds:919,75,535,734
+L leg
+bounds:1740,148,91,86
+Layer 1
+bounds:1655,25,300,83
+offsets:0,0,301,83
+rotate:90
+Layer 224
+bounds:2,15,794,915
+offsets:0,62,794,1038
+rotate:90
+Layer 225
+bounds:1740,236,90,89
+Layer 226
+bounds:1698,327,117,232
+Layer 227
+bounds:1456,4,118,192
+R leg copy
+bounds:1740,64,87,82
+head
+bounds:1456,354,205,240
+offsets:1,0,206,240
+rotate:90
+mouth
+bounds:1456,198,197,154
+offsets:1,0,199,154

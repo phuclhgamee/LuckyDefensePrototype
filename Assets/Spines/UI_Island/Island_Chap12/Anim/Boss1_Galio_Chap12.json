@@ -1,0 +1,64 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap12/Boss1_Galio_Chap12/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 1190", "bone": "root", "attachment": "Layer 1190" },
+	{ "name": "Layer 1190 copy", "bone": "root", "attachment": "Layer 1190 copy" },
+	{ "name": "Group 35", "bone": "root", "attachment": "Group 35" },
+	{ "name": "Layer 1174 copy", "bone": "root", "attachment": "Layer 1174 copy" },
+	{ "name": "Layer 1175 copy", "bone": "root", "attachment": "Layer 1175 copy" },
+	{ "name": "Group 31", "bone": "root", "attachment": "Group 31" },
+	{ "name": "Group 30", "bone": "root", "attachment": "Group 30" },
+	{ "name": "Group 33", "bone": "root", "attachment": "Group 33" },
+	{ "name": "Group 32", "bone": "root", "attachment": "Group 32" },
+	{ "name": "Group 37", "bone": "root", "attachment": "Group 37" },
+	{ "name": "Layer 1185", "bone": "root", "attachment": "Layer 1185" },
+	{ "name": "Layer 1175", "bone": "root", "attachment": "Layer 1175" },
+	{ "name": "Group 36", "bone": "root", "attachment": "Group 36" }
+],
+"skins": {
+	"default": {
+		"Layer 1190": {
+			"Layer 1190": { "x": 357.5, "y": -129, "width": 207, "height": 260 }
+		},
+		"Layer 1190 copy": {
+			"Layer 1190 copy": { "x": 94, "y": -130.5, "width": 190, "height": 239 }
+		},
+		"Group 35": {
+			"Group 35": { "x": 106.5, "y": -205, "width": 81, "height": 120 }
+		},
+		"Layer 1174 copy": {
+			"Layer 1174 copy": { "x": 304, "y": -212, "width": 96, "height": 140 }
+		},
+		"Layer 1175 copy": {
+			"Layer 1175 copy": { "x": 103, "y": -292, "width": 88, "height": 120 }
+		},
+		"Group 31": {
+			"Group 31": { "x": 242, "y": -388.5, "width": 64, "height": 77 }
+		},
+		"Group 30": {
+			"Group 30": { "x": 227.5, "y": -340, "width": 67, "height": 88 }
+		},
+		"Group 33": {
+			"Group 33": { "x": 187.5, "y": -386, "width": 63, "height": 76 }
+		},
+		"Group 32": {
+			"Group 32": { "x": 176, "y": -337.5, "width": 64, "height": 83 }
+		},
+		"Group 37": {
+			"Group 37": { "x": 208.5, "y": -254, "width": 201, "height": 216 }
+		},
+		"Layer 1185": {
+			"Layer 1185": { "x": 304, "y": -210.5, "width": 102, "height": 143 }
+		},
+		"Layer 1175": {
+			"Layer 1175": { "x": 290.5, "y": -296.5, "width": 105, "height": 113 }
+		},
+		"Group 36": {
+			"Group 36": { "x": 195, "y": -102, "width": 130, "height": 166 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

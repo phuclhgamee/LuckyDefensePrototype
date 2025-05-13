@@ -1,0 +1,52 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap21/Boss_Chap21/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "R Leg", "bone": "root", "attachment": "R Leg" },
+	{ "name": "R Feet", "bone": "root", "attachment": "R Feet" },
+	{ "name": "Layer 39", "bone": "root", "attachment": "Layer 39" },
+	{ "name": "Layer 34", "bone": "root", "attachment": "Layer 34" },
+	{ "name": "Layer 43", "bone": "root", "attachment": "Layer 43" },
+	{ "name": "Layer 42", "bone": "root", "attachment": "Layer 42" },
+	{ "name": "L Leg Behind", "bone": "root", "attachment": "L Leg Behind" },
+	{ "name": "L Feet Behind", "bone": "root", "attachment": "L Feet Behind" },
+	{ "name": "L Leg In Front", "bone": "root", "attachment": "L Leg In Front" },
+	{ "name": "L Feet In Front", "bone": "root", "attachment": "L Feet In Front" }
+],
+"skins": {
+	"default": {
+		"R Leg": {
+			"R Leg": { "x": 133, "y": -351.5, "width": 136, "height": 107 }
+		},
+		"R Feet": {
+			"R Feet": { "x": 86.5, "y": -391.5, "width": 175, "height": 187 }
+		},
+		"Layer 39": {
+			"Layer 39": { "x": 241, "y": -423, "width": 276, "height": 114 }
+		},
+		"Layer 34": {
+			"Layer 34": { "x": 382, "y": -258.5, "width": 650, "height": 349 }
+		},
+		"Layer 43": {
+			"Layer 43": { "x": 240.5, "y": -313, "width": 55, "height": 62 }
+		},
+		"Layer 42": {
+			"Layer 42": { "x": 314, "y": -209, "width": 364, "height": 420 }
+		},
+		"L Leg Behind": {
+			"L Leg Behind": { "x": 516.5, "y": -306, "width": 81, "height": 64 }
+		},
+		"L Feet Behind": {
+			"L Feet Behind": { "x": 543.5, "y": -326.5, "width": 97, "height": 105 }
+		},
+		"L Leg In Front": {
+			"L Leg In Front": { "x": 410, "y": -375.5, "width": 136, "height": 107 }
+		},
+		"L Feet In Front": {
+			"L Feet In Front": { "x": 464.5, "y": -415.5, "width": 175, "height": 187 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

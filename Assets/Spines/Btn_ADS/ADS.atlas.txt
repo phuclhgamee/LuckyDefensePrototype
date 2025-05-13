@@ -1,0 +1,25 @@
+ADS.png
+size:344,344
+filter:Linear,Linear
+pma:true
+Ellipse 4
+bounds:236,328,105,13
+Group 12
+bounds:236,216,110,102
+rotate:90
+Layer 6988
+bounds:2,110,232,231
+Polygon 1
+bounds:282,140,36,37
+rotate:90
+Polygon 1 copy 10
+bounds:236,141,27,27
+Polygon 1 copy 11
+bounds:236,141,27,27
+Polygon 1 copy 12
+bounds:236,141,27,27
+Polygon 1 copy 7
+bounds:282,178,36,37
+rotate:90
+Rectangle 25
+bounds:236,170,44,44

@@ -1,0 +1,31 @@
+char_knight_03.png
+size:324,324
+filter:Linear,Linear
+pma:true
+K_s_2
+bounds:230,66,65,150
+K_s_3
+bounds:156,56,72,157
+K_s_4
+bounds:2,156,67,165
+Knight_leg1
+bounds:260,14,22,31
+rotate:90
+Knight_leg2
+bounds:230,12,24,28
+rotate:90
+blob_shadow
+bounds:230,38,79,26
+skin2/Layer 1327
+bounds:2,7,147,152
+rotate:90
+skin2/Layer 1332
+bounds:71,158,67,55
+skin2/Layer 1332 copy
+bounds:156,2,72,52
+skin2/Layer 1374
+bounds:200,218,103,110
+rotate:90
+skin2/Layer 1377
+bounds:71,215,106,127
+rotate:90

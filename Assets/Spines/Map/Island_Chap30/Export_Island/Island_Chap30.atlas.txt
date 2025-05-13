@@ -1,0 +1,19 @@
+Island_Chap30.png
+size:1289,704
+filter:Linear,Linear
+pma:true
+Body
+bounds:1083,2,190,146
+Eyes
+bounds:1083,150,204,144
+offsets:1,1,206,146
+Layer 18 copy 2
+bounds:2,12,690,838
+offsets:1,1,692,840
+rotate:90
+Layer 3
+bounds:842,18,276,239
+offsets:1,1,278,241
+rotate:90
+png
+bounds:842,296,430,406

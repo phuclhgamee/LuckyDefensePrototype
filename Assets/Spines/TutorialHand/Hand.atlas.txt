@@ -1,0 +1,6 @@
+Hand.png
+size:164,220
+filter:Linear,Linear
+pma:true
+Common_Hand
+bounds:2,2,157,216

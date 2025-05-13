@@ -1,0 +1,39 @@
+Ornn.png
+size:532,532
+filter:Linear,Linear
+pma:true
+scale:0.8
+Body
+bounds:404,113,101,113
+rotate:90
+Ellipse 1
+bounds:365,189,165,37
+rotate:90
+FX/1
+bounds:2,113,102,101
+FX/2
+bounds:411,216,106,147
+FX/3
+bounds:2,216,147,189
+rotate:90
+FX/4
+bounds:193,205,149,170
+rotate:90
+FX/5
+bounds:230,356,171,179
+rotate:90
+FX/6
+bounds:411,365,162,116
+rotate:90
+Layer 4 copy
+bounds:268,159,51,44
+Layer 5
+bounds:268,159,51,44
+Layer 5 copy
+bounds:186,152,80,51
+Layer 6
+bounds:186,152,80,51
+Layer 7
+bounds:106,140,78,74
+Shape 1
+bounds:2,365,226,162

@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap27/Boss_Bat/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 15", "bone": "root", "attachment": "Layer 15" },
+	{ "name": "Layer 25", "bone": "root", "attachment": "Layer 25" },
+	{ "name": "Layer 20", "bone": "root", "attachment": "Layer 20" },
+	{ "name": "Layer 15 copy", "bone": "root", "attachment": "Layer 15 copy" },
+	{ "name": "Layer 22", "bone": "root", "attachment": "Layer 22" },
+	{ "name": "Layer 26", "bone": "root", "attachment": "Layer 26" }
+],
+"skins": {
+	"default": {
+		"Layer 15": {
+			"Layer 15": { "x": 136, "y": -128.5, "width": 274, "height": 259 }
+		},
+		"Layer 25": {
+			"Layer 25": { "x": 271.5, "y": -262, "width": 75, "height": 90 }
+		},
+		"Layer 20": {
+			"Layer 20": { "x": 300, "y": -174.5, "width": 162, "height": 195 }
+		},
+		"Layer 15 copy": {
+			"Layer 15 copy": { "x": 469.5, "y": -128.5, "width": 291, "height": 259 }
+		},
+		"Layer 22": {
+			"Layer 22": { "x": 281, "y": -110.5, "width": 168, "height": 149 }
+		},
+		"Layer 26": {
+			"Layer 26": { "x": 330, "y": -261.5, "width": 56, "height": 97 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

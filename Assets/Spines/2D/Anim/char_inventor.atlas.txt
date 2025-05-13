@@ -1,0 +1,27 @@
+char_inventor.png
+size:256,256
+filter:Linear,Linear
+Ellipse 1 copy
+bounds:2,82,151,167
+offsets:1,7,156,183
+Ellipse 2 copy
+bounds:148,15,100,40
+offsets:1,1,102,42
+Layer 1138
+bounds:2,2,23,27
+offsets:1,1,25,29
+Layer 79
+bounds:155,160,88,89
+offsets:2,1,92,91
+Layer 80
+bounds:75,31,71,49
+offsets:2,2,75,52
+Layer 80 copy
+bounds:2,31,71,49
+offsets:2,2,75,52
+Layer 83
+bounds:27,4,20,25
+offsets:1,1,22,27
+Layer 84 copy 2
+bounds:155,57,78,101
+offsets:1,1,80,104

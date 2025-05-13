@@ -1,0 +1,31 @@
+Island_Chap15.png
+size:523,807
+filter:Linear,Linear
+pma:true
+Group 1
+bounds:2,50,321,237
+offsets:1,2,324,240
+Group 2
+bounds:449,215,68,72
+offsets:1,1,70,74
+Group 2 copy
+bounds:430,79,60,63
+offsets:1,1,62,65
+Group 2 copy 2
+bounds:449,144,64,69
+offsets:2,1,67,71
+Group 2 copy 3
+bounds:325,55,57,60
+offsets:1,1,59,62
+Group 3
+bounds:325,204,122,83
+offsets:1,2,124,86
+Group 4
+bounds:325,117,103,85
+offsets:1,1,105,87
+Layer 1144
+bounds:325,2,181,51
+offsets:1,1,183,53
+island
+bounds:2,289,519,516
+offsets:55,54,628,624

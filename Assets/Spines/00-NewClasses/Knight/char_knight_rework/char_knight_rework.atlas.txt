@@ -1,0 +1,30 @@
+char_knight_rework.png
+size:368,368
+filter:Linear,Linear
+pma:true
+scale:0.45
+Group 3
+bounds:225,209,131,157
+Knight_leg1
+bounds:151,60,18,29
+Knight_leg2
+bounds:151,91,22,26
+Layer 1425
+bounds:2,5,105,112
+Layer 1428
+bounds:321,160,47,45
+rotate:90
+Layer 1428 copy
+bounds:272,162,47,45
+Layer 1429 copy
+bounds:225,155,45,52
+arm 1
+bounds:109,32,25,27
+arm 2
+bounds:225,124,29,29
+blob_shadow
+bounds:175,105,36,12
+hand1
+bounds:109,61,40,56
+knight_sword
+bounds:2,119,221,247

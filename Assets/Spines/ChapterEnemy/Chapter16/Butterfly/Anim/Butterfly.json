@@ -1,0 +1,40 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap16/Butterfly/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Ellipse 4 copy", "bone": "root", "attachment": "Ellipse 4 copy" },
+	{ "name": "Layer 116839", "bone": "root", "attachment": "Layer 116839" },
+	{ "name": "Layer 116837", "bone": "root", "attachment": "Layer 116837" },
+	{ "name": "Layer 116839 copy", "bone": "root", "attachment": "Layer 116839 copy" },
+	{ "name": "Layer 116837 copy", "bone": "root", "attachment": "Layer 116837 copy" },
+	{ "name": "Layer 116836", "bone": "root", "attachment": "Layer 116836" },
+	{ "name": "Layer 116835", "bone": "root", "attachment": "Layer 116835" }
+],
+"skins": {
+	"default": {
+		"Ellipse 4 copy": {
+			"Ellipse 4 copy": { "x": 96, "y": -207.5, "width": 138, "height": 73 }
+		},
+		"Layer 116839": {
+			"Layer 116839": { "x": 131, "y": -155, "width": 52, "height": 76 }
+		},
+		"Layer 116837": {
+			"Layer 116837": { "x": 161, "y": -72.5, "width": 106, "height": 133 }
+		},
+		"Layer 116839 copy": {
+			"Layer 116839 copy": { "x": 68.5, "y": -148, "width": 61, "height": 72 }
+		},
+		"Layer 116837 copy": {
+			"Layer 116837 copy": { "x": 49.5, "y": -63.5, "width": 101, "height": 129 }
+		},
+		"Layer 116836": {
+			"Layer 116836": { "x": 99.5, "y": -138, "width": 59, "height": 88 }
+		},
+		"Layer 116835": {
+			"Layer 116835": { "x": 97.5, "y": -93.5, "width": 55, "height": 55 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

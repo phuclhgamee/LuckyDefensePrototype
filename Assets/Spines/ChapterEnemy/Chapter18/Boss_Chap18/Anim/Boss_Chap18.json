@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap18/Boss_Chap18/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "L2", "bone": "root", "attachment": "L2" },
+	{ "name": "L1", "bone": "root", "attachment": "L1" },
+	{ "name": "R2", "bone": "root", "attachment": "R2" },
+	{ "name": "R1", "bone": "root", "attachment": "R1" },
+	{ "name": "Head", "bone": "root", "attachment": "Head" }
+],
+"skins": {
+	"default": {
+		"Body": {
+			"Body": { "x": 168, "y": -214, "width": 154, "height": 264 }
+		},
+		"L2": {
+			"L2": { "x": 262, "y": -87, "width": 114, "height": 172 }
+		},
+		"L1": {
+			"L1": { "x": 312.5, "y": -184.5, "width": 81, "height": 131 }
+		},
+		"R2": {
+			"R2": { "x": 69.5, "y": -93.5, "width": 95, "height": 189 }
+		},
+		"R1": {
+			"R1": { "x": 39.5, "y": -203.5, "width": 81, "height": 131 }
+		},
+		"Head": {
+			"Head": { "x": 165.5, "y": -65, "width": 111, "height": 112 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,50 @@
+Island_Chap21.png
+size:1264,1060
+filter:Linear,Linear
+pma:true
+Body
+bounds:979,406,173,227
+offsets:0,0,174,227
+Coat 1
+bounds:979,635,257,141
+offsets:1,0,258,142
+Coat 2
+bounds:979,778,283,278
+Crown
+bounds:1065,182,109,86
+offsets:1,1,111,88
+Face
+bounds:979,270,148,134
+offsets:2,1,151,136
+Island
+bounds:2,2,975,1054
+offsets:10,9,998,1075
+L Arm
+bounds:1154,420,52,109
+offsets:1,1,54,111
+L Armpit
+bounds:979,150,84,118
+offsets:1,1,86,120
+L Feet
+bounds:1176,202,66,87
+L Hand
+bounds:1199,367,56,51
+offsets:1,2,59,54
+L Leg
+bounds:1154,531,74,102
+offsets:1,1,76,104
+R Arm
+bounds:979,46,73,102
+offsets:1,1,75,104
+R Armpit
+bounds:1129,291,68,113
+offsets:1,1,71,116
+R Feet
+bounds:1140,93,67,87
+offsets:1,0,68,87
+R Hand
+bounds:1199,309,54,56
+offsets:1,1,56,61
+R Leg
+bounds:1065,77,73,103
+offsets:1,1,75,105

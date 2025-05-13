@@ -1,0 +1,30 @@
+Island_Chap32.png
+size:1072,924
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy 4
+bounds:712,348,136,71
+offsets:1,1,138,73
+Island_Chap32
+bounds:2,14,708,905
+offsets:109,111,927,1103
+Layer 64
+bounds:712,35,184,309
+Layer 73
+bounds:898,181,160,79
+Layer 74
+bounds:898,262,170,82
+Layer 75
+bounds:712,628,293,291
+Shape 2
+bounds:712,421,233,205
+offsets:1,0,235,205
+Shape 3
+bounds:947,477,110,149
+offsets:1,1,112,151
+Shape 4
+bounds:898,2,154,177
+offsets:1,1,156,179
+Shape 5
+bounds:947,346,109,129
+offsets:1,1,111,131

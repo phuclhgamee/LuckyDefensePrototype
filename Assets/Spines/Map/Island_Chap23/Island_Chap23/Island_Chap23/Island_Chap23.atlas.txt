@@ -1,0 +1,8 @@
+Island_Chap23.png
+size:644,648
+filter:Linear,Linear
+pma:true
+scale:0.6
+Island
+bounds:2,2,638,642
+offsets:0,0,638,670

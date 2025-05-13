@@ -1,0 +1,32 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap14/Carrot/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 116846 copy", "bone": "root", "attachment": "Layer 116846 copy" },
+	{ "name": "Layer 116848 copy", "bone": "root", "attachment": "Layer 116848 copy" },
+	{ "name": "Layer 116848 copy 2", "bone": "root", "attachment": "Layer 116848 copy 2" },
+	{ "name": "Layer 116850", "bone": "root", "attachment": "Layer 116850" },
+	{ "name": "Layer 116846", "bone": "root", "attachment": "Layer 116846" }
+],
+"skins": {
+	"default": {
+		"Layer 116846 copy": {
+			"Layer 116846 copy": { "x": 43, "y": -211, "width": 88, "height": 108 }
+		},
+		"Layer 116848 copy": {
+			"Layer 116848 copy": { "x": 129.5, "y": -270.5, "width": 63, "height": 73 }
+		},
+		"Layer 116848 copy 2": {
+			"Layer 116848 copy 2": { "x": 79.5, "y": -270.5, "width": 63, "height": 73 }
+		},
+		"Layer 116850": {
+			"Layer 116850": { "x": 108, "y": -136.5, "width": 144, "height": 275 }
+		},
+		"Layer 116846": {
+			"Layer 116846": { "x": 177, "y": -211.5, "width": 88, "height": 109 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

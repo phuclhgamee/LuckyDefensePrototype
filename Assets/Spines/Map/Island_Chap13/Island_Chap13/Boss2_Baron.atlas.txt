@@ -1,0 +1,27 @@
+Boss2_Baron.png
+size:304,304
+filter:Linear,Linear
+pma:true
+scale:0.35
+Eyes
+bounds:46,2,70,42
+rotate:90
+Eyes - Copy
+bounds:2,2,70,42
+rotate:90
+Group 1
+bounds:2,74,145,227
+L leg
+bounds:90,22,53,50
+Layer 1
+bounds:149,4,175,48
+rotate:90
+R leg copy
+bounds:199,10,51,48
+rotate:90
+head
+bounds:149,181,120,140
+rotate:90
+mouth
+bounds:199,63,116,90
+rotate:90

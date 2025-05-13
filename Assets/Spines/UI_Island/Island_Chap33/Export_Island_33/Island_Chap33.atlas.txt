@@ -1,0 +1,43 @@
+Island_Chap33.png
+size:1141,883
+filter:Linear,Linear
+pma:true
+HL1
+bounds:1034,370,40,60
+offsets:2,1,43,62
+HL2
+bounds:1034,325,43,39
+offsets:1,1,45,41
+rotate:90
+HR1
+bounds:1034,492,56,60
+offsets:1,1,58,62
+HR2
+bounds:1034,283,40,36
+rotate:90
+Island_Chap33
+bounds:2,2,879,1030
+offsets:112,95,1070,1236
+rotate:90
+LL1
+bounds:1034,166,26,33
+offsets:1,3,28,37
+LR1
+bounds:1034,166,26,33
+offsets:1,3,28,37
+LL2
+bounds:1034,242,36,39
+LR2
+bounds:1034,201,36,39
+Layer 1180
+bounds:1034,432,58,57
+offsets:1,1,60,60
+rotate:90
+Layer 1188
+bounds:1034,620,78,70
+Layer 1190
+bounds:1034,761,105,120
+body
+bounds:1034,692,92,67
+head
+bounds:1034,554,57,64

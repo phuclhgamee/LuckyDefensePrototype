@@ -1,0 +1,40 @@
+Boss1_Galio_Chap12.png
+size:988,264
+filter:Linear,Linear
+pma:true
+Group 30
+bounds:600,9,64,86
+offsets:1,1,67,88
+Group 31
+bounds:917,62,63,77
+offsets:0,0,64,77
+Group 32
+bounds:666,14,61,81
+offsets:1,1,64,83
+Group 33
+bounds:921,185,63,75
+offsets:0,0,63,76
+Group 35
+bounds:836,21,79,118
+offsets:1,1,81,120
+Group 36
+bounds:600,97,127,163
+offsets:2,2,130,166
+Group 37
+bounds:397,45,201,215
+offsets:0,0,201,216
+Layer 1175
+bounds:729,5,105,112
+offsets:0,1,105,113
+Layer 1175 copy
+bounds:831,141,88,119
+offsets:0,1,88,120
+Layer 1185
+bounds:729,119,100,141
+offsets:1,1,102,143
+Layer 1190
+bounds:2,2,204,258
+offsets:2,1,207,260
+Layer 1190 copy
+bounds:208,23,187,237
+offsets:1,1,190,239

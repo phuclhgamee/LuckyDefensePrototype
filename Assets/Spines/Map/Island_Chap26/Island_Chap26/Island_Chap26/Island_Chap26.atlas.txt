@@ -1,0 +1,16 @@
+Island_Chap26.png
+size:620,828
+filter:Linear,Linear
+pma:true
+scale:1.2
+Layer 1 copy
+bounds:2,756,88,68
+offsets:2,1,91,70
+a
+bounds:2,2,613,730
+offsets:14,10,638,750
+b
+bounds:173,734,90,90
+offsets:1,1,92,92
+c
+bounds:92,746,79,78

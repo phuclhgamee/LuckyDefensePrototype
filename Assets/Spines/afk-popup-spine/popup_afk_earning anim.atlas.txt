@@ -1,0 +1,136 @@
+popup_afk_earning anim.png
+size:2973,2207
+filter:Linear,Linear
+pma:true
+Ellipse 2
+bounds:2510,79,130,46
+Flame_4
+bounds:2,3,35,47
+rotate:90
+Flame_4 copy
+bounds:2915,732,56,75
+Flame_8 copy
+bounds:2587,10,50,67
+Flame_8 copy 2
+bounds:2347,20,69,94
+Flame_8
+bounds:2347,20,69,94
+Flame_8 copy 3
+bounds:1990,47,42,57
+rotate:90
+Group 29
+bounds:1922,91,295,197
+Layer 116641
+bounds:2821,406,60,29
+rotate:90
+Layer 116642
+bounds:2777,397,19,16
+Layer 116642 copy
+bounds:2755,397,20,16
+Layer 116643
+bounds:2930,2,36,40
+rotate:90
+Layer 116643 copy
+bounds:2930,40,44,38
+rotate:90
+Layer 116646
+bounds:2762,15,87,90
+rotate:90
+Layer 116649
+bounds:2854,3,40,99
+Layer 1166499
+bounds:2510,11,75,66
+Layer 116742
+bounds:1922,30,59,66
+rotate:90
+Layer 116742 copy
+bounds:2910,86,59,66
+Layer 116744
+bounds:2853,388,103,150
+Layer 116749
+bounds:2642,15,87,118
+rotate:90
+Layer 116756
+bounds:2910,271,61,115
+Layer 116756 copy
+bounds:2910,154,60,115
+Layer 116759
+bounds:1990,12,33,56
+rotate:90
+Layer 116759 copy
+bounds:2147,27,28,56
+rotate:90
+Layer 116760
+bounds:2821,502,33,30
+rotate:90
+Layer 116760 copy
+bounds:2821,468,32,30
+rotate:90
+Layer 116761 copy 2
+bounds:2421,52,236,87
+rotate:90
+Layer 116773
+bounds:2219,26,88,126
+rotate:90
+Layer 1369
+bounds:2853,540,121,104
+rotate:90
+Layer 1373
+bounds:2049,52,71,37
+Layer 17 copy
+bounds:2658,390,53,23
+Layer 3 copy 3
+bounds:1922,677,991,130
+Layer 6956
+bounds:2,1122,1083,1924
+rotate:90
+Layer 6960
+bounds:2,40,1080,1918
+rotate:90
+Layer 7034 copy 2
+bounds:2219,116,172,200
+rotate:90
+Layer 7034
+bounds:2219,116,172,200
+rotate:90
+Layer 7034 copy
+bounds:2219,116,172,200
+rotate:90
+Layer 7034 copy 3
+bounds:2219,116,172,200
+rotate:90
+Layer 7034 copy 4
+bounds:2219,116,172,200
+rotate:90
+Layer 7036 copy
+bounds:2658,104,250,282
+Layer 7036
+bounds:2658,104,250,282
+Layer 7037 copy
+bounds:1922,537,929,124
+Layer 7043
+bounds:2713,390,40,23
+Layer 7048
+bounds:2658,415,161,120
+Layer 7049
+bounds:2510,127,161,120
+rotate:90
+Layer 7051
+bounds:2896,6,78,32
+rotate:90
+Layer 7052
+bounds:2122,57,62,32
+Layer 7053
+bounds:1922,290,734,245
+Layer_116662
+bounds:2418,21,86,29
+Layer_116662 copy
+bounds:2049,21,96,29
+orc_2_head
+bounds:2915,663,67,51
+rotate:90
+orc_2_headd
+bounds:2915,663,67,51
+rotate:90
+popup_daily_rw
+bounds:1928,809,1029,1396

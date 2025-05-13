@@ -1,0 +1,11 @@
+OnBoarding.png
+size:492,492
+filter:Linear,Linear
+pma:true
+Hand
+bounds:331,272,157,216
+offsets:2,2,164,220
+Handle_Ridged_Arrows
+bounds:331,133,137,137
+ring
+bounds:2,162,327,326

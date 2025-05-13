@@ -1,0 +1,96 @@
+{ "skeleton": { "images": "F:/GAMEE/OLD/Survivor/UI_BoardBlue/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "glow2", "bone": "root", "attachment": "glow2" },
+	{ "name": "glow", "bone": "root", "attachment": "glow" },
+	{ "name": "Board BLUE", "bone": "root", "attachment": "Board BLUE" },
+	{ "name": "leg2", "bone": "root", "attachment": "leg2" },
+	{ "name": "leg", "bone": "root", "attachment": "leg" },
+	{ "name": "hand2", "bone": "root", "attachment": "hand2" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "hand", "bone": "root", "attachment": "hand" },
+	{ "name": "mouth", "bone": "root", "attachment": "mouth" },
+	{ "name": "hat", "bone": "root", "attachment": "hat" },
+	{ "name": "day4", "bone": "root", "attachment": "day4" },
+	{ "name": "loa4", "bone": "root", "attachment": "loa4" },
+	{ "name": "day3", "bone": "root", "attachment": "day3" },
+	{ "name": "loa3", "bone": "root", "attachment": "loa3" },
+	{ "name": "day2", "bone": "root", "attachment": "day2" },
+	{ "name": "loa2", "bone": "root", "attachment": "loa2" },
+	{ "name": "day", "bone": "root", "attachment": "day" },
+	{ "name": "loa", "bone": "root", "attachment": "loa" },
+	{ "name": "shop_label_popular", "bone": "root", "attachment": "shop_label_popular" },
+	{ "name": "fx2", "bone": "root", "attachment": "fx2" },
+	{ "name": "fx", "bone": "root", "attachment": "fx" }
+],
+"skins": {
+	"default": {
+		"glow2": {
+			"glow2": { "x": 862, "y": -407, "width": 874, "height": 816 }
+		},
+		"glow": {
+			"glow": { "x": 877.5, "y": -404.5, "width": 591, "height": 593 }
+		},
+		"Board BLUE": {
+			"Board BLUE": { "x": 710.5, "y": -957, "width": 797, "height": 830 }
+		},
+		"leg2": {
+			"leg2": { "x": 831.5, "y": -475.5, "width": 241, "height": 97 }
+		},
+		"leg": {
+			"leg": { "x": 973, "y": -496.5, "width": 106, "height": 131 }
+		},
+		"hand2": {
+			"hand2": { "x": 737, "y": -290, "width": 212, "height": 428 }
+		},
+		"body": {
+			"body": { "x": 877.5, "y": -395, "width": 235, "height": 262 }
+		},
+		"hand": {
+			"hand": { "x": 1001, "y": -417.5, "width": 144, "height": 133 }
+		},
+		"mouth": {
+			"mouth": { "x": 773.5, "y": -388, "width": 355, "height": 206 }
+		},
+		"hat": {
+			"hat": { "x": 915, "y": -204.5, "width": 288, "height": 245 }
+		},
+		"day4": {
+			"day4": { "x": 366.5, "y": -744.5, "width": 159, "height": 435 }
+		},
+		"loa4": {
+			"loa4": { "x": 332, "y": -501.5, "width": 246, "height": 139 }
+		},
+		"day3": {
+			"day3": { "x": 415.5, "y": -673.5, "width": 151, "height": 373 }
+		},
+		"loa3": {
+			"loa3": { "x": 392, "y": -455, "width": 198, "height": 156 }
+		},
+		"day2": {
+			"day2": { "x": 1061.5, "y": -744.5, "width": 159, "height": 435 }
+		},
+		"loa2": {
+			"loa2": { "x": 1096, "y": -501.5, "width": 246, "height": 139 }
+		},
+		"day": {
+			"day": { "x": 1012.5, "y": -673.5, "width": 151, "height": 373 }
+		},
+		"loa": {
+			"loa": { "x": 1036, "y": -455, "width": 198, "height": 156 }
+		},
+		"shop_label_popular": {
+			"shop_label_popular": { "x": 716, "y": -576, "width": 528, "height": 134 }
+		},
+		"fx2": {
+			"fx2": { "x": 512.5, "y": -483.5, "width": 285, "height": 163 }
+		},
+		"fx": {
+			"fx": { "x": 617, "y": -334, "width": 412, "height": 238 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,87 @@
+island1.png
+size:1160,784
+filter:Linear,Linear
+pma:true
+Flame_1
+bounds:1018,17,133,186
+offsets:1,1,135,188
+Flame_2
+bounds:880,21,136,187
+offsets:1,1,138,189
+Flame_3
+bounds:1011,399,135,189
+offsets:1,1,137,191
+Flame_4
+bounds:1011,590,137,190
+offsets:1,1,139,192
+Flame_5
+bounds:1024,205,131,192
+offsets:1,1,133,194
+Flame_6
+bounds:870,588,139,192
+offsets:1,1,141,194
+Flame_7
+bounds:880,210,142,184
+offsets:1,1,144,186
+Flame_8
+bounds:870,396,139,190
+offsets:1,1,141,192
+Layer 720
+bounds:568,432,300,348
+offsets:1,1,302,350
+Layer 729 copy
+bounds:2,251,564,529
+offsets:1,1,566,531
+Layer 731
+bounds:189,36,123,47
+offsets:1,1,126,49
+Layer 732
+bounds:314,26,94,57
+offsets:1,1,96,59
+Layer 733
+bounds:483,5,66,78
+offsets:1,1,68,80
+Layer 734
+bounds:620,86,258,190
+offsets:1,1,260,192
+Layer 735
+bounds:568,278,170,152
+offsets:1,1,172,154
+orc_1_body
+bounds:410,8,71,75
+offsets:1,1,73,77
+orc_1_hand
+bounds:715,29,51,55
+offsets:1,1,53,57
+orc_1_leg1
+bounds:189,11,17,23
+offsets:1,1,19,25
+orc_1_leg2
+bounds:208,11,17,23
+offsets:1,1,19,25
+orc_2_head
+bounds:2,6,104,77
+offsets:1,1,106,79
+orc_4_arm
+bounds:740,326,107,104
+offsets:1,1,109,106
+orc_4_hand
+bounds:625,5,44,79
+offsets:1,2,46,82
+orc_4_hand2
+bounds:671,7,42,77
+offsets:1,1,44,79
+orc_4_head
+bounds:108,2,79,81
+offsets:1,1,81,83
+orc_4_leg
+bounds:768,49,22,35
+offsets:1,1,24,37
+orc_4_leg2
+bounds:768,12,21,35
+offsets:1,1,23,37
+orc_4_weap
+bounds:551,31,72,52
+offsets:1,1,74,54
+rockss
+bounds:2,85,616,164

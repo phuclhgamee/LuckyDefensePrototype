@@ -1,0 +1,31 @@
+Grape.png
+size:354,723
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy 8
+bounds:2,436,268,140
+offsets:1,1,270,142
+Layer 116863
+bounds:2,8,206,212
+offsets:1,1,208,214
+Layer 116863 copy
+bounds:2,222,206,212
+offsets:1,1,208,214
+Layer 116864 copy 2
+bounds:2,578,346,143
+offsets:1,1,348,145
+Layer 116864 copy 3
+bounds:210,248,123,121
+offsets:1,1,125,123
+Layer 116864 copy 4
+bounds:210,125,123,121
+offsets:1,1,125,123
+Layer 116864 copy 5
+bounds:210,2,123,121
+offsets:1,1,125,123
+Layer 116865 copy
+bounds:210,371,142,63
+offsets:1,2,144,67
+Layer 116866
+bounds:272,480,63,96
+offsets:1,1,65,98

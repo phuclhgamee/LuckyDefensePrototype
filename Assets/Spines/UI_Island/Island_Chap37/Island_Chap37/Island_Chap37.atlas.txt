@@ -1,0 +1,28 @@
+Island_Chap37.png
+size:680,458
+filter:Linear,Linear
+pma:true
+Island_Chap37
+bounds:2,3,453,468
+offsets:53,54,560,572
+rotate:90
+Layer 116846
+bounds:552,91,88,107
+offsets:0,1,88,109
+rotate:90
+Layer 116846 copy
+bounds:552,2,87,108
+offsets:0,0,88,108
+rotate:90
+Layer 116848 copy
+bounds:617,312,61,71
+offsets:1,1,63,73
+Layer 116848 copy 2
+bounds:617,385,61,71
+offsets:1,1,63,73
+Layer 116850
+bounds:472,181,143,275
+offsets:1,0,144,275
+sh
+bounds:472,23,156,78
+rotate:90

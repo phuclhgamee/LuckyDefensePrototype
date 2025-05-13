@@ -1,0 +1,47 @@
+char_GOW_Ultimate.png
+size:456,456
+filter:Linear,Linear
+pma:true
+scale:0.7
+Head
+bounds:274,263,190,134
+rotate:90
+Layer 10
+bounds:410,325,43,36
+Layer 11
+bounds:410,363,43,41
+Layer 12
+bounds:410,406,47,39
+rotate:90
+Layer 13
+bounds:401,156,34,40
+rotate:90
+Layer 1408
+bounds:146,3,72,90
+Layer 1411
+bounds:309,44,57,77
+Layer 1412
+bounds:368,67,69,54
+Layer 1421 copy
+bounds:274,123,125,138
+Layer 1433
+bounds:2,7,114,142
+rotate:90
+Layer 1435
+bounds:401,136,29,18
+Layer 20 copy
+bounds:2,234,270,219
+Layer 7388
+bounds:410,289,43,34
+Layer 7389
+bounds:401,192,48,56
+Layer 7399
+bounds:146,95,99,137
+Layer 7402
+bounds:410,250,37,39
+rotate:90
+Layer 7404
+bounds:2,176,142,56
+Layer 8
+bounds:247,11,110,60
+rotate:90

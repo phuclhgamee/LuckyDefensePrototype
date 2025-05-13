@@ -1,0 +1,25 @@
+Butterfly.png
+size:406,151
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy
+bounds:209,78,136,71
+offsets:1,1,138,73
+Layer 116835
+bounds:321,8,53,53
+offsets:1,1,55,55
+Layer 116836
+bounds:347,63,57,86
+offsets:1,1,59,88
+Layer 116837
+bounds:2,18,104,131
+offsets:1,1,106,133
+Layer 116837 copy
+bounds:108,23,99,126
+offsets:1,1,101,129
+Layer 116839
+bounds:269,2,50,74
+offsets:1,1,52,76
+Layer 116839 copy
+bounds:209,6,58,70
+offsets:1,1,61,72

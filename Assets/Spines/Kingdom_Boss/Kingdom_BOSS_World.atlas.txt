@@ -1,0 +1,57 @@
+Kingdom_BOSS_World.png
+size:776,1537
+filter:Linear,Linear
+pma:true
+Group 1
+bounds:565,449,228,206
+rotate:90
+Group 6
+bounds:2,406,398,352
+Group 7
+bounds:218,3,292,179
+rotate:90
+Group 8
+bounds:218,297,182,107
+Group 8 copy
+bounds:402,649,161,109
+Group 8 copy 2
+bounds:2,300,104,124
+rotate:90
+Layer 57
+bounds:402,287,179,151
+rotate:90
+Layer 57 copy
+bounds:402,468,179,151
+rotate:90
+Layer 57 copy - Smart Object Group
+bounds:549,37,168,148
+rotate:90
+Layer 57 copy - Smart Object Group copy
+bounds:399,117,168,148
+rotate:90
+Layer 82
+bounds:2,1148,566,387
+Layer 82 copy
+bounds:2,760,566,386
+Layer 89
+bounds:570,1049,204,242
+Layer 89 copy
+bounds:570,1293,204,242
+Layer 92
+bounds:570,826,192,221
+Layer 92 copy
+bounds:555,207,218,240
+Layer 93 copy
+bounds:2,2,214,283
+Layer 97
+bounds:128,330,74,78
+rotate:90
+Layer 98
+bounds:699,160,45,57
+rotate:90
+Layer 99
+bounds:699,113,45,47
+rotate:90
+Layer 99 copy
+bounds:570,679,145,192
+rotate:90

@@ -1,0 +1,50 @@
+Island_Chap38.png
+size:1298,921
+filter:Linear,Linear
+pma:true
+Body
+bounds:823,534,321,261
+Head
+bounds:823,232,266,300
+offsets:2,1,269,302
+Island_Chap38
+bounds:2,2,819,917
+offsets:110,107,1039,1133
+L Feet Behind
+bounds:1091,305,82,118
+offsets:0,0,83,118
+L Feet Infront
+bounds:1146,533,99,106
+offsets:0,0,100,107
+L Knee Behind
+bounds:1091,239,56,64
+offsets:1,1,58,66
+L Leg Behind
+bounds:1062,91,70,139
+offsets:1,1,73,141
+Layer 25
+bounds:823,33,78,197
+offsets:1,1,80,199
+Mouth
+bounds:1146,641,134,154
+offsets:1,2,137,157
+R Feet Behind
+bounds:1192,413,82,118
+offsets:0,0,83,118
+R Feet Infront
+bounds:1091,425,99,106
+offsets:0,0,100,107
+R Knee Behind
+bounds:903,4,56,64
+offsets:1,1,58,66
+R Leg Behind
+bounds:1175,283,70,128
+offsets:1,1,73,131
+R Leg Infront
+bounds:903,70,78,160
+offsets:1,1,80,162
+Shadow
+bounds:823,797,473,122
+Tail
+bounds:983,85,77,145
+offsets:0,2,77,149

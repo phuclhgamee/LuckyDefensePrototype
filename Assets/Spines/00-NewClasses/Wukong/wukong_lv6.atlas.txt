@@ -1,0 +1,25 @@
+wukong_lv6.png
+size:344,344
+filter:Linear,Linear
+pma:true
+Group 28
+bounds:96,34,102,118
+rotate:90
+Group 29
+bounds:2,41,92,301
+Group 31
+bounds:259,236,24,106
+Group 32
+bounds:96,138,161,204
+Group 33
+bounds:216,24,110,112
+Group 34
+bounds:285,264,78,50
+rotate:90
+Layer 7395
+bounds:83,2,30,27
+rotate:90
+Layer 7430
+bounds:259,207,24,27
+blob_shadow
+bounds:2,13,79,26

@@ -1,0 +1,43 @@
+Trangbi_S.png
+size:940,940
+filter:Linear,Linear
+pma:true
+Layer 6955
+bounds:2,348,598,589
+offsets:20,18,645,622
+Layer 6960
+bounds:602,596,328,341
+offsets:6,7,341,358
+Layer 6961
+bounds:775,252,161,158
+offsets:2,2,165,161
+Layer 6962
+bounds:790,470,121,124
+offsets:2,2,124,128
+Layer 6963
+bounds:2,185,171,161
+offsets:1,2,174,165
+Layer 6964
+bounds:602,246,171,164
+offsets:1,2,174,168
+Layer 6965
+bounds:602,412,186,182
+offsets:2,1,191,185
+Rectangle 4 copy 2
+bounds:828,433,35,35
+offsets:1,1,37,37
+Rectangle 4 copy 3
+bounds:865,433,35,35
+offsets:1,1,37,37
+Rectangle 4 copy 4
+bounds:902,433,35,35
+offsets:1,1,37,37
+Rectangle 4 copy 5
+bounds:775,215,35,35
+offsets:1,1,37,37
+Rectangle 4 copy 6
+bounds:790,432,36,36
+offsets:1,1,38,38
+Rectangle 4 copy 7
+bounds:913,567,18,27
+offsets:1,1,20,29

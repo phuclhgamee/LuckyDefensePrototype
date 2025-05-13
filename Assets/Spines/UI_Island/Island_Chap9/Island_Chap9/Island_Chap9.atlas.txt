@@ -1,0 +1,60 @@
+Island_Chap9.png
+size:656,540
+filter:Linear,Linear
+pma:true
+scale:0.75
+Arm back
+bounds:452,208,43,65
+Arm front
+bounds:497,262,50,40
+Body
+bounds:2,27,146,173
+Chap
+bounds:2,202,383,333
+offsets:79,77,542,488
+FX/shot 0001
+bounds:580,140,74,129
+offsets:0,0,75,129
+FX/shot 0003
+bounds:505,16,73,129
+offsets:0,0,74,129
+FX/shot 0005
+bounds:580,9,74,129
+offsets:0,0,75,130
+FX/shot 0007
+bounds:428,17,75,128
+offsets:0,0,76,135
+FX/shot 0009
+bounds:580,404,73,131
+offsets:0,0,74,131
+FX/shot 0011
+bounds:387,407,73,128
+offsets:0,0,74,134
+FX/shot 0013
+bounds:351,14,75,131
+offsets:0,0,77,131
+FX/shot 0015
+bounds:580,271,73,131
+offsets:0,0,74,133
+FX/shot 0017
+bounds:462,406,72,129
+offsets:0,0,74,129
+FX/shot 0019
+bounds:387,275,69,130
+offsets:0,0,69,131
+Layer 1
+bounds:387,224,63,49
+offsets:0,0,63,50
+Layer 2
+bounds:458,304,62,100
+offsets:1,0,64,101
+Map/tree
+bounds:150,48,126,152
+Shadow
+bounds:150,2,199,44
+Spear
+bounds:278,147,300,53
+offsets:1,2,302,56
+head
+bounds:278,69,61,76
+offsets:0,0,62,76

@@ -1,0 +1,95 @@
+island2.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Flame_1
+bounds:934,849,58,82
+offsets:1,1,60,84
+Flame_2
+bounds:888,524,60,83
+offsets:1,1,62,85
+rotate:90
+Flame_3
+bounds:934,933,59,84
+offsets:1,1,61,86
+Flame_4
+bounds:916,612,60,84
+offsets:1,1,62,86
+rotate:90
+Flame_5
+bounds:934,762,57,85
+offsets:1,1,59,87
+Flame_6
+bounds:829,612,60,85
+offsets:1,1,62,87
+rotate:90
+Flame_7
+bounds:804,516,62,82
+offsets:1,1,64,84
+rotate:90
+Flame_8
+bounds:804,454,60,84
+offsets:1,1,62,86
+rotate:90
+Layer 116679 copy
+bounds:934,726,47,34
+offsets:1,1,49,36
+Layer 116687 copy
+bounds:706,502,76,96
+offsets:1,1,78,98
+rotate:90
+Layer 116694 copy
+bounds:773,471,22,29
+offsets:1,1,24,31
+Layer 116694 copy 2
+bounds:938,588,22,28
+offsets:1,1,24,30
+rotate:90
+Layer 653
+bounds:2,298,586,719
+offsets:1,1,588,721
+Layer 661
+bounds:829,580,42,30
+offsets:1,1,44,32
+Layer 662
+bounds:934,691,33,31
+offsets:1,1,35,33
+rotate:90
+Layer 663
+bounds:590,535,114,137
+offsets:1,1,116,139
+Layer 664
+bounds:590,430,101,103
+offsets:1,1,103,105
+Layer 665
+bounds:706,580,92,121
+offsets:1,1,94,123
+rotate:90
+Layer 667
+bounds:746,355,74,63
+offsets:1,1,76,65
+rotate:90
+Layer 669
+bounds:773,440,22,29
+offsets:1,1,24,31
+Layer 670
+bounds:983,714,46,34
+offsets:1,1,48,36
+rotate:90
+Layer 672
+bounds:693,431,69,78
+offsets:1,1,71,80
+rotate:90
+blob_shadow1 co
+bounds:590,269,99,38
+offsets:1,1,101,40
+rotate:90
+blob_shadow1 copy
+bounds:873,586,63,24
+offsets:1,1,65,26
+blob_shadow1 copy 2
+bounds:590,370,154,58
+offsets:1,1,156,60
+glowww
+bounds:590,674,342,343
+offsets:0,15,343,358

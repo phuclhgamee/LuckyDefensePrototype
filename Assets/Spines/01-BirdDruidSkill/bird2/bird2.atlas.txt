@@ -1,0 +1,24 @@
+bird2.png
+size:364,364
+filter:Linear,Linear
+pma:true
+Layer 36
+bounds:2,58,113,141
+Layer 37
+bounds:2,2,54,69
+rotate:90
+Layer 46
+bounds:73,2,40,54
+Layer 47
+bounds:236,50,39,52
+Layer 49
+bounds:117,17,85,117
+rotate:90
+Layer 50
+bounds:2,201,122,161
+Layer 50 copy
+bounds:126,219,127,143
+Layer 50 copy 2
+bounds:126,104,120,113
+Layer 50 copy 3
+bounds:255,227,98,135

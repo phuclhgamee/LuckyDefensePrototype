@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "F:/GAMEE/Vampire_Survivor/Enemies/Goblin/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "HAndL", "bone": "root", "attachment": "HAndL" },
+	{ "name": "LegL", "bone": "root", "attachment": "LegL" },
+	{ "name": "LegR", "bone": "root", "attachment": "LegR" },
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "HandR", "bone": "root", "attachment": "HandR" },
+	{ "name": "Head", "bone": "root", "attachment": "Head" }
+],
+"skins": {
+	"default": {
+		"HAndL": {
+			"HAndL": { "x": 189, "y": -185.5, "width": 146, "height": 97 }
+		},
+		"LegL": {
+			"LegL": { "x": 112.5, "y": -263.5, "width": 95, "height": 95 }
+		},
+		"LegR": {
+			"LegR": { "x": 54.5, "y": -266.5, "width": 95, "height": 95 }
+		},
+		"Body": {
+			"Body": { "x": 88, "y": -203.5, "width": 178, "height": 137 }
+		},
+		"HandR": {
+			"HandR": { "x": 71, "y": -197.5, "width": 144, "height": 103 }
+		},
+		"Head": {
+			"Head": { "x": 95, "y": -89.5, "width": 192, "height": 181 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

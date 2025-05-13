@@ -1,0 +1,20 @@
+Carrot.png
+size:521,148
+filter:Linear,Linear
+pma:true
+Layer 116846
+bounds:368,39,88,107
+offsets:0,1,88,109
+Layer 116846 copy
+bounds:279,38,87,108
+offsets:0,0,88,108
+Layer 116848 copy
+bounds:458,2,61,71
+offsets:1,1,63,73
+Layer 116848 copy 2
+bounds:458,75,61,71
+offsets:1,1,63,73
+Layer 116850
+bounds:2,3,143,275
+offsets:1,0,144,275
+rotate:90

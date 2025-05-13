@@ -1,0 +1,13 @@
+Icon_Event.png
+size:819,298
+filter:Linear,Linear
+pma:true
+Layer 18
+bounds:387,9,276,287
+offsets:11,5,300,295
+Layer 20
+bounds:665,119,152,177
+offsets:3,4,158,184
+Layer 21
+bounds:2,2,383,294
+offsets:36,18,424,333

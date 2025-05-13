@@ -1,0 +1,32 @@
+Island_Chap14.png
+size:815,742
+filter:Linear,Linear
+pma:true
+Group 44
+bounds:566,117,133,127
+Group 46
+bounds:566,391,217,349
+Island
+bounds:2,180,562,560
+offsets:30,15,622,600
+Layer 58
+bounds:566,246,137,143
+offsets:1,1,139,145
+Layer 62
+bounds:558,29,96,86
+Layer 62 copy
+bounds:656,13,79,75
+offsets:0,0,80,75
+Layer 63
+bounds:701,90,103,81
+offsets:1,1,105,83
+Layer 67
+bounds:705,254,107,135
+Layer 82
+bounds:705,173,108,79
+offsets:1,1,110,81
+Layer 83
+bounds:260,32,296,146
+offsets:0,0,297,146
+Wing
+bounds:2,2,256,176

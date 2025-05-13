@@ -1,0 +1,13 @@
+Icon_iap_Event.png
+size:427,523
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:2,229,327,292
+offsets:0,1,327,297
+Layer 2
+bounds:230,27,195,200
+offsets:16,5,216,209
+Layer 3
+bounds:2,2,226,225
+offsets:8,9,243,243

@@ -1,0 +1,24 @@
+Island_Chap24.png
+size:672,588
+filter:Linear,Linear
+pma:true
+scale:0.6
+Island_Chap24
+bounds:2,2,509,581
+offsets:66,64,628,709
+snow/Layer 87
+bounds:584,95,78,31
+snow/Layer 88
+bounds:513,128,80,61
+snow/Layer 91
+bounds:513,344,134,124
+snow/Layer 93
+bounds:513,251,104,91
+snow/Layer 96
+bounds:513,470,152,113
+snow/Layer 97
+bounds:513,3,65,62
+snow/Layer 97 copy 2
+bounds:513,67,69,59
+snow/blob_shadow1 copy 8
+bounds:513,191,154,58

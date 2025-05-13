@@ -1,0 +1,21 @@
+golem_duo.png
+size:392,992
+filter:Linear,Linear
+pma:true
+scale:0.8
+Layer 10
+bounds:2,25,230,264
+Layer 10 copy
+bounds:214,411,169,289
+Layer 116617
+bounds:211,702,177,286
+Layer 116625 copy
+bounds:234,72,95,93
+Layer 116627
+bounds:2,291,210,266
+Layer 116627 copy 2
+bounds:234,167,149,242
+Layer 7
+bounds:2,559,207,429
+blob_shadow
+bounds:2,2,63,21

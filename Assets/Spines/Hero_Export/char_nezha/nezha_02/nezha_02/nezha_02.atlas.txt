@@ -1,0 +1,55 @@
+nezha_02.png
+size:544,544
+filter:Linear,Linear
+pma:true
+scale:0.8
+Body
+bounds:362,203,87,75
+Cloth1
+bounds:2,45,194,243
+rotate:90
+Cloth2
+bounds:247,92,110,147
+Group 36
+bounds:482,105,33,37
+HandL
+bounds:339,22,70,64
+HandR
+bounds:359,131,81,70
+Head
+bounds:362,332,210,168
+rotate:90
+Layer 7405 copy 3
+bounds:247,24,66,90
+rotate:90
+Layer 7405 copy 4
+bounds:247,24,66,90
+rotate:90
+Layer 7466
+bounds:362,280,132,50
+LegL1
+bounds:442,116,26,38
+rotate:90
+LegL2
+bounds:496,273,57,40
+rotate:90
+LegR1
+bounds:494,230,35,41
+LegR2
+bounds:442,144,55,57
+Weapon
+bounds:2,241,358,301
+images/1
+bounds:2,2,74,41
+images/2
+bounds:78,2,74,41
+images/3
+bounds:154,2,74,41
+images/4
+bounds:451,204,74,41
+rotate:90
+images/5
+bounds:359,88,74,41
+images/6
+bounds:411,12,74,41
+rotate:90

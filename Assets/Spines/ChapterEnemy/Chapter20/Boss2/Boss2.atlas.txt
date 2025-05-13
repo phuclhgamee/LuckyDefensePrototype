@@ -1,0 +1,31 @@
+Boss2.png
+size:456,456
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,219,201,234
+L Arm
+bounds:205,225,69,123
+rotate:90
+L Armpit
+bounds:330,142,122,152
+L Feet
+bounds:190,55,74,67
+L Leg
+bounds:110,29,78,93
+Layer 19
+bounds:205,296,153,157
+R Arm
+bounds:2,8,114,106
+rotate:90
+R Armpit
+bounds:288,26,114,156
+rotate:90
+R Feet
+bounds:360,297,75,67
+rotate:90
+R Leg
+bounds:360,374,79,93
+rotate:90
+Weapon
+bounds:2,124,284,93

@@ -1,0 +1,27 @@
+1st Purchase.png
+size:1764,1400
+filter:Linear,Linear
+pma:true
+Art_Archer_Glove
+bounds:708,235,162,142
+offsets:4,4,171,151
+Art_Archer_Hat
+bounds:872,215,145,162
+offsets:4,5,154,172
+Art_Archer_Suit
+bounds:386,4,209,232
+offsets:5,6,219,243
+Board BLUE
+bounds:2,379,1015,1018
+Group 216
+bounds:386,238,320,139
+offsets:1,1,322,141
+Layer 802
+bounds:1019,44,605,597
+offsets:21,19,653,631
+archer
+bounds:2,2,382,375
+offsets:3,3,388,380
+glow5 copy 2
+bounds:1019,643,741,754
+offsets:67,50,874,816

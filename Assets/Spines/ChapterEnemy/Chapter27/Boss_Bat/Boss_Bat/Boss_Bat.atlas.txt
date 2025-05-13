@@ -1,0 +1,18 @@
+Boss_Bat.png
+size:628,272
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy 4
+bounds:295,2,136,71
+offsets:1,1,138,73
+Layer 15 copy
+bounds:2,11,291,259
+Layer 20
+bounds:295,75,162,195
+Layer 22
+bounds:459,123,166,147
+offsets:1,1,168,149
+Layer 25
+bounds:459,31,75,90
+Layer 26
+bounds:536,24,56,97

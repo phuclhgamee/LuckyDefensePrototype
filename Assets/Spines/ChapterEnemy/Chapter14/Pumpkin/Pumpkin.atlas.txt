@@ -1,0 +1,33 @@
+Pumpkin.png
+size:173,260
+filter:Linear,Linear
+pma:true
+Group 44
+bounds:2,141,128,117
+Group 45
+bounds:2,104,51,35
+offsets:1,1,53,37
+Group 46
+bounds:55,119,24,20
+offsets:1,1,26,22
+Group 47
+bounds:2,2,98,77
+offsets:4,0,102,77
+rotate:90
+Layer 1
+bounds:81,110,45,29
+offsets:1,1,47,31
+Layer 2
+bounds:81,6,68,42
+Layer 3
+bounds:132,102,79,36
+offsets:0,1,79,37
+rotate:90
+Layer 4
+bounds:55,108,8,9
+offsets:1,1,10,11
+Layer 40 copy
+bounds:81,50,85,50
+Layer 41 copy
+bounds:132,183,75,39
+rotate:90

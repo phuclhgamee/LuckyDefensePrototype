@@ -1,0 +1,26 @@
+char_hercules_03.png
+size:232,232
+filter:Linear,Linear
+pma:true
+Ellipse 2 copy 2
+bounds:122,58,98,41
+Layer 121
+bounds:168,3,45,53
+Layer 121 copy
+bounds:122,2,44,54
+Layer 123
+bounds:164,102,19,27
+rotate:90
+Layer 1272
+bounds:164,123,20,29
+skin2/Layer 118
+bounds:2,101,160,129
+skin2/Layer 122
+bounds:164,193,37,57
+rotate:90
+skin2/Layer 122 copy
+bounds:164,154,37,56
+rotate:90
+skin2/Layer 1369
+bounds:2,6,93,118
+rotate:90

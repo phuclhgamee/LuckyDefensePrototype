@@ -1,0 +1,9 @@
+wukong1.png
+size:276,176
+filter:Linear,Linear
+pma:true
+Rectangle_1_copy_22
+bounds:2,132,39,269
+rotate:90
+fx
+bounds:2,2,128,128

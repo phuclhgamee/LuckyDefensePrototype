@@ -1,0 +1,21 @@
+Enemy1.png
+size:165,148
+filter:Linear,Linear
+pma:true
+scale:0.8
+Layer 10
+bounds:2,42,89,104
+offsets:0,0,89,105
+Layer 11
+bounds:2,2,39,38
+Layer 12
+bounds:134,19,22,50
+offsets:0,0,23,50
+Layer 6
+bounds:93,71,70,75
+offsets:0,0,70,76
+Layer 7
+bounds:43,7,40,33
+offsets:0,0,40,34
+Layer 9
+bounds:93,14,39,55

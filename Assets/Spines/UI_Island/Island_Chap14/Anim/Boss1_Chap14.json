@@ -1,0 +1,60 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap14/Boss1_Chap14/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Wing2", "bone": "root", "attachment": "Wing2" },
+	{ "name": "Layer 62 copy", "bone": "root", "attachment": "Layer 62 copy" },
+	{ "name": "Layer 67", "bone": "root", "attachment": "Layer 67" },
+	{ "name": "Layer 83", "bone": "root", "attachment": "Layer 83" },
+	{ "name": "Layer 84", "bone": "root", "attachment": "Layer 84" },
+	{ "name": "Group 46", "bone": "root", "attachment": "Group 46" },
+	{ "name": "Layer 63", "bone": "root", "attachment": "Layer 63" },
+	{ "name": "Group 44", "bone": "root", "attachment": "Group 44" },
+	{ "name": "Layer 62", "bone": "root", "attachment": "Layer 62" },
+	{ "name": "Layer 82", "bone": "root", "attachment": "Layer 82" },
+	{ "name": "Layer 58", "bone": "root", "attachment": "Layer 58" },
+	{ "name": "Wing", "bone": "root", "attachment": "Wing" }
+],
+"skins": {
+	"default": {
+		"Wing2": {
+			"Wing2": { "x": 368.5, "y": -348, "width": 203, "height": 174 }
+		},
+		"Layer 62 copy": {
+			"Layer 62 copy": { "x": 252, "y": -421.5, "width": 80, "height": 75 }
+		},
+		"Layer 67": {
+			"Layer 67": { "x": 298.5, "y": -506.5, "width": 107, "height": 135 }
+		},
+		"Layer 83": {
+			"Layer 83": { "x": 567.5, "y": -473, "width": 297, "height": 146 }
+		},
+		"Layer 84": {
+			"Layer 84": { "x": 514.5, "y": -426.5, "width": 143, "height": 251 }
+		},
+		"Group 46": {
+			"Group 46": { "x": 361.5, "y": -377.5, "width": 217, "height": 349 }
+		},
+		"Layer 63": {
+			"Layer 63": { "x": 378.5, "y": -472.5, "width": 105, "height": 83 }
+		},
+		"Group 44": {
+			"Group 44": { "x": 379.5, "y": -528.5, "width": 133, "height": 127 }
+		},
+		"Layer 62": {
+			"Layer 62": { "x": 298, "y": -432, "width": 96, "height": 86 }
+		},
+		"Layer 82": {
+			"Layer 82": { "x": 291, "y": -261.5, "width": 110, "height": 81 }
+		},
+		"Layer 58": {
+			"Layer 58": { "x": 297.5, "y": -210.5, "width": 139, "height": 145 }
+		},
+		"Wing": {
+			"Wing": { "x": 472, "y": -339, "width": 256, "height": 176 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

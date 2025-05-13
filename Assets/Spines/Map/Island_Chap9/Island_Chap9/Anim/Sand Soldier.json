@@ -1,0 +1,40 @@
+{ "skeleton": { "images": "F:/GAMEE/Vampire_Survivor/Enemies/Sand_Soldier/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "Arm back", "bone": "root", "attachment": "Arm back" },
+	{ "name": "Layer 1", "bone": "root", "attachment": "Layer 1" },
+	{ "name": "head", "bone": "root", "attachment": "head" },
+	{ "name": "Spear", "bone": "root", "attachment": "Spear" },
+	{ "name": "Arm front", "bone": "root", "attachment": "Arm front" },
+	{ "name": "Layer 2", "bone": "root", "attachment": "Layer 2" }
+],
+"skins": {
+	"default": {
+		"Body": {
+			"Body": { "x": 128.5, "y": -202, "width": 229, "height": 232 }
+		},
+		"Arm back": {
+			"Arm back": { "x": 217.5, "y": -173.5, "width": 59, "height": 69 }
+		},
+		"Layer 1": {
+			"Layer 1": { "x": 91, "y": -104.5, "width": 84, "height": 67 }
+		},
+		"head": {
+			"head": { "x": 149, "y": -131.5, "width": 82, "height": 101 }
+		},
+		"Spear": {
+			"Spear": { "x": 200, "y": -199, "width": 402, "height": 74 }
+		},
+		"Arm front": {
+			"Arm front": { "x": 192, "y": -193.5, "width": 66, "height": 53 }
+		},
+		"Layer 2": {
+			"Layer 2": { "x": 59.5, "y": -145.5, "width": 85, "height": 135 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

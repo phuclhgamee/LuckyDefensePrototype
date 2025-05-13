@@ -1,0 +1,21 @@
+Enemy5.png
+size:416,416
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,156,229,257
+Head
+bounds:233,215,198,180
+rotate:90
+L Arm
+bounds:233,38,136,175
+R Arm
+bounds:233,38,136,175
+L Leg
+bounds:2,36,54,108
+rotate:90
+Layer 21
+bounds:2,92,62,113
+rotate:90
+R Leg
+bounds:117,51,60,103

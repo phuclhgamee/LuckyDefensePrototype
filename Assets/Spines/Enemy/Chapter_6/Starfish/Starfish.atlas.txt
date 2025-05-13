@@ -1,0 +1,6 @@
+Starfish.png
+size:434,410
+filter:Linear,Linear
+pma:true
+png
+bounds:2,2,430,406

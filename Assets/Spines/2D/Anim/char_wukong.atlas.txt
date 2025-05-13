@@ -1,0 +1,36 @@
+char_wukong.png
+size:256,256
+filter:Linear,Linear
+Ellipse 2 copy 10
+bounds:89,25,96,39
+offsets:1,1,98,41
+Layer 1156
+bounds:2,110,125,144
+offsets:14,16,153,175
+Layer 1157
+bounds:2,14,85,94
+offsets:1,3,91,103
+Layer 1160
+bounds:187,22,40,42
+offsets:1,2,42,45
+Layer 1160 copy
+bounds:129,132,40,41
+offsets:1,0,41,45
+Layer 1161
+bounds:171,140,23,33
+offsets:1,1,25,35
+Layer 1161 copy
+bounds:229,29,25,35
+offsets:1,2,27,38
+Layer 1162
+bounds:196,118,51,67
+offsets:1,1,53,68
+Layer 1162 copy
+bounds:186,187,51,67
+offsets:1,1,53,68
+Layer 1178
+bounds:89,66,150,42
+offsets:1,1,152,44
+Layer 1184
+bounds:129,175,55,79
+offsets:0,0,56,81

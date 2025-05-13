@@ -1,0 +1,19 @@
+Chap6_Fish.png
+size:465,269
+filter:Linear,Linear
+pma:true
+Eyes
+bounds:299,41,111,58
+offsets:1,1,113,60
+rotate:90
+Layer 11
+bounds:2,2,295,265
+Layer 14
+bounds:359,87,65,104
+rotate:90
+Layer 14 copy
+bounds:359,8,96,77
+Tail
+bounds:299,154,113,164
+offsets:0,0,114,165
+rotate:90

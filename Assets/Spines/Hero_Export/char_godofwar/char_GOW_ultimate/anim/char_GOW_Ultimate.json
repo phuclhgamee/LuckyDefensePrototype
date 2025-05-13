@@ -1,0 +1,84 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Heroes/Anim_Hero/char_GOW_ultimate/anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 7404", "bone": "root", "attachment": "Layer 7404" },
+	{ "name": "Layer 20 copy", "bone": "root", "attachment": "Layer 20 copy" },
+	{ "name": "Layer 1411", "bone": "root", "attachment": "Layer 1411" },
+	{ "name": "Layer 1412", "bone": "root", "attachment": "Layer 1412" },
+	{ "name": "Layer 1421 copy", "bone": "root", "attachment": "Layer 1421 copy" },
+	{ "name": "Layer 1433", "bone": "root", "attachment": "Layer 1433" },
+	{ "name": "Layer 7402", "bone": "root", "attachment": "Layer 7402" },
+	{ "name": "Layer 10", "bone": "root", "attachment": "Layer 10" },
+	{ "name": "Layer 11", "bone": "root", "attachment": "Layer 11" },
+	{ "name": "Layer 12", "bone": "root", "attachment": "Layer 12" },
+	{ "name": "Layer 13", "bone": "root", "attachment": "Layer 13" },
+	{ "name": "Layer 8", "bone": "root", "attachment": "Layer 8" },
+	{ "name": "Head", "bone": "root", "attachment": "Head" },
+	{ "name": "Layer 1408", "bone": "root", "attachment": "Layer 1408" },
+	{ "name": "Layer 7389", "bone": "root", "attachment": "Layer 7389" },
+	{ "name": "Layer 1435", "bone": "root", "attachment": "Layer 1435" },
+	{ "name": "Layer 7399", "bone": "root", "attachment": "Layer 7399" },
+	{ "name": "Layer 7388", "bone": "root", "attachment": "Layer 7388" }
+],
+"skins": {
+	"default": {
+		"Layer 7404": {
+			"Layer 7404": { "x": 1252.5, "y": -391, "width": 203, "height": 80 }
+		},
+		"Layer 20 copy": {
+			"Layer 20 copy": { "x": 1233.5, "y": -203.5, "width": 385, "height": 313 }
+		},
+		"Layer 1411": {
+			"Layer 1411": { "x": 1334.5, "y": -217, "width": 81, "height": 110 }
+		},
+		"Layer 1412": {
+			"Layer 1412": { "x": 1357.5, "y": -275.5, "width": 99, "height": 77 }
+		},
+		"Layer 1421 copy": {
+			"Layer 1421 copy": { "x": 1259.5, "y": -212.5, "width": 179, "height": 197 }
+		},
+		"Layer 1433": {
+			"Layer 1433": { "x": 1425.5, "y": -245.5, "width": 163, "height": 203 }
+		},
+		"Layer 7402": {
+			"Layer 7402": { "x": 1382.5, "y": -285, "width": 53, "height": 56 }
+		},
+		"Layer 10": {
+			"Layer 10": { "x": 1216, "y": -339.5, "width": 62, "height": 51 }
+		},
+		"Layer 11": {
+			"Layer 11": { "x": 1195, "y": -365.5, "width": 62, "height": 59 }
+		},
+		"Layer 12": {
+			"Layer 12": { "x": 1297.5, "y": -344.5, "width": 67, "height": 55 }
+		},
+		"Layer 13": {
+			"Layer 13": { "x": 1313, "y": -364.5, "width": 48, "height": 57 }
+		},
+		"Layer 8": {
+			"Layer 8": { "x": 1253.5, "y": -325.5, "width": 157, "height": 85 }
+		},
+		"Head": {
+			"Head": { "x": 1243, "y": -147.5, "width": 272, "height": 191 }
+		},
+		"Layer 1408": {
+			"Layer 1408": { "x": 1192.5, "y": -225, "width": 103, "height": 128 }
+		},
+		"Layer 7389": {
+			"Layer 7389": { "x": 1171.5, "y": -277, "width": 69, "height": 80 }
+		},
+		"Layer 1435": {
+			"Layer 1435": { "x": 1190.5, "y": -269.5, "width": 41, "height": 25 }
+		},
+		"Layer 7399": {
+			"Layer 7399": { "x": 1144.5, "y": -246, "width": 141, "height": 196 }
+		},
+		"Layer 7388": {
+			"Layer 7388": { "x": 1181.5, "y": -293.5, "width": 61, "height": 49 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

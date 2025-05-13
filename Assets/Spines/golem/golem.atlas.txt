@@ -1,0 +1,23 @@
+golem.png
+size:708,524
+filter:Linear,Linear
+pma:true
+scale:0.8
+Layer 10
+bounds:294,2,231,266
+rotate:90
+Layer 10 copy
+bounds:2,9,110,290
+rotate:90
+Layer 116617
+bounds:215,235,170,286
+Layer 116625 copy
+bounds:601,427,97,94
+Layer 116627
+bounds:387,253,212,268
+Layer 116627 copy 2
+bounds:562,7,144,244
+Layer 7
+bounds:2,121,211,400
+blob_shadow
+bounds:215,212,63,21

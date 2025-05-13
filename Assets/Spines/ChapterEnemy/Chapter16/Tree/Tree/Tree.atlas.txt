@@ -1,0 +1,26 @@
+Tree.png
+size:565,308
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy 7
+bounds:2,3,212,111
+offsets:1,1,214,113
+Layer 116855
+bounds:196,124,245,182
+Layer 116856
+bounds:443,244,73,62
+offsets:1,1,75,64
+Layer 116858
+bounds:511,180,52,62
+offsets:1,1,54,64
+Layer 116859
+bounds:443,151,66,91
+offsets:1,1,68,93
+Layer 116860
+bounds:2,116,192,190
+Layer 116861
+bounds:385,2,167,120
+offsets:1,1,169,122
+Layer 116861 copy
+bounds:216,2,167,120
+offsets:1,1,169,122

@@ -1,0 +1,12 @@
+val_chest.png
+size:144,144
+filter:Linear,Linear
+pma:true
+Layer 1137 copy
+bounds:73,6,52,69
+rotate:90
+Layer 1137 copy 2
+bounds:2,6,52,69
+rotate:90
+Layer 1168 copy
+bounds:2,60,92,82

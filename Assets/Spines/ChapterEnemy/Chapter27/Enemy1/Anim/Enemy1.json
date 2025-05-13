@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap17/Enemy1/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 11", "bone": "root", "attachment": "Layer 11" },
+	{ "name": "Layer 10", "bone": "root", "attachment": "Layer 10" },
+	{ "name": "Layer 6", "bone": "root", "attachment": "Layer 6" },
+	{ "name": "Layer 9", "bone": "root", "attachment": "Layer 9" },
+	{ "name": "Layer 12", "bone": "root", "attachment": "Layer 12" },
+	{ "name": "Layer 7", "bone": "root", "attachment": "Layer 7" }
+],
+"skins": {
+	"default": {
+		"Layer 11": {
+			"Layer 11": { "x": 34.5, "y": -125, "width": 49, "height": 48 }
+		},
+		"Layer 10": {
+			"Layer 10": { "x": 85.5, "y": -81.5, "width": 111, "height": 131 }
+		},
+		"Layer 6": {
+			"Layer 6": { "x": 46.5, "y": -111.5, "width": 87, "height": 95 }
+		},
+		"Layer 9": {
+			"Layer 9": { "x": 142.5, "y": -113.5, "width": 49, "height": 69 }
+		},
+		"Layer 12": {
+			"Layer 12": { "x": 100.5, "y": -145.5, "width": 29, "height": 63 }
+		},
+		"Layer 7": {
+			"Layer 7": { "x": 37, "y": -116, "width": 50, "height": 42 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

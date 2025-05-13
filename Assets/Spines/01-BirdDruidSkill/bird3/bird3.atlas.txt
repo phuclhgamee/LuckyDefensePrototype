@@ -1,0 +1,26 @@
+bird3.png
+size:396,396
+filter:Linear,Linear
+pma:true
+Layer 36
+bounds:2,11,150,189
+Layer 37
+bounds:281,37,69,72
+rotate:90
+Layer 46
+bounds:335,340,40,54
+Layer 47
+bounds:154,2,39,52
+rotate:90
+Layer 49
+bounds:307,108,85,117
+Layer 50
+bounds:2,202,163,192
+Layer 50 copy
+bounds:167,227,166,167
+Layer 50 copy 2
+bounds:154,43,89,125
+rotate:90
+Layer 50 copy 3
+bounds:167,134,91,138
+rotate:90

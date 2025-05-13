@@ -1,0 +1,33 @@
+ninja_rework_02.png
+size:252,252
+filter:Linear,Linear
+pma:true
+scale:0.75
+Ellipse 2 copy 5
+bounds:2,200,123,50
+Layer 64
+bounds:105,105,90,38
+Layer 65
+bounds:160,7,71,60
+Layer 69
+bounds:105,29,74,53
+rotate:90
+Layer 69 copy
+bounds:197,69,74,53
+rotate:90
+Layer 72
+bounds:127,145,105,104
+rotate:90
+Layer 73
+bounds:2,6,31,38
+rotate:90
+Layer 73 copy
+bounds:66,13,33,61
+Layer 73 copy 3
+bounds:160,74,34,29
+Layer 73 copy 4
+bounds:2,39,35,62
+rotate:90
+Layer 75
+bounds:2,76,122,101
+rotate:90

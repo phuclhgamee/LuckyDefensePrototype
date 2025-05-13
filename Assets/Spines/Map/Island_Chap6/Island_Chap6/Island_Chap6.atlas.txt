@@ -1,0 +1,61 @@
+Island_Chap6.png
+size:1688,1076
+filter:Linear,Linear
+pma:true
+scale:0.7
+Body
+bounds:1490,20,121,159
+offsets:0,0,122,159
+Coat 1
+bounds:1060,13,181,99
+Coat 2
+bounds:1206,164,198,195
+Crown
+bounds:1604,1009,77,62
+offsets:0,0,78,62
+Face
+bounds:1243,19,104,94
+offsets:1,0,106,95
+Island1
+bounds:1060,361,542,710
+L Arm
+bounds:1604,374,37,78
+offsets:1,0,38,78
+L Armpit
+bounds:1604,924,60,83
+offsets:0,0,60,84
+L Feet
+bounds:1604,493,46,61
+L Hand
+bounds:1604,454,40,37
+offsets:0,1,41,38
+L Leg
+bounds:1604,774,53,72
+offsets:0,0,53,73
+Layer 31
+bounds:1060,114,144,245
+Layer 33
+bounds:1406,181,88,178
+Layer 40
+bounds:1496,211,169,148
+Layer 41
+bounds:1368,2,120,160
+Light
+bounds:2,15,1056,1056
+offsets:46,35,1148,1136
+R Arm
+bounds:1604,700,51,72
+offsets:1,0,53,73
+R Armpit
+bounds:1604,619,49,79
+offsets:0,1,50,81
+R Feet
+bounds:1604,556,47,61
+offsets:1,0,48,61
+R Hand
+bounds:1646,450,39,41
+offsets:0,0,39,43
+R Leg
+bounds:1604,848,53,74
+Shadow
+bounds:1206,115,160,47

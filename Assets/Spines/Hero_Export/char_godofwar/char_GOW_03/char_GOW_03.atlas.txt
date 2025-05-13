@@ -1,0 +1,39 @@
+char_GOW_03.png
+size:308,308
+filter:Linear,Linear
+pma:true
+Group 15 copy
+bounds:111,55,86,114
+Group 15 copy 2
+bounds:2,52,107,117
+Layer 7355
+bounds:139,178,24,43
+rotate:90
+Layer 7356
+bounds:270,70,26,37
+Layer 7360
+bounds:199,132,70,52
+rotate:90
+Layer 7362
+bounds:242,230,57,76
+Layer 7364
+bounds:139,204,101,102
+Layer 7366
+bounds:131,6,86,47
+Layer 7376
+bounds:2,171,135,135
+Layer 7379
+bounds:199,60,70,69
+rotate:90
+Layer 7384
+bounds:247,35,23,23
+Layer 7385
+bounds:219,21,26,37
+Layer 7386
+bounds:270,109,36,23
+Layer 7388
+bounds:253,134,50,40
+Layer 7389
+bounds:253,176,53,52
+Layer 7390
+bounds:2,2,127,48

@@ -1,0 +1,67 @@
+Island_Chap25.png
+size:1552,928
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy 4
+bounds:1389,443,136,71
+offsets:1,1,138,73
+Hat
+bounds:1394,778,148,156
+offsets:1,1,150,158
+rotate:90
+Head
+bounds:1101,300,250,194
+offsets:1,2,253,198
+Island
+bounds:2,11,915,1097
+offsets:84,108,1092,1280
+rotate:90
+Knife
+bounds:1318,191,212,62
+offsets:1,1,214,64
+L Arm
+bounds:1361,2,84,85
+offsets:2,1,87,87
+L Armpit
+bounds:1297,89,93,100
+offsets:2,6,96,107
+L Feet
+bounds:1272,27,87,55
+offsets:1,1,89,57
+R Feet
+bounds:1272,27,87,55
+offsets:1,1,89,57
+L Hand
+bounds:1188,8,82,73
+offsets:1,1,84,76
+L Leg
+bounds:1199,84,96,105
+offsets:0,1,97,106
+Layer 33
+bounds:1353,255,197,186
+offsets:0,0,198,186
+Mouth
+bounds:1394,516,260,142
+rotate:90
+Oar
+bounds:1101,200,215,98
+offsets:0,0,215,99
+R Arm
+bounds:1447,2,86,86
+offsets:1,2,88,90
+R Armpit
+bounds:1392,90,87,99
+offsets:1,1,89,101
+R Hand
+bounds:1101,3,78,85
+offsets:2,1,81,87
+rotate:90
+R Leg
+bounds:1101,83,96,106
+offsets:0,0,97,106
+Scarf
+bounds:1101,496,269,286
+offsets:1,1,271,288
+rotate:90
+Tail
+bounds:1101,767,291,159

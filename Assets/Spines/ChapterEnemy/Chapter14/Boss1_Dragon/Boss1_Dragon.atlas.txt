@@ -1,0 +1,31 @@
+Boss1_Dragon.png
+size:690,292
+filter:Linear,Linear
+pma:true
+scale:0.8
+Group 44
+bounds:467,8,106,102
+Group 46
+bounds:2,11,174,279
+Layer 58
+bounds:178,31,110,116
+offsets:0,0,111,116
+Layer 62
+bounds:575,41,77,69
+Layer 62 copy
+bounds:624,169,64,60
+Layer 63
+bounds:290,15,83,66
+offsets:0,0,84,66
+Layer 67
+bounds:379,2,86,108
+Layer 82
+bounds:290,83,87,64
+offsets:1,0,88,65
+Layer 83
+bounds:385,112,237,117
+offsets:0,0,238,117
+Wing
+bounds:178,149,205,141
+tail
+bounds:385,231,273,59

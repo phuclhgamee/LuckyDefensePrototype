@@ -1,0 +1,28 @@
+char_wukong_elite.png
+size:300,300
+filter:Linear,Linear
+pma:true
+Ellipse 2 copy 10
+bounds:257,122,98,41
+rotate:90
+skin2/Layer 1161
+bounds:39,10,23,32
+rotate:90
+skin2/Layer 1161 copy
+bounds:2,9,24,35
+rotate:90
+skin2/Layer 1162 - Smart Object Group
+bounds:132,128,92,123
+rotate:90
+skin2/Layer 1162 - Smart Object Group copy 2
+bounds:105,44,75,82
+skin2/Layer 1178
+bounds:132,222,165,76
+skin2/Layer 1184
+bounds:182,50,52,76
+skin2/Layer 1339
+bounds:2,35,101,117
+skin2/Layer 1348 copy - Smart Object Group
+bounds:236,68,51,52
+skin2/Layer 1349
+bounds:2,154,128,144

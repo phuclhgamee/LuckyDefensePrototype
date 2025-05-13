@@ -1,0 +1,22 @@
+Mosquito.png
+size:179,218
+filter:Linear,Linear
+pma:true
+Ellipse 4
+bounds:2,2,103,54
+offsets:1,1,105,56
+Layer 116830
+bounds:2,58,108,89
+offsets:1,1,110,91
+Layer 116831
+bounds:2,149,115,67
+offsets:1,1,117,69
+Layer 116832
+bounds:112,68,61,68
+offsets:1,1,63,70
+Layer 116834
+bounds:112,5,61,61
+offsets:1,1,64,63
+Layer 116834 copy
+bounds:119,138,58,78
+offsets:1,1,60,80

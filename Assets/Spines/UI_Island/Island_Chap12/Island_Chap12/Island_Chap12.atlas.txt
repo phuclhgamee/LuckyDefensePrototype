@@ -1,0 +1,46 @@
+Island_Chap12.png
+size:992,476
+filter:Linear,Linear
+pma:true
+Group 30
+bounds:915,100,64,86
+offsets:1,1,67,88
+Group 31
+bounds:915,21,63,77
+offsets:0,0,64,77
+Group 32
+bounds:926,391,61,81
+offsets:1,1,64,83
+Group 33
+bounds:924,232,63,75
+offsets:0,0,63,76
+Group 35
+bounds:834,68,79,118
+offsets:1,1,81,120
+Group 36
+bounds:797,309,127,163
+offsets:2,2,130,166
+Group 37
+bounds:631,18,201,215
+offsets:0,0,201,216
+Island
+bounds:2,3,398,469
+offsets:72,85,542,639
+Layer 1175
+bounds:402,31,105,112
+offsets:0,1,105,113
+Layer 1175 copy
+bounds:834,188,88,119
+offsets:0,1,88,120
+Layer 1185
+bounds:509,2,100,141
+offsets:1,1,102,143
+Layer 1190
+bounds:402,214,204,258
+offsets:2,1,207,260
+Layer 1190 copy
+bounds:608,235,187,237
+offsets:1,1,190,239
+Shadow
+bounds:402,145,227,67
+offsets:1,0,229,67

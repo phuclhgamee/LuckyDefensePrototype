@@ -1,0 +1,20 @@
+IAP.png
+size:480,204
+filter:Linear,Linear
+pma:true
+Brightness_Contrast 1 copy
+bounds:304,19,64,76
+Group 3
+bounds:224,26,78,69
+a1
+bounds:370,28,65,73
+a2
+bounds:437,2,41,99
+chest
+bounds:336,103,115,97
+light
+bounds:224,97,110,103
+offsets:8,8,125,119
+treasure_ray
+bounds:2,2,220,198
+offsets:7,14,231,226

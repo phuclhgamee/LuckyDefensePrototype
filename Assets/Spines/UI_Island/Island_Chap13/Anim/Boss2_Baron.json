@@ -1,0 +1,40 @@
+{ "skeleton": { "images": "F:/GAMEE/OLD/Vampire_Survivor/BOSS/Boss2_Baron/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "R leg copy", "bone": "root", "attachment": "R leg copy" },
+	{ "name": "Group 1", "bone": "root", "attachment": "Group 1" },
+	{ "name": "L leg", "bone": "root", "attachment": "L leg" },
+	{ "name": "mouth", "bone": "root", "attachment": "mouth" },
+	{ "name": "head", "bone": "root", "attachment": "head" },
+	{ "name": "Eyes", "bone": "root", "attachment": "Eyes" },
+	{ "name": "Layer 1", "bone": "root", "attachment": "Layer 1" }
+],
+"skins": {
+	"default": {
+		"R leg copy": {
+			"R leg copy": { "x": 114.5, "y": -708.5, "width": 145, "height": 137 }
+		},
+		"Group 1": {
+			"Group 1": { "x": 310.5, "y": -474, "width": 413, "height": 648 }
+		},
+		"L leg": {
+			"L leg": { "x": 416.5, "y": -695.5, "width": 151, "height": 143 }
+		},
+		"mouth": {
+			"mouth": { "x": 309, "y": -390, "width": 332, "height": 256 }
+		},
+		"head": {
+			"head": { "x": 303.5, "y": -254, "width": 343, "height": 400 }
+		},
+		"Eyes": {
+			"Eyes": { "x": 219, "y": -329, "width": 200, "height": 120 }
+		},
+		"Layer 1": {
+			"Layer 1": { "x": 258.5, "y": -758, "width": 501, "height": 138 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

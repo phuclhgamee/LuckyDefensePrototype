@@ -1,0 +1,29 @@
+HeroPack.png
+size:416,416
+filter:Linear,Linear
+pma:true
+Layer 1384
+bounds:236,229,74,80
+rotate:90
+Layer 1385
+bounds:2,181,232,231
+Layer 1385 copy
+bounds:296,157,58,41
+Layer 1385 copy 2
+bounds:236,186,58,41
+Layer 1385 copy 3
+bounds:367,241,62,45
+rotate:90
+Layer 1385 copy 4
+bounds:367,177,62,45
+rotate:90
+Layer 1386
+bounds:318,200,103,47
+rotate:90
+Polygon 1 copy 10
+bounds:384,385,27,27
+Polygon 1 copy 11
+bounds:384,385,27,27
+Polygon 1 copy 9
+bounds:236,305,107,146
+rotate:90

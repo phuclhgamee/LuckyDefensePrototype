@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Enemy/Chap16/Mosquito/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Ellipse 4", "bone": "root", "attachment": "Ellipse 4" },
+	{ "name": "Layer 116830", "bone": "root", "attachment": "Layer 116830" },
+	{ "name": "Layer 116834", "bone": "root", "attachment": "Layer 116834" },
+	{ "name": "Layer 116834 copy", "bone": "root", "attachment": "Layer 116834 copy" },
+	{ "name": "Layer 116832", "bone": "root", "attachment": "Layer 116832" },
+	{ "name": "Layer 116831", "bone": "root", "attachment": "Layer 116831" }
+],
+"skins": {
+	"default": {
+		"Ellipse 4": {
+			"Ellipse 4": { "x": 88.5, "y": -185, "width": 105, "height": 56 }
+		},
+		"Layer 116830": {
+			"Layer 116830": { "x": 78, "y": -102.5, "width": 110, "height": 91 }
+		},
+		"Layer 116834": {
+			"Layer 116834": { "x": 108, "y": -46.5, "width": 64, "height": 63 }
+		},
+		"Layer 116834 copy": {
+			"Layer 116834 copy": { "x": 58, "y": -39, "width": 60, "height": 80 }
+		},
+		"Layer 116832": {
+			"Layer 116832": { "x": 33.5, "y": -127, "width": 63, "height": 70 }
+		},
+		"Layer 116831": {
+			"Layer 116831": { "x": 57.5, "y": -90.5, "width": 117, "height": 69 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

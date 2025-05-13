@@ -1,0 +1,28 @@
+char_druid_03.png
+size:336,336
+filter:Linear,Linear
+pma:true
+Ellipse 2 copy 11
+bounds:149,172,98,41
+skin2/Layer 1208
+bounds:249,109,104,78
+rotate:90
+skin2/Layer 1213
+bounds:70,31,109,119
+skin2/Layer 1215
+bounds:107,4,25,33
+rotate:90
+skin2/Layer 1216
+bounds:70,2,27,35
+rotate:90
+skin2/Layer 1218
+bounds:2,25,125,66
+rotate:90
+skin2/Layer 1221
+bounds:250,6,67,101
+skin2/Layer 1221 copy
+bounds:181,6,67,101
+skin2/Layer 1370
+bounds:149,215,164,116
+skin2/Layer 1371
+bounds:2,152,145,179

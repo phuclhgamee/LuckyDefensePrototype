@@ -1,0 +1,67 @@
+Boss1_Kent_Chap6.png
+size:448,1028
+filter:Linear,Linear
+pma:true
+Hat
+bounds:296,90,148,156
+offsets:1,1,150,158
+Head
+bounds:2,109,250,194
+offsets:1,2,253,198
+rotate:90
+Knife
+bounds:269,526,212,62
+offsets:1,1,214,64
+rotate:90
+L Arm
+bounds:108,361,84,85
+offsets:2,1,87,87
+rotate:90
+L Armpit
+bounds:333,557,93,100
+offsets:2,6,96,107
+L Feet
+bounds:386,367,87,55
+offsets:1,1,89,57
+rotate:90
+R Feet
+bounds:386,367,87,55
+offsets:1,1,89,57
+rotate:90
+L Hand
+bounds:269,451,82,73
+offsets:1,1,84,76
+L Leg
+bounds:333,659,96,105
+offsets:0,1,97,106
+Layer 33
+bounds:198,248,197,186
+offsets:0,0,198,186
+rotate:90
+Layer 34
+bounds:2,361,377,104
+rotate:90
+Mouth
+bounds:273,766,260,142
+rotate:90
+Oar
+bounds:2,9,215,98
+offsets:0,0,215,99
+R Arm
+bounds:219,2,86,86
+offsets:1,2,88,90
+R Armpit
+bounds:353,456,87,99
+offsets:1,1,89,101
+R Hand
+bounds:307,3,78,85
+offsets:2,1,81,87
+R Leg
+bounds:198,140,96,106
+offsets:0,0,97,106
+Scarf
+bounds:2,740,269,286
+offsets:1,1,271,288
+Tail
+bounds:108,447,291,159
+rotate:90

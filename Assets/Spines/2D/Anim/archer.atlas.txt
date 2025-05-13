@@ -1,0 +1,44 @@
+archer.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Layer 116633
+bounds:2,235,160,108
+offsets:17,12,199,124
+Layer 116637
+bounds:2,163,99,70
+offsets:1,1,101,72
+Layer 116638
+bounds:2,30,96,46
+offsets:1,1,98,48
+Layer 116639
+bounds:120,23,87,46
+offsets:4,1,93,47
+Layer 116641
+bounds:100,44,18,29
+offsets:1,2,21,37
+Layer 116642
+bounds:127,170,22,16
+offsets:1,1,24,18
+Layer 116642 copy
+bounds:103,170,22,16
+offsets:2,1,25,18
+Layer 116643
+bounds:100,112,43,49
+offsets:1,1,45,51
+Layer 116643 copy
+bounds:103,188,53,45
+offsets:1,1,56,47
+Layer 116645
+bounds:2,78,96,83
+offsets:2,1,98,86
+Layer 116646
+bounds:164,226,112,117
+offsets:2,1,115,119
+Layer 116649
+bounds:158,71,52,153
+offsets:6,14,70,181
+Layer-21
+bounds:100,75,20,35
+blob_shadow
+bounds:2,2,79,26
