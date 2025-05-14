@@ -1,0 +1,41 @@
+char_duck.png
+size:512,512
+filter:Linear,Linear
+Ellipse 2 copy 9
+bounds:2,122,162,65
+offsets:1,1,164,67
+rotate:90
+Layer 1257
+bounds:96,204,80,52
+offsets:2,1,83,54
+rotate:90
+Layer 1258
+bounds:2,286,169,222
+Layer 1259
+bounds:69,203,81,25
+offsets:1,1,83,27
+rotate:90
+Layer 1260
+bounds:111,31,45,36
+offsets:1,1,47,38
+rotate:90
+Layer 1263
+bounds:111,78,44,51
+offsets:1,1,46,53
+Layer 1264
+bounds:90,131,70,62
+offsets:1,1,72,64
+rotate:90
+Layer 1266
+bounds:69,130,71,19
+offsets:2,1,74,21
+rotate:90
+Layer 1270
+bounds:2,2,107,118
+offsets:2,1,110,120
+Layer 1271 copy
+bounds:150,221,49,63
+offsets:1,1,51,65
+Layer 1271
+bounds:150,221,49,63
+offsets:1,1,51,65

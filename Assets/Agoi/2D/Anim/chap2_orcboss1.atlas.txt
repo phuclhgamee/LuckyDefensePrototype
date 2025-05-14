@@ -1,0 +1,76 @@
+chap2_orcboss1.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Ellipse 1
+bounds:2,760,255,254
+offsets:1,1,257,256
+Layer 116707
+bounds:705,644,196,184
+offsets:1,1,198,186
+Layer 116707 copy 2
+bounds:705,830,196,184
+offsets:1,1,198,186
+Layer 1167071 copy 4
+bounds:259,819,195,221
+offsets:1,1,197,223
+rotate:90
+Layer 116709
+bounds:482,819,221,195
+Layer 116713 copy 2
+bounds:425,689,46,95
+offsets:1,1,48,97
+rotate:90
+Layer 116713 copy
+bounds:425,689,46,95
+offsets:1,1,48,97
+rotate:90
+Layer 116714
+bounds:578,733,84,97
+offsets:1,1,86,99
+rotate:90
+Layer 116714 copy
+bounds:903,580,82,100
+offsets:2,1,85,102
+rotate:90
+Layer 116716
+bounds:425,737,80,151
+offsets:1,1,82,153
+rotate:90
+Layer 116716 copy
+bounds:2,615,82,151
+offsets:2,1,85,154
+rotate:90
+Layer 116728
+bounds:259,718,164,99
+offsets:1,11,177,113
+Layer 116729
+bounds:577,670,61,62
+offsets:1,1,63,64
+rotate:90
+blob_shadow1 copy 2
+bounds:2,699,157,59
+offsets:1,1,159,61
+blood/blood_05_0001
+bounds:903,757,69,108
+offsets:23,0,100,134
+rotate:90
+blood/blood_05_0002
+bounds:903,926,88,111
+offsets:5,7,100,134
+rotate:90
+blood/blood_05_0003
+bounds:903,828,96,109
+offsets:1,13,100,134
+rotate:90
+blood/blood_05_0004
+bounds:161,660,98,95
+offsets:1,39,100,134
+rotate:90
+blood/blood_05_0005
+bounds:903,664,100,91
+offsets:0,42,100,134
+blood/blood_05_0006
+bounds:522,661,74,53
+offsets:26,81,100,134
+rotate:90

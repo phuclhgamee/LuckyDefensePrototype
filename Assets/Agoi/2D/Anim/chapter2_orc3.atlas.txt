@@ -1,0 +1,36 @@
+chapter2_orc3.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Layer 116671
+bounds:2,6,23,34
+offsets:1,1,25,36
+rotate:90
+Layer 116672
+bounds:104,150,89,88
+offsets:1,1,91,90
+Layer 116673
+bounds:109,2,72,61
+offsets:1,1,74,63
+Layer 116674
+bounds:142,103,45,46
+offsets:1,1,47,48
+rotate:90
+Layer 116675
+bounds:2,31,100,105
+offsets:1,1,102,107
+rotate:90
+Layer 116675 copy 2
+bounds:2,133,100,105
+offsets:1,1,102,107
+Layer 653 copy
+bounds:183,55,45,46
+offsets:1,1,47,48
+Layer 656 copy
+bounds:38,6,23,34
+offsets:1,1,25,36
+rotate:90
+blob_shadow1 copy
+bounds:109,65,83,31
+offsets:1,1,85,33
+rotate:90

@@ -1,0 +1,190 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: artifact-atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 51
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9a60ee2dfef98f543af643d1073b6789, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - d00100c07aa3bde44b484a6e96458b43: 21300000
+    - 0b7a76d0712b99f4f978e94bf0106b6e: 21300000
+    - 7a159dd0f3f4e8f48bf08d6fb6a72868: 21300000
+    - 86836c918006df04c901dcbcf7d48e09: 21300000
+    - 9a1bf9b18b2e81e4b95524d911ef2dbd: 21300000
+    - 0fbfa66239c61b74781173c660d9f51e: 21300000
+    - 7658c3821e6d6bd4795bd7277eeebf77: 21300000
+    - c53465821f8caeb4ab9f17f9e3bc2502: 21300000
+    - bdb3e8b2d4679014e9b31c5629981d00: 21300000
+    - 7c4339d3814026f41bfa4d3e4a474bfe: 21300000
+    - 5e7785f37978c454dbe9e64907286cd3: 21300000
+    - 11872ef3def22d14fa57db09901a1907: 21300000
+    - 5cf2d564476bdee4599385d14b09993d: 21300000
+    - ed348f74002bf194f80f1d9701208590: 21300000
+    - 579487841a88846459d2b03ebf6e1487: 21300000
+    - 37636394d27980640b327846db8920a2: 21300000
+    - 13aaa9e43f2fb6040bbdb0aba531ec87: 21300000
+    - 9386e665438c3be429c80dcd8be0c67f: 21300000
+    - 39774db505fbb0847bd85a8a2afab3b2: 21300000
+    - 51468027efc3c4d47865f5be41ebe1b1: 21300000
+    - 861c82274d6d44a41934ecf04a47382d: 21300000
+    - 4b7dd2278fb9545499b36ef68562e0ac: 21300000
+    - 17c6e2081f9b45b42a4705e9caa06b79: 21300000
+    - 107e548824a85c949a142e2d67fb1836: 21300000
+    - 9c4bcaa8f651b3a48be7d974fc101d60: 21300000
+    - b41e90d8e4b42594394b4345ba482b92: 21300000
+    - 4d2a231953e7eaa498776b00caca9755: 21300000
+    - 663b0d190e8a9674482f287f7a60b947: 21300000
+    - 30aa9db9781396d4cb7e95b4fa848cdc: 21300000
+    - 808c02f9dc8ea98478a52df97ebc7f94: 21300000
+    - 3473966abffe1f14ab985cc06f40c8c4: 21300000
+    - 569d3b6ae8bb463458f1189377580f47: 21300000
+    - 70d7e4aa92d36504dbdb769b2d669bd7: 21300000
+    - 7ff4feaa63a027d4db6d0683f8d802c1: 21300000
+    - 8bf821bb6e125b94989a322acd4279a4: 21300000
+    - c1a622eb6f78b754f8c117073f5ebe4d: 21300000
+    - 17113c2c385075e48ae102dd1cba18b8: 21300000
+    - 164d698cc3aeb5d46845fbe8b7c58585: 21300000
+    - d418c4ecec31c70458bdd53ebc6b581f: 21300000
+    - a2039d6d71b0d3241a0cd111278d9d6c: 21300000
+    - b68ed5becc83fe04abd97a1830725af9: 21300000
+    - 4401796f77d8587458d5b7f66be89d79: 21300000
+    - 7d9a948f70772194ebfb336ac93ccf84: 21300000
+    - 08b858af76a6ed342a92e54382b84d39: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d00100c07aa3bde44b484a6e96458b43, type: 3}
+  - {fileID: 21300000, guid: 0b7a76d0712b99f4f978e94bf0106b6e, type: 3}
+  - {fileID: 21300000, guid: 7a159dd0f3f4e8f48bf08d6fb6a72868, type: 3}
+  - {fileID: 21300000, guid: 86836c918006df04c901dcbcf7d48e09, type: 3}
+  - {fileID: 21300000, guid: 9a1bf9b18b2e81e4b95524d911ef2dbd, type: 3}
+  - {fileID: 21300000, guid: 0fbfa66239c61b74781173c660d9f51e, type: 3}
+  - {fileID: 21300000, guid: 7658c3821e6d6bd4795bd7277eeebf77, type: 3}
+  - {fileID: 21300000, guid: c53465821f8caeb4ab9f17f9e3bc2502, type: 3}
+  - {fileID: 21300000, guid: bdb3e8b2d4679014e9b31c5629981d00, type: 3}
+  - {fileID: 21300000, guid: 7c4339d3814026f41bfa4d3e4a474bfe, type: 3}
+  - {fileID: 21300000, guid: 5e7785f37978c454dbe9e64907286cd3, type: 3}
+  - {fileID: 21300000, guid: 11872ef3def22d14fa57db09901a1907, type: 3}
+  - {fileID: 21300000, guid: 5cf2d564476bdee4599385d14b09993d, type: 3}
+  - {fileID: 21300000, guid: ed348f74002bf194f80f1d9701208590, type: 3}
+  - {fileID: 21300000, guid: 579487841a88846459d2b03ebf6e1487, type: 3}
+  - {fileID: 21300000, guid: 37636394d27980640b327846db8920a2, type: 3}
+  - {fileID: 21300000, guid: 13aaa9e43f2fb6040bbdb0aba531ec87, type: 3}
+  - {fileID: 21300000, guid: 9386e665438c3be429c80dcd8be0c67f, type: 3}
+  - {fileID: 21300000, guid: 39774db505fbb0847bd85a8a2afab3b2, type: 3}
+  - {fileID: 21300000, guid: 51468027efc3c4d47865f5be41ebe1b1, type: 3}
+  - {fileID: 21300000, guid: 861c82274d6d44a41934ecf04a47382d, type: 3}
+  - {fileID: 21300000, guid: 4b7dd2278fb9545499b36ef68562e0ac, type: 3}
+  - {fileID: 21300000, guid: 17c6e2081f9b45b42a4705e9caa06b79, type: 3}
+  - {fileID: 21300000, guid: 107e548824a85c949a142e2d67fb1836, type: 3}
+  - {fileID: 21300000, guid: 9c4bcaa8f651b3a48be7d974fc101d60, type: 3}
+  - {fileID: 21300000, guid: b41e90d8e4b42594394b4345ba482b92, type: 3}
+  - {fileID: 21300000, guid: 4d2a231953e7eaa498776b00caca9755, type: 3}
+  - {fileID: 21300000, guid: 663b0d190e8a9674482f287f7a60b947, type: 3}
+  - {fileID: 21300000, guid: 30aa9db9781396d4cb7e95b4fa848cdc, type: 3}
+  - {fileID: 21300000, guid: 808c02f9dc8ea98478a52df97ebc7f94, type: 3}
+  - {fileID: 21300000, guid: 3473966abffe1f14ab985cc06f40c8c4, type: 3}
+  - {fileID: 21300000, guid: 569d3b6ae8bb463458f1189377580f47, type: 3}
+  - {fileID: 21300000, guid: 70d7e4aa92d36504dbdb769b2d669bd7, type: 3}
+  - {fileID: 21300000, guid: 7ff4feaa63a027d4db6d0683f8d802c1, type: 3}
+  - {fileID: 21300000, guid: 8bf821bb6e125b94989a322acd4279a4, type: 3}
+  - {fileID: 21300000, guid: c1a622eb6f78b754f8c117073f5ebe4d, type: 3}
+  - {fileID: 21300000, guid: 17113c2c385075e48ae102dd1cba18b8, type: 3}
+  - {fileID: 21300000, guid: 164d698cc3aeb5d46845fbe8b7c58585, type: 3}
+  - {fileID: 21300000, guid: d418c4ecec31c70458bdd53ebc6b581f, type: 3}
+  - {fileID: 21300000, guid: a2039d6d71b0d3241a0cd111278d9d6c, type: 3}
+  - {fileID: 21300000, guid: b68ed5becc83fe04abd97a1830725af9, type: 3}
+  - {fileID: 21300000, guid: 4401796f77d8587458d5b7f66be89d79, type: 3}
+  - {fileID: 21300000, guid: 7d9a948f70772194ebfb336ac93ccf84, type: 3}
+  - {fileID: 21300000, guid: 08b858af76a6ed342a92e54382b84d39, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - artifact_highHPdamage
+  - artifact_dronecrit
+  - artifact_dodge
+  - artifact_drone_range
+  - artifact_beastmasterdamage
+  - artifact_holycircleslow
+  - artifact_expbonus
+  - artifact_earthquakebossstun
+  - artifact_swordrainbleed
+  - artifact_atkspd
+  - artifact_def
+  - artifact_maxskillselect
+  - artifact_beastmasterbleed
+  - artifact_ricochetexplode
+  - artifact_block
+  - artifact_golemholycircle
+  - artifact_kameknockback
+  - artifact_throwweaponexplosion
+  - artifact_fireball_multiexplosion
+  - artifact_regen
+  - artifact_spinningedgestandamage
+  - artifact_quickslashbleed
+  - artifact_critrate
+  - artifact_golemstun
+  - artifact_holycircleheal
+  - artifact_bloodrain
+  - artifact_quickslashslow
+  - artifact_physdam
+  - artifact_movespeed
+  - artifact_death
+  - artifact_HP
+  - artifact_lowhpdamage
+  - artifact_fireballarea
+  - artifact_spinningedgeinstakill
+  - artifact_critdam
+  - artifact_swordrainstun
+  - artifact_meat
+  - artifact_kameexplode
+  - artifact_magdam
+  - artifact_throwweaponpenetration
+  - artifact_lightningstun
+  - artifact_earthquakearea
+  - artifact_lightningx2
+  - artifact_ricochet_bounce
+  m_RenderDataMap: {}
+  m_Tag: artifact-atlas
+  m_IsVariant: 0

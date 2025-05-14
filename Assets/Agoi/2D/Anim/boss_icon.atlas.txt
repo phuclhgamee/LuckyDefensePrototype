@@ -1,0 +1,17 @@
+boss_icon.png
+size:1024,1024
+filter:Linear,Linear
+Layer 698
+bounds:611,731,114,78
+offsets:1,1,116,80
+rotate:90
+Layer 714
+bounds:2,236,607,609
+offsets:28,30,664,665
+Rectangle 2
+bounds:2,6,254,228
+offsets:1,1,256,230
+icon
+bounds:258,17,217,587
+offsets:9,11,235,609
+rotate:90

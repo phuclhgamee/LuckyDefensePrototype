@@ -1,0 +1,11 @@
+bot3.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Ellipse 3
+bounds:2,149,95,141
+offsets:1,1,97,143
+Ellipse 7 copy 3
+bounds:2,2,145,52
+offsets:1,1,147,54
+rotate:90

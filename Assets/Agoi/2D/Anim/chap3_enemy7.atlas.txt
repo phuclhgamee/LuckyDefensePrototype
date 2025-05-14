@@ -1,0 +1,26 @@
+chap3_enemy7.png
+size:512,512
+filter:Linear,Linear
+Layer 81
+bounds:2,2,122,160
+offsets:1,1,124,162
+rotate:90
+Layer 82
+bounds:2,299,190,202
+offsets:1,1,192,204
+Layer 84
+bounds:86,126,82,171
+offsets:1,1,84,174
+Layer 84 copy 2
+bounds:2,126,82,171
+offsets:1,1,84,174
+Layer 85 copy
+bounds:164,55,40,69
+offsets:1,1,42,71
+Layer 85
+bounds:164,55,40,69
+offsets:1,1,42,71
+blob_shadow1 copy 7
+bounds:170,132,165,62
+offsets:1,1,167,64
+rotate:90

@@ -1,0 +1,38 @@
+earth_quake.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Layer 116392
+bounds:2,2,105,123
+offsets:1,1,107,126
+rotate:90
+Layer 116393
+bounds:101,115,132,47
+offsets:2,1,135,49
+rotate:90
+Layer 116394
+bounds:127,85,28,26
+offsets:1,1,30,28
+rotate:90
+Layer 116394 copy
+bounds:127,62,21,21
+offsets:1,1,23,23
+Layer 116394 copy 2
+bounds:127,10,13,13
+offsets:1,1,15,15
+Layer 116395
+bounds:2,109,97,138
+offsets:1,1,99,140
+Layer 116396
+bounds:150,118,129,39
+offsets:1,1,131,41
+rotate:90
+Layer 116397 copy
+bounds:127,25,13,14
+offsets:1,1,15,16
+Layer 116397 copy 2
+bounds:127,41,17,19
+offsets:1,1,19,21
+Layer 116397
+bounds:127,41,17,19
+offsets:1,1,19,21

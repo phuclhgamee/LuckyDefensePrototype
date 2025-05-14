@@ -1,0 +1,35 @@
+electriced.png
+size:512,512
+filter:Linear,Linear
+pma:true
+3
+bounds:189,100,138,167
+offsets:1,1,140,169
+31
+bounds:329,358,138,167
+offsets:1,1,140,169
+rotate:90
+32
+bounds:329,136,134,163
+offsets:1,1,136,165
+rotate:90
+33
+bounds:194,337,130,159
+offsets:1,1,132,161
+34
+bounds:326,272,84,151
+offsets:1,1,86,153
+rotate:90
+35
+bounds:329,15,71,119
+offsets:1,1,73,121
+36
+bounds:2,13,39,93
+offsets:1,1,41,95
+rotate:90
+Layer 11653 copy 2
+bounds:2,269,190,227
+offsets:1,1,192,229
+Layer 11653 copy 3
+bounds:2,54,185,213
+offsets:1,1,187,215

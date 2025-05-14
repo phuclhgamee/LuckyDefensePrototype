@@ -1,0 +1,32 @@
+chap2_orc1.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Layer 116665
+bounds:111,83,19,23
+offsets:1,1,21,25
+Layer 116666
+bounds:111,41,22,27
+offsets:1,1,24,29
+rotate:90
+Layer 116667
+bounds:92,150,59,64
+offsets:1,1,61,66
+rotate:90
+Layer 116668
+bounds:92,108,51,40
+offsets:1,1,53,42
+Layer 116669
+bounds:2,12,88,107
+offsets:1,1,90,109
+rotate:90
+Layer 116669 copy 2
+bounds:2,102,88,107
+offsets:1,1,90,109
+Layer 646 copy
+bounds:158,169,51,40
+offsets:1,1,53,42
+blob_shadow1 copy
+bounds:145,65,83,31
+offsets:1,1,85,33
+rotate:90

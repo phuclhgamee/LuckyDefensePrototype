@@ -1,0 +1,40 @@
+char_ninja_super.png
+size:512,512
+filter:Linear,Linear
+Ellipse 2 copy 5
+bounds:2,440,162,65
+offsets:1,1,164,67
+Layer 60
+bounds:166,365,148,140
+offsets:1,1,150,142
+Layer 64
+bounds:316,453,122,52
+Layer 65
+bounds:145,285,96,78
+Layer 69
+bounds:316,307,98,71
+offsets:1,1,101,73
+Layer 69 copy
+bounds:316,380,98,71
+offsets:2,1,101,73
+Layer 72
+bounds:2,301,141,137
+offsets:2,1,145,139
+Layer 73
+bounds:440,467,38,49
+offsets:2,1,41,51
+rotate:90
+Layer 73 copy
+bounds:243,282,44,81
+offsets:1,1,46,83
+Layer 73 copy 2
+bounds:440,376,46,89
+offsets:1,1,48,91
+Layer 73 copy 22
+bounds:416,329,45,89
+offsets:1,1,47,91
+rotate:90
+Layer 73 copy 4
+bounds:416,283,44,81
+offsets:1,1,46,83
+rotate:90

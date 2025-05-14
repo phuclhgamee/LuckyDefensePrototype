@@ -1,0 +1,95 @@
+orc_boss_2.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Ellipse 2
+bounds:198,193,188,205
+offsets:1,1,190,207
+Layer 105
+bounds:223,879,141,121
+offsets:1,1,143,123
+rotate:90
+Layer 105_2
+bounds:114,723,141,135
+offsets:1,2,143,153
+rotate:90
+Layer 116
+bounds:192,2,172,88
+offsets:1,1,174,90
+rotate:90
+Layer 120
+bounds:114,866,107,154
+offsets:1,1,109,156
+Layer 120 copy
+bounds:83,16,107,154
+offsets:1,1,109,156
+Layer 123
+bounds:294,400,87,135
+offsets:1,1,89,137
+rotate:90
+Layer 123 copy
+bounds:237,489,87,135
+offsets:1,1,89,137
+Layer 124
+bounds:203,400,80,89
+offsets:2,1,83,91
+rotate:90
+Layer 124 copy
+bounds:326,498,67,76
+offsets:2,1,70,78
+blob_shadow1
+bounds:365,5,186,70
+rotate:90
+blood/blood_05_0001
+bounds:325,656,69,108
+offsets:23,0,100,134
+blood/blood_05_0002
+bounds:251,766,88,111
+offsets:5,7,100,134
+blood/blood_05_0003
+bounds:114,625,96,109
+offsets:1,13,100,134
+rotate:90
+blood/blood_05_0004
+bounds:225,626,98,95
+offsets:1,39,100,134
+blood/blood_05_0005
+bounds:346,920,100,91
+offsets:0,42,100,134
+rotate:90
+blood/blood_05_0006
+bounds:372,580,74,53
+offsets:26,81,100,134
+rotate:90
+eye1
+bounds:326,576,78,44
+rotate:90
+hook1
+bounds:2,624,110,396
+roll/tile000
+bounds:251,723,28,41
+offsets:139,130,256,256
+roll/tile001
+bounds:341,774,55,103
+offsets:111,57,256,256
+roll/tile002
+bounds:2,11,79,159
+offsets:96,22,256,256
+roll/tile003
+bounds:2,172,104,223
+offsets:75,23,256,256
+roll/tile004
+bounds:2,397,104,225
+offsets:75,22,256,256
+roll/tile005
+bounds:108,400,93,222
+offsets:81,23,256,256
+roll/tile006
+bounds:108,176,88,222
+offsets:83,22,256,256
+roll/tile007
+bounds:282,5,81,186
+offsets:85,59,256,256
+roll/tile008
+bounds:203,482,32,141
+offsets:133,85,256,256

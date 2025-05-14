@@ -1,0 +1,18 @@
+drone3.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Layer 143 copy 2
+bounds:2,2,86,47
+offsets:1,1,88,49
+Layer 144
+bounds:62,51,87,58
+offsets:1,1,89,60
+rotate:90
+Layer 144 copy 3
+bounds:2,51,87,58
+offsets:1,1,89,60
+rotate:90
+Rounded Rectangle 4 copy 3
+bounds:2,140,96,107
+offsets:1,1,98,109

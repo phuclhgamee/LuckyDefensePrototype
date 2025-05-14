@@ -1,0 +1,26 @@
+Golem2.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Layer 116602
+bounds:108,45,107,79
+offsets:1,1,109,81
+rotate:90
+Layer 116603
+bounds:109,161,84,59
+offsets:1,1,86,61
+Layer 116603 copy
+bounds:2,309,163,186
+offsets:1,1,165,188
+Layer 116603 copy 2
+bounds:109,222,85,59
+offsets:1,1,87,61
+rotate:90
+Layer 116605
+bounds:2,154,105,153
+offsets:1,1,107,155
+Layer 116605 copy
+bounds:2,2,104,150
+offsets:1,1,106,152
+blob_shadow
+bounds:108,17,79,26

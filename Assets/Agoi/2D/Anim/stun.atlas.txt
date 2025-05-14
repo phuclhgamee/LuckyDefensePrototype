@@ -1,0 +1,11 @@
+stun.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Ellipse 8
+bounds:2,89,115,74
+offsets:1,1,117,76
+Layer 116393
+bounds:119,118,45,44
+offsets:1,1,47,46
+rotate:90

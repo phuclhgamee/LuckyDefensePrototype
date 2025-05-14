@@ -1,0 +1,17 @@
+Rectangle 2.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Ellipse 8
+bounds:2,95,75,151
+offsets:1,1,77,153
+Layer 142
+bounds:79,104,67,70
+offsets:1,1,69,72
+Layer 142 copy
+bounds:79,176,67,70
+offsets:1,1,69,72
+Rectangle 2
+bounds:2,2,91,100
+offsets:1,1,93,102
+rotate:90

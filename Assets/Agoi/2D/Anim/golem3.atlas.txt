@@ -1,0 +1,34 @@
+golem3.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Layer 116607
+bounds:2,105,150,158
+offsets:3,1,154,160
+rotate:90
+Layer 116608
+bounds:304,355,161,110
+offsets:1,1,163,112
+Layer 116609
+bounds:162,57,153,190
+offsets:1,1,155,192
+rotate:90
+Layer 116610
+bounds:156,400,71,65
+offsets:1,1,73,67
+Layer 116610 copy
+bounds:83,401,71,64
+offsets:1,1,73,66
+Layer 116611
+bounds:212,212,141,207
+offsets:1,1,143,209
+rotate:90
+Layer 116611 copy
+bounds:2,257,141,208
+offsets:1,1,143,210
+rotate:90
+Layer 116612
+bounds:229,392,73,73
+offsets:1,1,75,75
+blob_shadow
+bounds:2,439,79,26

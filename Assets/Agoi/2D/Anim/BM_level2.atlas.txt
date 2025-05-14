@@ -1,0 +1,17 @@
+BM_level2.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Layer 11616
+bounds:2,126,227,116
+offsets:1,1,229,118
+Layer 11619 copy
+bounds:190,47,36,51
+offsets:1,1,38,53
+rotate:90
+Layer 11619 copy 2
+bounds:190,85,39,52
+offsets:1,1,42,54
+rotate:90
+blob_shadow1
+bounds:2,54,186,70

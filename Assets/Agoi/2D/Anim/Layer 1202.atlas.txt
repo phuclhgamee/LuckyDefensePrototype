@@ -1,0 +1,40 @@
+Layer 1202.png
+size:512,512
+filter:Linear,Linear
+Ellipse 2 copy 7
+bounds:191,216,162,65
+offsets:1,1,164,67
+Layer 1202
+bounds:2,206,187,225
+offsets:1,1,189,227
+Layer 1208
+bounds:191,324,142,107
+offsets:2,1,145,109
+Layer 1213
+bounds:2,53,151,164
+offsets:1,1,153,166
+rotate:90
+Layer 1215
+bounds:242,287,35,45
+offsets:1,1,37,47
+rotate:90
+Layer 1216
+bounds:191,284,38,49
+offsets:1,1,40,51
+rotate:90
+Layer 1217
+bounds:344,70,68,71
+offsets:1,1,70,74
+Layer 1217 copy
+bounds:344,143,68,71
+offsets:1,1,70,74
+Layer 1218
+bounds:168,111,174,93
+Layer 1221
+bounds:335,283,73,96
+offsets:1,1,75,98
+rotate:90
+Layer 1221 copy
+bounds:335,358,73,96
+offsets:1,1,75,98
+rotate:90

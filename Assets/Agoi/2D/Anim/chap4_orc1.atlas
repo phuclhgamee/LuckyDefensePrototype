@@ -1,0 +1,20 @@
+chap4_orc1.png
+size:128,128
+filter:Linear,Linear
+pma:true
+Layer 116739
+bounds:82,107,19,18
+offsets:1,1,21,20
+Layer 116740
+bounds:2,49,78,76
+offsets:0,1,80,77
+Layer 651 copy
+bounds:2,2,89,45
+offsets:9,6,100,57
+Layer 652 copy
+bounds:82,87,19,18
+offsets:1,1,21,20
+blob_shadow1 copy 2
+bounds:93,2,83,31
+offsets:1,1,85,33
+rotate:90

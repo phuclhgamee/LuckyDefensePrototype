@@ -1,0 +1,25 @@
+bot3.png
+size:256,256
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy 2
+bounds:2,9,136,71
+offsets:1,1,138,73
+rotate:90
+Layer 116840
+bounds:128,140,91,94
+offsets:1,1,93,96
+rotate:90
+Layer 116841
+bounds:137,2,68,71
+offsets:1,1,70,73
+rotate:90
+Layer 116842
+bounds:2,147,124,84
+offsets:1,1,126,86
+Layer 116843
+bounds:137,72,82,66
+offsets:1,1,84,68
+Layer 116843 copy
+bounds:75,43,60,95
+offsets:1,2,62,98

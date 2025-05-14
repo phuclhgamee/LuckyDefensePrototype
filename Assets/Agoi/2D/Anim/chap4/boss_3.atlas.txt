@@ -1,0 +1,43 @@
+boss_3.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Ellipse 2
+bounds:418,941,241,80
+offsets:1,1,243,82
+Layer 116775
+bounds:2,829,213,192
+offsets:1,1,215,194
+Layer 116776
+bounds:743,885,54,71
+offsets:1,1,56,73
+rotate:90
+Layer 116776 copy
+bounds:816,862,44,77
+offsets:1,2,46,80
+Layer 116777
+bounds:862,880,60,49
+offsets:1,1,63,51
+Layer 116778
+bounds:418,859,120,80
+offsets:1,1,122,82
+Layer 116778 copy
+bounds:887,931,112,90
+offsets:1,1,114,92
+Layer 116780
+bounds:217,840,181,199
+offsets:1,1,183,201
+rotate:90
+Layer 116781
+bounds:661,941,80,224
+offsets:2,1,83,226
+rotate:90
+Rectangle 1
+bounds:1001,948,9,73
+offsets:1,1,11,75
+Rectangle 1 copy
+bounds:1012,954,9,67
+offsets:1,1,11,69
+archer_weapon_1
+bounds:540,896,201,43
+offsets:1,1,203,45

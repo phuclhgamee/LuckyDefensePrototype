@@ -1,0 +1,48 @@
+chap3_boss2.png
+size:1024,1024
+filter:Linear,Linear
+Layer 101
+bounds:657,788,185,209
+rotate:90
+Layer 102 copy 2
+bounds:297,735,52,65
+offsets:1,1,54,67
+Layer 102 copy
+bounds:297,735,52,65
+offsets:1,1,54,67
+Layer 103 copy 2
+bounds:297,802,49,63
+offsets:1,1,51,65
+rotate:90
+Layer 103 copy
+bounds:297,802,49,63
+offsets:1,1,51,65
+rotate:90
+Layer 105
+bounds:2,853,358,120
+offsets:0,75,358,249
+Layer 110
+bounds:362,746,293,227
+offsets:1,1,295,229
+Layer 1101 copy 2
+bounds:2,624,293,227
+offsets:1,1,295,229
+Layer 111
+bounds:862,657,73,93
+offsets:1,1,75,95
+rotate:90
+Layer 111 copy
+bounds:868,732,73,93
+offsets:1,1,75,95
+rotate:90
+Layer 112
+bounds:868,807,82,105
+offsets:1,1,84,107
+rotate:90
+Layer 112 copy
+bounds:868,891,82,105
+offsets:1,1,84,107
+rotate:90
+blob_shadow1 copy 9
+bounds:657,710,203,76
+offsets:1,1,205,78

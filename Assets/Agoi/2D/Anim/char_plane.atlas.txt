@@ -1,0 +1,9 @@
+char_plane.png
+size:512,512
+filter:Linear,Linear
+Ellipse 1
+bounds:2,341,150,150
+offsets:1,1,152,152
+Layer 1121
+bounds:154,235,337,256
+offsets:1,1,339,258

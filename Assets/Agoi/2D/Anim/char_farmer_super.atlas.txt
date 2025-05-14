@@ -1,0 +1,51 @@
+char_farmer_super.png
+size:512,512
+filter:Linear,Linear
+Ellipse 2 copy 8
+bounds:250,178,162,65
+offsets:1,1,164,67
+rotate:90
+Layer 1237
+bounds:2,387,261,113
+offsets:1,1,263,115
+Layer 1240
+bounds:72,31,38,28
+offsets:2,1,41,30
+rotate:90
+Layer 1241
+bounds:2,213,172,125
+offsets:1,1,174,127
+rotate:90
+Layer 1245
+bounds:2,2,68,67
+offsets:1,1,70,69
+Layer 1245 copy
+bounds:175,80,85,60
+offsets:1,2,87,63
+rotate:90
+Layer 1247
+bounds:317,291,49,53
+offsets:1,1,51,55
+rotate:90
+Layer 1247 copy
+bounds:317,241,48,61
+offsets:2,1,51,63
+rotate:90
+Layer 1250
+bounds:250,104,72,99
+offsets:1,1,74,101
+rotate:90
+Layer 1250 copy
+bounds:104,63,102,69
+offsets:1,1,104,71
+rotate:90
+Layer 1251
+bounds:265,342,138,158
+offsets:1,1,140,160
+Layer 1253
+bounds:129,167,119,218
+offsets:2,1,122,220
+Layer 1255
+bounds:2,71,140,100
+offsets:1,1,142,102
+rotate:90

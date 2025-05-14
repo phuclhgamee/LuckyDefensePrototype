@@ -1,0 +1,27 @@
+chap3_boss1.png
+size:512,512
+filter:Linear,Linear
+Layer 87
+bounds:2,456,130,51
+offsets:1,1,132,53
+Layer 88
+bounds:112,307,133,102
+offsets:1,1,135,104
+Layer 91
+bounds:2,100,222,205
+offsets:1,1,225,208
+Layer 93
+bounds:247,257,173,150
+offsets:1,2,175,154
+Layer 96
+bounds:226,67,254,188
+offsets:1,1,256,190
+Layer 97
+bounds:2,351,108,103
+offsets:1,1,110,105
+Layer 97 copy 2
+bounds:392,409,115,98
+offsets:1,1,117,100
+blob_shadow1 copy 8
+bounds:134,411,256,96
+offsets:1,1,258,98

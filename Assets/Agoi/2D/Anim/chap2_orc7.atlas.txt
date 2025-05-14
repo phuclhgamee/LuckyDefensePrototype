@@ -1,0 +1,31 @@
+chap2_orc7.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Layer 116682
+bounds:207,66,70,63
+offsets:1,1,72,65
+rotate:90
+Layer 116686
+bounds:2,111,103,105
+offsets:1,1,105,107
+Layer 116687
+bounds:2,11,77,98
+offsets:1,1,79,100
+Layer 116687 copy
+bounds:107,59,77,98
+offsets:1,1,79,100
+rotate:90
+Layer 116688
+bounds:161,138,116,139
+offsets:1,1,118,141
+Layer 116689
+bounds:107,150,42,31
+offsets:1,1,44,33
+Layer 116690
+bounds:107,183,33,32
+offsets:1,1,35,34
+rotate:90
+blob_shadow1 copy 2
+bounds:2,218,157,59
+offsets:1,1,159,61

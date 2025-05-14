@@ -1,0 +1,30 @@
+chap3_island.png
+size:1024,1024
+filter:Linear,Linear
+Layer 38 copy 2
+bounds:2,318,600,703
+offsets:1,1,602,705
+Layer 680
+bounds:2,110,204,206
+offsets:1,1,206,208
+Layer 685
+bounds:316,6,35,60
+offsets:1,1,37,62
+Layer 688
+bounds:208,140,165,176
+offsets:1,1,167,178
+Layer 689
+bounds:143,26,82,171
+offsets:1,1,84,174
+rotate:90
+Layer 690
+bounds:2,2,106,139
+offsets:1,1,108,141
+rotate:90
+Layer 84 copy 2
+bounds:316,68,70,148
+offsets:2,1,73,151
+rotate:90
+Layer 85 copy
+bounds:353,6,35,60
+offsets:1,1,37,62

@@ -1,0 +1,43 @@
+boss2.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy 8
+bounds:2,340,268,140
+offsets:1,1,270,142
+Layer 116863
+bounds:2,124,208,214
+Layer 116863 copy
+bounds:272,266,208,214
+Layer 116864 copy 2
+bounds:212,143,123,121
+offsets:1,1,125,123
+Layer 116864
+bounds:212,143,123,121
+offsets:1,1,125,123
+Layer 116864 copy
+bounds:212,143,123,121
+offsets:1,1,125,123
+Layer 116864 copy 3
+bounds:212,143,123,121
+offsets:1,1,125,123
+Layer 116864 copy 4
+bounds:212,143,123,121
+offsets:1,1,125,123
+Layer 116864 copy 5
+bounds:212,143,123,121
+offsets:1,1,125,123
+Layer 116865
+bounds:212,68,73,55
+offsets:1,2,75,58
+rotate:90
+Layer 116865 copy
+bounds:337,194,70,60
+offsets:1,2,72,64
+rotate:90
+Layer 116866
+bounds:212,269,58,69
+offsets:1,1,60,71
+Layer 116867
+bounds:337,134,56,58
+offsets:1,1,58,60

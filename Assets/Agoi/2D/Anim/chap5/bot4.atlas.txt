@@ -1,0 +1,36 @@
+bot4.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Ellipse 7 copy 2
+bounds:2,297,213,77
+offsets:1,1,215,79
+Layer 116764
+bounds:182,46,205,230
+offsets:1,1,207,232
+rotate:90
+Layer 116768
+bounds:2,126,178,169
+offsets:1,1,180,171
+Layer 116769
+bounds:66,394,62,57
+offsets:1,1,64,59
+Layer 116769 copy
+bounds:2,394,62,57
+offsets:1,1,64,59
+Layer 116770
+bounds:289,376,75,157
+offsets:1,1,77,159
+rotate:90
+Layer 116770 copy
+bounds:130,376,75,157
+offsets:1,1,77,159
+rotate:90
+Rectangle 2
+bounds:329,253,121,122
+offsets:1,1,123,124
+rotate:90
+Rectangle 2 copy 3
+bounds:217,265,109,110
+offsets:1,1,111,112
+rotate:90

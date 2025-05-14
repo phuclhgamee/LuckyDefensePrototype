@@ -1,0 +1,17 @@
+chap3_enemy4.png
+size:128,128
+filter:Linear,Linear
+Layer 48
+bounds:64,2,30,47
+offsets:1,1,32,49
+rotate:90
+Layer 49
+bounds:64,34,41,39
+offsets:1,1,43,41
+Layer 50
+bounds:2,12,61,60
+offsets:1,1,63,62
+rotate:90
+blob_shadow1 copy 4
+bounds:2,75,99,37
+offsets:1,1,101,39

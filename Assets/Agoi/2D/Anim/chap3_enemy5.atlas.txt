@@ -1,0 +1,18 @@
+chap3_enemy5.png
+size:256,256
+filter:Linear,Linear
+Layer 54
+bounds:2,129,104,120
+offsets:1,2,106,124
+Layer 56
+bounds:2,41,80,86
+offsets:1,1,82,88
+Layer 57
+bounds:84,87,31,40
+offsets:1,1,33,42
+Layer 57 copy
+bounds:84,46,31,39
+offsets:1,2,33,43
+blob_shadow1 copy 5
+bounds:2,2,99,37
+offsets:1,1,101,39

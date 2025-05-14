@@ -1,0 +1,99 @@
+superwizard.png
+size:512,512
+filter:Linear,Linear
+21
+bounds:284,20,9,23
+offsets:1,1,11,25
+22
+bounds:356,423,12,36
+offsets:1,1,14,38
+rotate:90
+23
+bounds:228,45,7,66
+offsets:1,1,9,68
+rotate:90
+24
+bounds:2,3,4,99
+offsets:1,1,6,101
+rotate:90
+25
+bounds:196,407,4,95
+offsets:1,1,6,97
+rotate:90
+26
+bounds:293,407,4,89
+offsets:1,1,6,91
+rotate:90
+Layer 116632
+bounds:330,437,73,83
+offsets:1,1,75,85
+rotate:90
+Layer 116633
+bounds:404,69,31,26
+offsets:1,1,33,28
+rotate:90
+Layer 116634
+bounds:246,189,127,60
+rotate:90
+Layer 116635
+bounds:96,167,149,148
+rotate:90
+Layer 116636
+bounds:96,44,121,130
+rotate:90
+Layer 116637
+bounds:330,416,19,24
+offsets:1,1,21,26
+rotate:90
+Layer 116639
+bounds:367,102,137,144
+offsets:1,1,139,146
+Layer 116640
+bounds:196,318,134,76
+offsets:1,1,136,78
+Layer 116641
+bounds:103,2,133,40
+offsets:1,1,135,42
+Layer 116643
+bounds:296,6,66,46
+offsets:1,1,68,48
+Layer 116643 copy
+bounds:308,176,70,54
+offsets:2,1,74,56
+rotate:90
+Layer 116644
+bounds:367,58,35,42
+offsets:1,1,37,44
+Layer 116644 copy
+bounds:238,6,37,44
+offsets:1,1,39,47
+rotate:90
+Layer 116646
+bounds:415,396,93,114
+offsets:1,1,95,116
+Layer 116649
+bounds:196,413,97,132
+offsets:1,2,99,135
+rotate:90
+Layer 116649 copy
+bounds:2,42,92,274
+offsets:2,1,95,276
+Layer 116650
+bounds:2,9,31,93
+offsets:1,1,33,95
+rotate:90
+Rectangle 7 copy 10
+bounds:2,318,192,192
+offsets:8,8,208,208
+Rectangle 7 copy 22
+bounds:364,3,49,49
+offsets:1,1,51,52
+Rectangle 7 copy 23
+bounds:364,3,49,49
+offsets:1,1,51,52
+blob_shadow1
+bounds:332,248,157,59
+offsets:1,1,159,61
+rotate:90
+cape2
+bounds:228,54,137,111

@@ -1,0 +1,33 @@
+char_farmer.png
+size:512,512
+filter:Linear,Linear
+Ellipse 2 copy 12
+bounds:176,89,87,35
+offsets:1,1,89,37
+Layer 1225
+bounds:2,98,108,91
+offsets:1,1,110,93
+rotate:90
+Layer 1227
+bounds:2,208,186,96
+offsets:1,1,188,98
+Layer 1230
+bounds:95,118,79,88
+offsets:1,1,81,90
+Layer 1231
+bounds:113,84,20,32
+offsets:1,1,22,34
+Layer 1231 copy
+bounds:90,64,21,32
+offsets:1,1,23,34
+Layer 1232
+bounds:46,47,49,42
+offsets:1,1,51,44
+rotate:90
+Layer 1232 copy
+bounds:2,47,49,42
+offsets:1,1,51,44
+rotate:90
+Layer 1233
+bounds:190,126,114,178
+offsets:1,1,117,180

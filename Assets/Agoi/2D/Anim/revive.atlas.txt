@@ -1,0 +1,46 @@
+revive.png
+size:512,512
+filter:Linear,Linear
+1
+bounds:43,9,37,37
+offsets:4,4,45,45
+2
+bounds:2,2,39,83
+offsets:4,4,47,92
+3
+bounds:43,48,37,124
+offsets:3,5,43,134
+rotate:90
+4
+bounds:2,87,33,193
+offsets:3,5,39,204
+5
+bounds:37,87,30,193
+offsets:4,5,38,203
+6
+bounds:82,16,30,107
+offsets:4,5,38,117
+rotate:90
+7
+bounds:69,131,30,104
+offsets:4,5,38,114
+rotate:90
+8
+bounds:69,101,28,91
+offsets:4,6,36,102
+rotate:90
+Ellipse 8 copy 2
+bounds:125,289,102,85
+offsets:4,4,110,93
+rotate:90
+Layer 720 copy 3
+bounds:69,163,117,89
+offsets:4,4,125,97
+rotate:90
+Layer 720 copy 4
+bounds:125,393,117,89
+offsets:4,4,125,97
+rotate:90
+Rectangle 4
+bounds:2,282,121,228
+offsets:1,1,123,230

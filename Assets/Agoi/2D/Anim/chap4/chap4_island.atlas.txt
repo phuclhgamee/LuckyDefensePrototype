@@ -1,0 +1,45 @@
+chap4_island.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Layer 1133 copy 2
+bounds:2,288,600,548
+offsets:1,1,602,550
+Layer 1145 copy
+bounds:604,488,131,166
+offsets:1,1,133,168
+Layer 1148 copy
+bounds:604,214,104,151
+offsets:1,1,106,153
+Layer 1149 copy
+bounds:604,656,180,144
+offsets:1,1,182,146
+rotate:90
+Layer 1150 copy 2
+bounds:750,806,30,48
+offsets:1,1,32,50
+rotate:90
+Layer 1150 copy 222
+bounds:750,806,30,48
+offsets:1,1,32,50
+rotate:90
+Layer 1151 copy
+bounds:604,367,113,119
+offsets:1,1,115,121
+Layer 1152 copy
+bounds:737,606,48,81
+offsets:1,1,50,83
+rotate:90
+Layer 116739
+bounds:800,812,26,24
+offsets:1,1,28,26
+Layer 116740
+bounds:710,263,102,100
+offsets:1,1,104,102
+rotate:90
+Layer 651 copy
+bounds:719,427,117,59
+offsets:1,1,119,61
+Layer 652 copy
+bounds:800,786,26,24
+offsets:1,1,28,26

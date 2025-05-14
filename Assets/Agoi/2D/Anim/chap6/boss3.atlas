@@ -1,0 +1,36 @@
+boss3.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Ellipse 6
+bounds:322,297,156,110
+offsets:1,1,158,112
+Layer 116825
+bounds:2,295,318,430
+offsets:1,1,320,432
+Layer 116871
+bounds:491,387,180,70
+offsets:1,1,182,72
+Layer 116874 copy
+bounds:322,409,147,167
+offsets:1,1,149,169
+rotate:90
+Layer 116878
+bounds:480,320,86,65
+offsets:1,1,88,68
+Layer 116879 copy
+bounds:491,459,221,97
+offsets:1,1,223,99
+Layer 116881
+bounds:2,104,407,189
+offsets:1,1,409,191
+Layer 116881 copy
+bounds:411,211,182,84
+offsets:1,1,184,86
+Layer 116882
+bounds:568,340,45,67
+offsets:1,1,47,69
+rotate:90
+Layer 116886
+bounds:322,558,403,167
+offsets:1,1,405,169

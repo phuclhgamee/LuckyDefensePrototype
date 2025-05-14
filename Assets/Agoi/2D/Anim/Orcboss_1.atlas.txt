@@ -1,0 +1,124 @@
+Orcboss_1.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Layer 100
+bounds:571,733,143,123
+offsets:1,1,145,125
+Layer 101 copy
+bounds:265,977,37,54
+offsets:2,1,40,56
+rotate:90
+Layer 101
+bounds:265,977,37,54
+offsets:2,1,40,56
+rotate:90
+Layer 103 copy 2
+bounds:470,582,216,149
+offsets:1,1,218,151
+Layer 85
+bounds:204,614,264,126
+offsets:1,1,266,128
+Layer 87
+bounds:753,838,134,111
+offsets:1,1,136,113
+Layer 89
+bounds:716,713,123,151
+offsets:1,1,125,153
+rotate:90
+Layer 93
+bounds:604,958,56,101
+offsets:1,1,58,103
+rotate:90
+Layer 93 copy
+bounds:501,958,56,101
+offsets:1,1,58,103
+rotate:90
+Layer 95
+bounds:651,858,100,97
+offsets:1,1,102,99
+Layer 96
+bounds:321,974,49,40
+offsets:1,1,51,42
+Layer 97
+bounds:217,978,46,36
+offsets:1,1,48,38
+Layer 98
+bounds:36,993,31,21
+offsets:1,1,33,23
+Layer 99
+bounds:69,989,30,25
+offsets:1,1,32,27
+blob_shadow
+bounds:101,988,79,26
+blood/blood_05_0001
+bounds:897,945,69,108
+offsets:23,0,100,134
+rotate:90
+blood/blood_05_0002
+bounds:123,888,88,111
+offsets:5,7,100,134
+rotate:90
+blood/blood_05_0003
+bounds:438,860,96,109
+offsets:1,13,100,134
+rotate:90
+blood/blood_05_0004
+bounds:338,864,98,95
+offsets:1,39,100,134
+blood/blood_05_0005
+bounds:236,881,100,91
+offsets:0,42,100,134
+blood/blood_05_0006
+bounds:425,961,74,53
+offsets:26,81,100,134
+summon/tile000
+bounds:182,983,31,33
+offsets:107,103,250,250
+rotate:90
+summon/tile001
+bounds:828,951,67,63
+offsets:88,87,250,250
+summon/tile002
+bounds:549,860,100,96
+offsets:73,72,250,250
+summon/tile003
+bounds:889,819,125,124
+offsets:62,58,250,250
+summon/tile004
+bounds:869,673,144,144
+offsets:53,48,250,250
+summon/tile005
+bounds:688,556,168,155
+offsets:40,42,250,250
+summon/tile006
+bounds:2,635,200,125
+offsets:24,51,250,250
+summon/tile007
+bounds:334,742,235,116
+offsets:7,50,250,250
+summon/tile008
+bounds:2,769,185,117
+offsets:32,49,250,250
+summon/tile009
+bounds:189,762,143,117
+offsets:47,48,250,250
+summon/tile010
+bounds:2,902,84,119
+offsets:85,46,250,250
+rotate:90
+summon/tile011
+bounds:707,957,57,119
+offsets:111,45,250,250
+rotate:90
+summon/tile012
+bounds:372,967,51,47
+offsets:114,114,250,250
+summon/tile013
+bounds:18,1002,16,12
+offsets:116,115,250,250
+summon/tile014
+bounds:5,1004,11,10
+offsets:119,116,250,250
+summon/tile015
+bounds:2,1013,1,1

@@ -1,0 +1,16 @@
+drone1.png
+size:128,128
+filter:Linear,Linear
+pma:true
+Ellipse 7
+bounds:2,2,44,38
+offsets:1,1,46,40
+Layer 141
+bounds:63,39,32,36
+offsets:1,2,34,39
+Layer 141 copy
+bounds:63,77,32,36
+offsets:1,2,34,39
+Rounded Rectangle 5 copy
+bounds:2,42,59,71
+offsets:1,1,61,73

@@ -1,0 +1,93 @@
+super_knight.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+1s
+bounds:405,689,119,195
+offsets:2,1,123,198
+rotate:90
+2s
+bounds:461,810,114,196
+offsets:1,1,116,199
+rotate:90
+3s
+bounds:659,761,114,198
+offsets:1,1,117,201
+rotate:90
+4s
+bounds:2,699,116,199
+offsets:1,1,118,202
+rotate:90
+5s
+bounds:132,817,113,199
+offsets:1,1,115,202
+rotate:90
+6s
+bounds:203,693,118,200
+offsets:1,1,121,203
+rotate:90
+Layer 1
+bounds:169,936,45,60
+offsets:1,1,47,62
+rotate:90
+Layer 10
+bounds:859,677,122,198
+offsets:6,4,132,207
+Layer 11
+bounds:602,632,127,198
+offsets:6,3,137,207
+rotate:90
+Layer 11638 copy
+bounds:544,926,60,55
+offsets:1,1,62,57
+Layer 11646 copy
+bounds:83,944,37,41
+offsets:1,1,39,43
+rotate:90
+Layer 11648 copy
+bounds:231,932,49,68
+offsets:2,2,52,71
+rotate:90
+Layer 11649 copy 3
+bounds:668,888,169,93
+offsets:2,1,173,95
+Layer 12
+bounds:2,537,154,203
+offsets:5,6,165,214
+rotate:90
+Layer 13
+bounds:207,527,160,209
+offsets:4,5,168,219
+rotate:90
+Layer 2
+bounds:371,929,52,57
+offsets:1,1,54,59
+rotate:90
+Layer 3
+bounds:430,928,112,53
+offsets:1,1,114,55
+Layer 4
+bounds:2,832,110,128
+offsets:1,1,112,130
+rotate:90
+Layer 5
+bounds:126,944,37,41
+offsets:1,1,39,43
+rotate:90
+Layer 6
+bounds:301,932,49,68
+offsets:1,2,51,71
+rotate:90
+Layer 7
+bounds:606,926,60,55
+offsets:1,1,62,57
+Layer 8
+bounds:333,813,113,126
+offsets:1,1,115,128
+rotate:90
+Layer 9
+bounds:839,877,104,112
+offsets:1,1,106,114
+rotate:90
+blob_shadow
+bounds:2,955,79,26

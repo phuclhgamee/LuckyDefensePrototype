@@ -1,0 +1,27 @@
+boss1.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy 7
+bounds:234,335,212,111
+offsets:1,1,214,113
+Layer 116855
+bounds:2,29,243,180
+offsets:1,1,245,182
+Layer 116856
+bounds:66,384,73,62
+offsets:1,1,75,64
+Layer 116858
+bounds:2,394,52,62
+offsets:1,1,54,64
+rotate:90
+Layer 116859
+bounds:141,380,66,91
+offsets:1,1,68,93
+rotate:90
+Layer 116860
+bounds:247,19,192,190
+Layer 116861
+bounds:173,211,169,122
+Layer 116861 copy
+bounds:2,256,169,122

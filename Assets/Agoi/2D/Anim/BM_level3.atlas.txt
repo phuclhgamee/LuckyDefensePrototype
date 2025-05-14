@@ -1,0 +1,19 @@
+BM_level3.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Layer 11621
+bounds:157,166,251,155
+offsets:1,1,253,157
+Layer 11623
+bounds:2,215,153,121
+offsets:1,1,155,123
+Layer 11626
+bounds:285,323,104,85
+offsets:1,1,106,137
+Layer 11627
+bounds:190,332,76,93
+offsets:1,1,78,95
+rotate:90
+blob_shadow1
+bounds:2,338,186,70

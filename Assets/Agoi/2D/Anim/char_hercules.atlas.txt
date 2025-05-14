@@ -1,0 +1,35 @@
+char_hercules.png
+size:512,512
+filter:Linear,Linear
+Ellipse 2 copy 2
+bounds:391,468,96,39
+offsets:1,1,98,41
+Layer 118
+bounds:137,384,135,123
+offsets:1,1,137,125
+Layer 120
+bounds:274,413,94,115
+offsets:1,1,96,117
+rotate:90
+Layer 121
+bounds:391,423,43,51
+offsets:1,1,45,53
+rotate:90
+Layer 121 copy
+bounds:444,414,42,52
+offsets:1,1,44,54
+Layer 122
+bounds:391,364,37,57
+offsets:1,1,39,59
+Layer 122 copy
+bounds:430,375,37,56
+offsets:1,1,39,58
+rotate:90
+Layer 123
+bounds:489,453,17,25
+offsets:1,1,19,27
+Layer 1272
+bounds:489,480,18,27
+offsets:1,1,20,29
+stone-copy
+bounds:2,378,133,129

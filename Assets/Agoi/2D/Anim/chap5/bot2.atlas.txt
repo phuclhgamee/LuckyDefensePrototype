@@ -1,0 +1,30 @@
+bot2.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Ellipse 3 copy 2
+bounds:2,67,116,255
+offsets:1,1,118,257
+Ellipse 7 copy
+bounds:2,2,174,63
+offsets:1,1,176,65
+Layer 116791
+bounds:120,196,62,72
+offsets:1,1,64,74
+rotate:90
+Layer 116791 copy
+bounds:120,260,62,72
+offsets:1,1,64,74
+rotate:90
+Layer 116792
+bounds:120,128,45,66
+offsets:1,1,47,68
+Layer 116792 copy
+bounds:178,128,45,66
+offsets:1,1,47,68
+Layer 116793
+bounds:194,238,42,41
+offsets:1,1,44,43
+Layer 116793 copy
+bounds:194,281,42,41
+offsets:1,1,44,43

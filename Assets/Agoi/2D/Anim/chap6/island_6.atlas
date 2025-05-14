@@ -1,0 +1,42 @@
+island_6.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy 9
+bounds:756,692,136,71
+offsets:1,1,138,73
+Ellipse 4 copy 922
+bounds:756,692,136,71
+offsets:1,1,138,73
+Layer 116835 copy
+bounds:920,878,71,141
+offsets:1,1,73,143
+Layer 116837 copy 2
+bounds:756,765,123,156
+offsets:1,1,125,159
+rotate:90
+Layer 116837 copy 2222
+bounds:756,890,129,162
+offsets:1,1,131,164
+rotate:90
+Layer 116839 copy 2
+bounds:756,628,62,92
+offsets:1,1,64,94
+rotate:90
+Layer 116839 copy 2222
+bounds:894,650,73,87
+offsets:1,1,75,89
+rotate:90
+Layer 116840 copy
+bounds:914,725,105,151
+offsets:1,1,107,153
+Layer 116843 copy 2
+bounds:850,582,71,66
+offsets:1,1,73,68
+Layer 116843 copy 222
+bounds:756,576,50,86
+offsets:2,1,53,88
+rotate:90
+Layer 1168851
+bounds:2,411,752,608
+offsets:1,1,755,610

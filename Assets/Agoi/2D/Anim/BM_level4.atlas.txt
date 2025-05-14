@@ -1,0 +1,23 @@
+BM_level4.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Layer 11633
+bounds:186,206,291,198
+offsets:1,1,293,200
+Layer 11636
+bounds:2,293,182,141
+offsets:1,1,184,143
+Layer 11638
+bounds:2,453,55,53
+offsets:1,1,57,55
+Layer 11639 copy
+bounds:247,427,79,122
+offsets:1,1,81,124
+rotate:90
+Layer 116391
+bounds:371,406,100,135
+offsets:1,1,102,137
+rotate:90
+blob_shadow1
+bounds:59,436,186,70

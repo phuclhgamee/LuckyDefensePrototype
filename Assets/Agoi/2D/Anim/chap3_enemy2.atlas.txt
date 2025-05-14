@@ -1,0 +1,28 @@
+chap3_enemy2.png
+size:256,256
+filter:Linear,Linear
+Layer 11
+bounds:2,98,80,97
+offsets:1,1,82,99
+Layer 12
+bounds:84,54,74,61
+offsets:1,1,76,64
+blob_shadow1 copy 2
+bounds:2,197,130,49
+offsets:1,1,132,51
+orc_1_hand
+bounds:84,121,35,37
+offsets:1,1,37,39
+rotate:90
+orc_1_hand copy
+bounds:84,158,35,37
+offsets:1,1,37,39
+orc_1_head
+bounds:134,117,112,129
+offsets:1,1,114,131
+orc_1_leg1
+bounds:2,68,21,28
+offsets:1,1,23,30
+orc_1_leg2
+bounds:2,68,21,28
+offsets:1,1,23,30

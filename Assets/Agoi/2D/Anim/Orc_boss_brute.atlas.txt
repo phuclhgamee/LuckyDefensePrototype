@@ -1,0 +1,33 @@
+Orc_boss_brute.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Ellipse 2
+bounds:2,299,188,205
+offsets:1,1,190,207
+Layer 105
+bounds:2,2,141,121
+offsets:1,1,143,123
+Layer 116
+bounds:2,125,172,88
+offsets:1,1,174,90
+rotate:90
+Layer 120
+bounds:192,350,107,154
+offsets:1,1,109,156
+Layer 120 copy
+bounds:92,143,107,154
+offsets:1,1,109,156
+Layer 123
+bounds:201,213,87,135
+offsets:1,1,89,137
+Layer 123 copy
+bounds:145,6,87,135
+offsets:1,1,89,137
+Layer 124
+bounds:234,53,80,89
+offsets:2,1,83,91
+Layer 124 copy
+bounds:201,144,67,76
+offsets:2,1,70,78
+rotate:90

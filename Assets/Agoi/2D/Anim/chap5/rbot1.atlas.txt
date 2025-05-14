@@ -1,0 +1,29 @@
+rbot1.png
+size:512,512
+filter:Linear,Linear
+pma:true
+Ellipse 3 copy
+bounds:2,97,152,109
+offsets:1,1,154,111
+rotate:90
+Ellipse 7
+bounds:2,251,192,69
+offsets:1,1,194,71
+Layer 116787
+bounds:196,195,125,124
+offsets:1,1,127,126
+rotate:90
+Layer 116788
+bounds:113,95,52,41
+offsets:1,1,54,43
+rotate:90
+Layer 116788 copy
+bounds:175,141,52,41
+offsets:1,1,54,43
+rotate:90
+Layer 116796
+bounds:113,205,60,44
+offsets:1,1,62,46
+Layer 116796 copy
+bounds:113,149,60,44
+offsets:1,1,62,46

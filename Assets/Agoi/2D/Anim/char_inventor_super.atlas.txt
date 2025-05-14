@@ -1,0 +1,39 @@
+char_inventor_super.png
+size:512,512
+filter:Linear,Linear
+Ellipse 2 copy 4
+bounds:436,344,154,62
+offsets:1,1,156,64
+rotate:90
+Layer 101
+bounds:152,195,95,73
+offsets:1,1,97,75
+rotate:90
+Layer 103
+bounds:407,219,123,72
+offsets:1,1,125,74
+rotate:90
+Layer 104
+bounds:2,176,114,148
+offsets:1,1,116,150
+rotate:90
+Layer 107
+bounds:238,391,107,196
+offsets:1,1,109,198
+rotate:90
+Layer 111
+bounds:306,174,48,48
+offsets:1,1,50,50
+Layer 1273
+bounds:227,200,77,66
+offsets:1,1,79,68
+Layer 86
+bounds:2,292,234,206
+offsets:1,1,236,208
+Layer 89
+bounds:238,268,167,121
+offsets:1,1,169,123
+Layer 96
+bounds:306,224,42,58
+offsets:1,1,44,60
+rotate:90

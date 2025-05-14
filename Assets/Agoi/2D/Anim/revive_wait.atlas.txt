@@ -1,0 +1,16 @@
+revive_wait.png
+size:2048,2048
+filter:Linear,Linear
+Ellipse 10 copy 7
+bounds:2012,2012,10,10
+offsets:1,1,12,12
+Ellipse 9
+bounds:1680,1251,771,330
+offsets:17,18,805,366
+rotate:90
+Layer 720
+bounds:2,1483,1080,539
+offsets:1,83,1082,623
+Rectangle 3
+bounds:1084,1059,594,963
+offsets:1,1,596,965

@@ -1,0 +1,35 @@
+chap3_enemy6.png
+size:512,512
+filter:Linear,Linear
+Layer 69
+bounds:2,165,179,199
+offsets:1,1,181,201
+Layer 74
+bounds:2,8,155,192
+offsets:1,1,157,194
+rotate:90
+Layer 76
+bounds:269,230,66,95
+offsets:1,1,68,97
+rotate:90
+Layer 76 copy
+bounds:269,298,66,95
+offsets:1,1,68,97
+rotate:90
+Layer 77
+bounds:183,200,84,81
+offsets:1,1,86,83
+Layer 77 copy
+bounds:183,283,84,81
+offsets:1,1,86,83
+Layer 78
+bounds:196,120,30,46
+offsets:1,1,32,49
+Layer 78 copy
+bounds:183,168,30,46
+offsets:1,1,32,49
+rotate:90
+blob_shadow1 copy 6
+bounds:231,33,165,62
+offsets:1,1,167,64
+rotate:90

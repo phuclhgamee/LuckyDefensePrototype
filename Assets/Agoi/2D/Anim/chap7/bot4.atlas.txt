@@ -1,0 +1,25 @@
+bot4.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy 4
+bounds:2,502,338,137
+offsets:1,1,340,139
+Layer 116905
+bounds:342,333,306,297
+offsets:1,1,308,299
+rotate:90
+Layer 116911
+bounds:242,349,83,151
+offsets:1,1,85,153
+Layer 116912
+bounds:2,206,294,238
+offsets:1,1,296,240
+rotate:90
+Layer 116914
+bounds:242,240,91,97
+offsets:2,1,94,99
+rotate:90
+Layer 116915
+bounds:341,228,66,103
+offsets:1,1,68,105

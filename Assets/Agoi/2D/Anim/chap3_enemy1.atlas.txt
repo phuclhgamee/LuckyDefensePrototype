@@ -1,0 +1,25 @@
+chap3_enemy1.png
+size:512,512
+filter:Linear,Linear
+Layer 59
+bounds:2,277,156,207
+offsets:1,1,158,209
+Layer 64
+bounds:2,172,96,103
+offsets:1,1,98,105
+Layer 65 copy
+bounds:2,2,19,36
+offsets:1,1,21,38
+Layer 65
+bounds:2,2,19,36
+offsets:1,1,21,38
+Layer 67
+bounds:100,210,64,65
+offsets:1,1,67,67
+Layer 67 copy
+bounds:53,105,64,65
+offsets:2,1,67,67
+blob_shadow1 copy
+bounds:2,40,130,49
+offsets:1,1,132,51
+rotate:90

@@ -1,0 +1,19 @@
+barrel_explode.png
+size:256,256
+filter:Linear,Linear
+Ellipse 8 copy 3
+bounds:2,74,91,93
+offsets:1,1,93,95
+rotate:90
+Layer 721
+bounds:97,56,101,95
+offsets:1,1,103,97
+Layer 722
+bounds:147,153,72,66
+offsets:1,1,74,68
+Layer 723
+bounds:73,167,72,52
+offsets:1,1,74,54
+Layer 724
+bounds:2,169,69,50
+offsets:1,1,71,52

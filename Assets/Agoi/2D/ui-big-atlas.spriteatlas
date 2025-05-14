@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ui-big-atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 51
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2bfdc66ca77cc874ebf07be2414db617, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - e699f792c38964d418b74dc5d27982c8: 21300000
+    - f4bf3e27cfdb11d48a62abc356a4f3ef: 21300000
+    - 9bcecb57237e2a44b8d454fa8c284967: 21300000
+    - be4ad1f921b2c3641935b2e5950444f2: 21300000
+    - 5b96741cc088e644990ae9bdfa2126c8: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e699f792c38964d418b74dc5d27982c8, type: 3}
+  - {fileID: 21300000, guid: f4bf3e27cfdb11d48a62abc356a4f3ef, type: 3}
+  - {fileID: 21300000, guid: 9bcecb57237e2a44b8d454fa8c284967, type: 3}
+  - {fileID: 21300000, guid: be4ad1f921b2c3641935b2e5950444f2, type: 3}
+  - {fileID: 21300000, guid: 5b96741cc088e644990ae9bdfa2126c8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bg_purple
+  - splash_screen
+  - BG_blue
+  - bg_gameover
+  - wheel_bg
+  m_RenderDataMap: {}
+  m_Tag: ui-big-atlas
+  m_IsVariant: 0

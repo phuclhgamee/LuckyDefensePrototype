@@ -1,0 +1,51 @@
+super_archer.png
+size:512,512
+filter:Linear,Linear
+Ellipse 8 copy 3
+bounds:2,220,101,112
+offsets:1,1,103,114
+Layer 116642
+bounds:195,254,160,116
+offsets:1,1,162,118
+rotate:90
+Layer 116643
+bounds:105,165,87,95
+offsets:1,1,89,97
+rotate:90
+Layer 116644
+bounds:202,141,111,78
+rotate:90
+Layer 116647
+bounds:2,119,99,86
+offsets:1,1,102,88
+rotate:90
+Layer 116649
+bounds:2,2,115,56
+offsets:1,1,117,58
+rotate:90
+Layer 116650
+bounds:2,334,191,80
+Layer 116655
+bounds:105,274,58,86
+rotate:90
+Layer 116657
+bounds:90,64,99,58
+offsets:1,1,101,60
+rotate:90
+Layer 116660
+bounds:60,35,27,40
+offsets:1,1,29,42
+Layer 116660 copy
+bounds:60,77,27,40
+offsets:1,1,29,42
+Layer 116662 copy
+bounds:150,94,69,39
+offsets:1,1,71,41
+rotate:90
+Layer 116662
+bounds:150,94,69,39
+offsets:1,1,71,41
+rotate:90
+blob_shadow
+bounds:191,107,97,32
+offsets:1,1,99,34

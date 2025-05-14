@@ -1,0 +1,63 @@
+golem4.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+Layer 116617
+bounds:2,441,193,283
+offsets:1,1,195,285
+Layer 116618
+bounds:197,562,162,164
+offsets:1,1,164,166
+rotate:90
+Layer 116619
+bounds:2,262,177,218
+offsets:1,1,179,220
+rotate:90
+Layer 116620
+bounds:498,313,157,138
+offsets:1,1,159,140
+rotate:90
+Layer 116621
+bounds:197,444,123,116
+offsets:1,1,125,118
+Layer 116625
+bounds:486,472,118,107
+offsets:1,1,120,109
+Layer 116625 copy
+bounds:363,471,121,108
+offsets:1,1,123,110
+Layer 116627
+bounds:606,512,67,72
+offsets:6,1,74,74
+rotate:90
+Layer 116627 copy
+bounds:646,664,60,78
+offsets:1,2,66,81
+rotate:90
+Layer 116628
+bounds:498,247,64,55
+offsets:1,1,66,57
+rotate:90
+Layer 116628 copy
+bounds:646,602,63,60
+offsets:1,1,65,62
+Layer 116629
+bounds:54,189,45,71
+offsets:1,1,47,73
+Layer 116629 copy
+bounds:2,129,40,76
+offsets:1,1,42,78
+Layer 116630
+bounds:222,286,156,274
+offsets:1,1,158,276
+rotate:90
+Layer 116630 copy
+bounds:363,581,143,281
+offsets:1,2,145,284
+rotate:90
+Layer 116631
+bounds:2,207,50,53
+offsets:1,1,52,55
+blob_shadow
+bounds:322,481,79,26
+rotate:90

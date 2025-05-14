@@ -1,0 +1,36 @@
+island7.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+Ellipse 4 copy 10
+bounds:672,1112,49,74
+offsets:1,1,51,76
+Ellipse 4 copy 9
+bounds:672,1268,284,115
+offsets:1,1,286,117
+Ellipse 5
+bounds:2,2,359,359
+offsets:1,1,361,361
+Layer 116890 c22
+bounds:756,1209,98,57
+offsets:1,1,100,59
+Layer 116890 copy 2
+bounds:856,1209,98,57
+offsets:1,1,100,59
+Layer 116905 copy
+bounds:363,112,257,249
+offsets:1,1,259,251
+Layer 116912 copy
+bounds:622,131,291,230
+offsets:1,1,293,232
+Layer 116914 copy
+bounds:672,1188,78,82
+offsets:1,1,80,84
+rotate:90
+Layer 116915 copy
+bounds:756,1152,55,86
+offsets:1,1,57,88
+rotate:90
+Layer 116949
+bounds:2,363,668,1020
+offsets:1,1,670,1022

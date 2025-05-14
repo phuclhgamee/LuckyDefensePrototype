@@ -1,0 +1,38 @@
+char_hercules_super.png
+size:512,512
+filter:Linear,Linear
+Ellipse 2 copy 3
+bounds:301,398,162,65
+offsets:1,1,164,67
+Layer 1129
+bounds:186,24,248,261
+offsets:1,1,250,263
+rotate:90
+Layer 1131
+bounds:222,274,122,155
+offsets:1,1,124,157
+rotate:90
+Layer 1133
+bounds:160,410,72,53
+offsets:1,1,74,56
+Layer 1133 copy
+bounds:86,410,72,53
+offsets:2,1,75,55
+Layer 1134
+bounds:112,319,89,108
+offsets:1,1,91,110
+rotate:90
+Layer 1134 copy
+bounds:2,320,88,108
+offsets:1,1,90,110
+rotate:90
+Layer 1137
+bounds:234,407,56,65
+offsets:1,1,58,67
+rotate:90
+Layer 1137 copy
+bounds:2,422,82,41
+offsets:1,1,84,43
+Layer 1139 copy
+bounds:2,159,182,158
+offsets:1,1,184,160
