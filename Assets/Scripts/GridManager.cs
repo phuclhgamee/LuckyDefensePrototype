@@ -1,15 +1,19 @@
 using System.Collections;
 using System.Collections.Generic;
+using DefaultNamespace;
+using Unity.VisualScripting;
 using UnityEngine;
 
 namespace LuckyDenfensePrototype
 {
-    public class GridManager : MonoBehaviour
+    public class GridSpawner : MonoBehaviour
     {   
         [SerializeField] private Tile tilePrefab;
         [SerializeField] private RectTransform gridSample;
-        
         [SerializeField] private Transform spawnPoint;
+        
+        [SerializeField] private TileManager tileManager;
+        [SerializeField] private GuardianManager guardianManager;
         
         [Header("Grid Config")]
         public int columns = 6;
@@ -19,10 +23,12 @@ namespace LuckyDenfensePrototype
 
         void Start()
         {
-            Init();
+            Initialize();
+            tileManager.Initialize();
+            guardianManager.Initialize();
             SpawnTiles();
         }
-        private void Init()
+        private void Initialize()
         {
             Vector3[] corners = new Vector3[4];
             gridSample.GetWorldCorners(corners);
@@ -45,9 +51,10 @@ namespace LuckyDenfensePrototype
                     Vector3 spawnPos = spawnPoint.position+ new Vector3(col * cellWidth + cellWidth / 2f, row * cellHeight + cellHeight / 2f,0);
                     
                     Tile tile = Instantiate(tilePrefab, spawnPos, Quaternion.identity, transform);
-                    tile.transform.localScale = new Vector3(cellWidth,cellHeight,1f);
-
+                    tile.transform.localScale = new Vector3(0.8f,0.6f,1f);
+                    
                     tile.Init(cellWidth, cellHeight);
+                    tileManager.Tiles.Add(tile);
                 }
             }
         }

@@ -128,6 +128,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4499795702125803211}
+  - component: {fileID: 4537853701251201342}
   m_Layer: 0
   m_Name: Wukong_Common
   m_TagString: Untagged
@@ -152,6 +153,20 @@ Transform:
   - {fileID: 5492230982699608328}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4537853701251201342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2182803413528856148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a8e85fd0f4b4685a069e394acea22a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skeletonAnimation: {fileID: 0}
+  rarity: 3
 --- !u!1 &2642359143328647181
 GameObject:
   m_ObjectHideFlags: 0

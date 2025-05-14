@@ -1,9 +1,11 @@
-﻿using UnityEngine;
+﻿using System.Collections.Generic;
+using UnityEngine;
 
 namespace LuckyDenfensePrototype
 {
     public class Tile: MonoBehaviour
     {
+        public List<Guardian> standingGuardians;
         public float Height { get; set; }
         public float Width { get; set; }
 
@@ -11,6 +13,11 @@ namespace LuckyDenfensePrototype
         {
             Height = cellHeight;
             Width = cellWidth;
+        }
+
+        private void OnEnable()
+        {
+            standingGuardians = new List<Guardian>();
         }
     }
 }

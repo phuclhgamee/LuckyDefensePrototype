@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7de44a49099c4a3aa615d193a66c2506, type: 3}
+  m_Name: GuardianManager
+  m_EditorClassIdentifier: 
+  possibleSummonGuardians:
+  - {fileID: 5662713412111109582, guid: dc683efacfc07974dbd61bcac749316a, type: 3}
+  - {fileID: 1051821591909655762, guid: ce8e382777b71e946ac9817f45ed310f, type: 3}
+  - {fileID: 8196319164255135782, guid: cfad9138033693d4fa5b07f1f6acede0, type: 3}
+  - {fileID: 8077663666519748669, guid: 7e8c32fa5a2887f4fb8d52d17b526842, type: 3}
+  - {fileID: 4537853701251201342, guid: c73ab11027033864f8f7f7c6d37d4555, type: 3}
+  mythicGuardians: []
+  summonedGuardians:
+  - {fileID: 0}
+  - {fileID: 0}

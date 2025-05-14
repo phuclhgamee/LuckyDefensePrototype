@@ -41,6 +41,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5727559534230058780}
+  - component: {fileID: 5662713412111109582}
   m_Layer: 0
   m_Name: Archer_Common
   m_TagString: Untagged
@@ -65,6 +66,20 @@ Transform:
   - {fileID: 92573048525696453}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5662713412111109582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1913494956318970989}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7a7d632931c45a7a7210575df304aac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skeletonAnimation: {fileID: 7431269229922694902}
+  rarity: 0
 --- !u!1 &2361433090511157050
 GameObject:
   m_ObjectHideFlags: 0
@@ -210,8 +225,8 @@ GameObject:
   m_Component:
   - component: {fileID: 266077596212043903}
   - component: {fileID: 3404098590900732070}
-  - component: {fileID: 8237659771470132871}
   - component: {fileID: 770430579364258183}
+  - component: {fileID: 7431269229922694902}
   m_Layer: 0
   m_Name: Archer
   m_TagString: Untagged
@@ -229,7 +244,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: -0.15, y: 0.15, z: 1}
+  m_LocalScale: {x: -0.12, y: 0.12, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 5039741422894652010}
@@ -276,7 +291,15 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &8237659771470132871
+--- !u!33 &770430579364258183
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7802460186258611726}
+  m_Mesh: {fileID: 0}
+--- !u!114 &7431269229922694902
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -285,7 +308,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 7802460186258611726}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e075b9a3e08e2f74fbd651c858ab16ed, type: 3}
+  m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   skeletonDataAsset: {fileID: 11400000, guid: f842d0ab801ad9a4b8d2bb0474f401a1, type: 2}
@@ -311,11 +334,8 @@ MonoBehaviour:
     materialsInsideMask: []
     materialsOutsideMask: []
   disableRenderingOnOverride: 1
---- !u!33 &770430579364258183
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7802460186258611726}
-  m_Mesh: {fileID: 0}
+  updateTiming: 1
+  unscaledTime: 0
+  _animationName: 
+  loop: 0
+  timeScale: 1
