@@ -39,6 +39,8 @@ namespace LuckyDenfensePrototype
                 ,Quaternion.identity,mergedTile.transform);
             guardianManager.summonedGuardians.Add(mergeGuardian);
             tile.standingGuardians.Add(mergeGuardian);
+            
+            OnCloseTileUIEvent.Raise();
         }
     }
 }

@@ -536,9 +536,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   guardianManager: {fileID: 11400000, guid: 90586319648a5994faa9939a71e7eda8, type: 2}
-  OnEnableMergeButtonEvent: {fileID: 11400000, guid: c7caccfdc4928f04a9d44105796921cf, type: 2}
   tileManager: {fileID: 11400000, guid: 2507eac6a8efb414c92f7f2f85b667ca, type: 2}
   tile: {fileID: 8613968875357997481}
+  OnEnableMergeButtonEvent: {fileID: 11400000, guid: c7caccfdc4928f04a9d44105796921cf, type: 2}
+  OnCloseTileUIEvent: {fileID: 11400000, guid: 094512eaf29fdaf49bc1050e002928d0, type: 2}
 --- !u!1 &6532749066263462710
 GameObject:
   m_ObjectHideFlags: 0
@@ -800,6 +801,7 @@ GameObject:
   - component: {fileID: 6796545254508529025}
   - component: {fileID: 8613968875357997481}
   - component: {fileID: 6572917800697989726}
+  - component: {fileID: 2007997997914286116}
   m_Layer: 0
   m_Name: Tile
   m_TagString: Untagged
@@ -839,6 +841,7 @@ MonoBehaviour:
   TileUICanvas: {fileID: 7676508308417508133}
   MergeButton: {fileID: 7723921063115478533}
   SellButton: {fileID: 5175820145333456003}
+  CloseTileUIEvent: {fileID: 11400000, guid: 094512eaf29fdaf49bc1050e002928d0, type: 2}
 --- !u!114 &6572917800697989726
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -858,6 +861,34 @@ MonoBehaviour:
       - m_Target: {fileID: 8613968875357997481}
         m_TargetAssemblyTypeName: LuckyDenfensePrototype.Tile, Assembly-CSharp
         m_MethodName: OnEnableMergeButton
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &2007997997914286116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8585420045411618711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb6e6e16386cc3e45886e46e26e1375d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BaseEvent: {fileID: 11400000, guid: 094512eaf29fdaf49bc1050e002928d0, type: 2}
+  response:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 8613968875357997481}
+        m_TargetAssemblyTypeName: LuckyDenfensePrototype.Tile, Assembly-CSharp
+        m_MethodName: CloseTileUI
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

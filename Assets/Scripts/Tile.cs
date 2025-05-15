@@ -11,6 +11,7 @@ namespace LuckyDenfensePrototype
         [SerializeField] private Canvas TileUICanvas;
         [SerializeField] private Button MergeButton;
         [SerializeField] private Button SellButton;
+        [SerializeField] private Event CloseTileUIEvent;
         
         [NonSerialized] public List<Guardian> standingGuardians;
         public float Height { get; set; }
@@ -29,6 +30,7 @@ namespace LuckyDenfensePrototype
 
         public void OnPointerClick(PointerEventData eventData)
         {
+            CloseTileUIEvent.Raise();
             Debug.Log("OnPointerClick");
             if (standingGuardians.Count > 0)
             {
@@ -45,6 +47,11 @@ namespace LuckyDenfensePrototype
             }
         }
 
+        public void CloseTileUI()
+        {
+            TileUICanvas.gameObject.SetActive(false);
+        }
+        
         public void ClearAllStandingGuardians()
         {
             standingGuardians.Clear();
