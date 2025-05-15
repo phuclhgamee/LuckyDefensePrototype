@@ -10,8 +10,8 @@ namespace LuckyDenfensePrototype
         [SerializeField] private SkeletonAnimation skeletonAnimation;
         
         public Rarity rarity;
-        
-        public Tile Tile { get; set; }
+
+        public Tile Tile;
         // Start is called before the first frame update
         void Start()
         {

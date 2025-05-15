@@ -14,7 +14,7 @@ namespace DefaultNamespace
         [SerializeField] private Guardian[] possibleSummonGuardians;
         [SerializeField] private Guardian[] mythicGuardians;
         
-        public List<Guardian> summonedGuardians;
+        [NonSerialized] public List<Guardian> summonedGuardians;
 
         public void Initialize()
         {
