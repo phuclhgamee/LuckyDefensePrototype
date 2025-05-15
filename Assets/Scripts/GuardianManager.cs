@@ -14,7 +14,7 @@ namespace DefaultNamespace
         [SerializeField] private Guardian[] possibleSummonGuardians;
         [SerializeField] private Guardian[] mythicGuardians;
         
-        [NonSerialized] public List<Guardian> summonedGuardians;
+        public List<Guardian> summonedGuardians;
 
         public void Initialize()
         {
@@ -29,6 +29,15 @@ namespace DefaultNamespace
                 .FirstOrDefault();
             
             return guardian;
+        }
+
+        public Guardian GetMergeGuardian(List<Guardian> guardians)
+        {
+            Rarity[] rarities = Enum.GetValues(typeof(Rarity)) as Rarity[];
+            int index = Array.IndexOf(rarities, guardians[0].rarity);
+            var mergedRarity = rarities[index+1];
+
+            return GetGuardianByRarity(mergedRarity);
         }
     }
 }

@@ -1,11 +1,18 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 namespace LuckyDenfensePrototype
 {
-    public class Tile: MonoBehaviour
+    public class Tile: MonoBehaviour, IPointerClickHandler
     {
-        public List<Guardian> standingGuardians;
+        [SerializeField] private Canvas TileUICanvas;
+        [SerializeField] private Button MergeButton;
+        [SerializeField] private Button SellButton;
+        
+        [NonSerialized] public List<Guardian> standingGuardians;
         public float Height { get; set; }
         public float Width { get; set; }
 
@@ -18,6 +25,34 @@ namespace LuckyDenfensePrototype
         private void OnEnable()
         {
             standingGuardians = new List<Guardian>();
+        }
+
+        public void OnPointerClick(PointerEventData eventData)
+        {
+            Debug.Log("OnPointerClick");
+            if (standingGuardians.Count > 0)
+            {
+                TileUICanvas.gameObject.SetActive(true);
+            }
+        }
+
+        public void OnEnableMergeButton()
+        {
+            MergeButton.interactable = true;
+            if (standingGuardians.Count < Const.MaxGuardiansInATile || standingGuardians[0].rarity == Rarity.Legendary)
+            {
+                MergeButton.interactable = false;
+            }
+        }
+
+        public void ClearAllStandingGuardians()
+        {
+            standingGuardians.Clear();
+            foreach (Transform child in transform)
+            {
+                if(child.GetComponent<Guardian>() != null)
+                    Destroy(child.gameObject);
+            }
         }
     }
 }
