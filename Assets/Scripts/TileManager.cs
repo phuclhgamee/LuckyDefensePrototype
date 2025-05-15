@@ -12,8 +12,12 @@ namespace LuckyDenfensePrototype
     public class TileManager : ScriptableObject
     {
         [SerializeField] private GuardianManager guardianManager;
+        
         [NonSerialized] public List<Tile> Tiles;
-
+        
+        public Tile PointerDownTile { get; set; }
+        public Tile PointerUpTile { get; set; }
+        
         public void Initialize()
         {
             Tiles = new List<Tile>();
@@ -47,6 +51,20 @@ namespace LuckyDenfensePrototype
             }
             
             return tile.transform.position + new Vector3(-tile.Width/10,tile.Height/10, 0);
+        }
+
+        public void SwapGuardianTilePosition()
+        {
+            if (PointerUpTile != null && PointerDownTile != null)
+            {
+                PointerUpTile.standingGuardians.AddRange(PointerDownTile.standingGuardians);
+                PointerDownTile.standingGuardians.Clear();
+                foreach (Guardian guardian in PointerUpTile.standingGuardians)
+                {
+                    guardian.transform.SetParent(PointerUpTile.transform);
+                    guardian.transform.position = GetSummonedPosition(PointerUpTile);
+                }
+            }
         }
     }
 }

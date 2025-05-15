@@ -6,11 +6,18 @@ using UnityEngine.UI;
 
 namespace LuckyDenfensePrototype
 {
-    public class Tile: MonoBehaviour, IPointerClickHandler
+    public class Tile: MonoBehaviour, IPointerClickHandler, IPointerDownHandler, IPointerUpHandler
     {
+        [Header("UI")]
         [SerializeField] private Canvas TileUICanvas;
         [SerializeField] private Button MergeButton;
         [SerializeField] private Button SellButton;
+        [SerializeField] private Sprite SquareSprite;
+        
+        [Header("Managers")]
+        [SerializeField] private TileManager tileManager;
+        
+        [Header("Events")]
         [SerializeField] private Event CloseTileUIEvent;
         
         [NonSerialized] public List<Guardian> standingGuardians;
@@ -27,17 +34,6 @@ namespace LuckyDenfensePrototype
         {
             standingGuardians = new List<Guardian>();
         }
-
-        public void OnPointerClick(PointerEventData eventData)
-        {
-            CloseTileUIEvent.Raise();
-            Debug.Log("OnPointerClick");
-            if (standingGuardians.Count > 0)
-            {
-                TileUICanvas.gameObject.SetActive(true);
-            }
-        }
-
         public void OnEnableMergeButton()
         {
             MergeButton.interactable = true;
@@ -59,6 +55,45 @@ namespace LuckyDenfensePrototype
             {
                 if(child.GetComponent<Guardian>() != null)
                     Destroy(child.gameObject);
+            }
+        }
+        public void OnPointerClick(PointerEventData eventData)
+        {
+            CloseTileUIEvent.Raise();
+            Debug.Log("OnPointerClick");
+            if (standingGuardians.Count > 0)
+            {
+                TileUICanvas.gameObject.SetActive(true);
+            }
+        }
+
+        public void OnPointerDown(PointerEventData eventData)
+        {
+            Debug.Log("OnPointerDown");
+            if (standingGuardians.Count > 0)
+            {
+                tileManager.PointerDownTile = this;
+            }
+        }
+
+        public void OnPointerUp(PointerEventData eventData)
+        {
+            Debug.Log("OnPointerUp");
+            if (tileManager.PointerDownTile != null)
+            {
+                Collider2D collider = Physics2D.OverlapCircle(eventData.position, 0.001f, LayerMask.GetMask("Tile"));
+                Debug.Log(collider);
+                Tile tile = collider.gameObject.GetComponent<Tile>();
+                if (tile != null)
+                {
+                    if (tile != this)
+                    {
+                        tileManager.PointerUpTile = tile;
+                        tileManager.SwapGuardianTilePosition();
+                    }
+                }
+                tileManager.PointerDownTile = null;
+                tileManager.PointerUpTile = null;
             }
         }
     }

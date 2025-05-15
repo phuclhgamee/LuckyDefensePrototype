@@ -25,8 +25,6 @@ namespace LuckyDefensePrototype
             tile.standingGuardians.Add(newGuardian);
             guardianManager.summonedGuardians.Add(newGuardian);
             newGuardian.Tile = tile;
-            // Debug.Log("newGuardian type: " + newGuardian.GetType());
-            // Debug.Log("summonedGuardians type: " + guardianManager.summonedGuardians.GetType());
         }
     }
 }
