@@ -81,19 +81,22 @@ namespace LuckyDenfensePrototype
             Debug.Log("OnPointerUp");
             if (tileManager.PointerDownTile != null)
             {
-                Collider2D collider = Physics2D.OverlapCircle(eventData.position, 0.001f, LayerMask.GetMask("Tile"));
-                Debug.Log(collider);
-                Tile tile = collider.gameObject.GetComponent<Tile>();
-                if (tile != null)
+                Vector2 worldPosition = Camera.main.ScreenToWorldPoint(eventData.position);
+                Collider2D collider = Physics2D.OverlapCircle(worldPosition, 0.001f, LayerMask.GetMask("Tile"));
+                if (collider != null)
                 {
-                    if (tile != this)
+                    Tile tile = collider.gameObject.GetComponent<Tile>();
+                    if (tile != null)
                     {
-                        tileManager.PointerUpTile = tile;
-                        tileManager.SwapGuardianTilePosition();
+                        if (tile != this)
+                        {
+                            tileManager.PointerUpTile = tile;
+                            tileManager.SwapGuardianTilePosition();
+                        }
                     }
+                    tileManager.PointerDownTile = null;
+                    tileManager.PointerUpTile = null;
                 }
-                tileManager.PointerDownTile = null;
-                tileManager.PointerUpTile = null;
             }
         }
     }
