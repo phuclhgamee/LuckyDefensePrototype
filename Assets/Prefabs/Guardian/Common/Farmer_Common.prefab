@@ -334,3 +334,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   skeletonAnimation: {fileID: 0}
   rarity: 0
+  rangedType: 0
+  guardianType: 0
+  range: 0.5

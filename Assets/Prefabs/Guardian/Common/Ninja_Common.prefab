@@ -242,6 +242,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   skeletonAnimation: {fileID: 0}
   rarity: 2
+  rangedType: 0
+  guardianType: 0
+  range: 2
 --- !u!1 &6474268233010827635
 GameObject:
   m_ObjectHideFlags: 0

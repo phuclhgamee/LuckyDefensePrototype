@@ -12,8 +12,7 @@ namespace LuckyDenfensePrototype
         [SerializeField] private Canvas TileUICanvas;
         [SerializeField] private Button MergeButton;
         [SerializeField] private Button SellButton;
-        [SerializeField] private Sprite SquareSprite;
-        
+        [SerializeField] private RangeDisplayUI rangeDisplayUI;
         [Header("Managers")]
         [SerializeField] private TileManager tileManager;
         
@@ -41,6 +40,7 @@ namespace LuckyDenfensePrototype
             {
                 MergeButton.interactable = false;
             }
+            rangeDisplayUI.RangeSetup();
         }
 
         public void CloseTileUI()
@@ -98,6 +98,11 @@ namespace LuckyDenfensePrototype
                     tileManager.PointerUpTile = null;
                 }
             }
+        }
+        public void OnDrawGizmos()
+        {
+            Gizmos.color = Color.red;
+            Gizmos.DrawWireSphere(transform.position, standingGuardians[0].range);
         }
     }
 }

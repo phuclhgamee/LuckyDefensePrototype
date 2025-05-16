@@ -70,7 +70,6 @@ namespace LuckyDenfensePrototype
         {
             if (PointerUpTile != null && PointerDownTile != null)
             {
-
                 SwapList<Guardian>(PointerUpTile.standingGuardians, PointerDownTile.standingGuardians);
                 
                 for (int i =0; i< PointerUpTile.standingGuardians.Count; i++)

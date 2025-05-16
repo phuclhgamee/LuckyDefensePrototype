@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using Spine.Unity;
@@ -8,23 +9,36 @@ namespace LuckyDenfensePrototype
     public class Guardian : MonoBehaviour
     {
         [SerializeField] private SkeletonAnimation skeletonAnimation;
-        
-        public Rarity rarity;
 
-        public Tile Tile;
-        // Start is called before the first frame update
-        void Start()
-        {
-            
-        }
+        [Header("Stat")] public Rarity rarity;
+        public RangedType rangedType;
+        public GuardianType guardianType;
+        public float range;
+        public float attackSpeed;
+        public Tile Tile { get; set; }
 
         // Update is called once per frame
         void Update()
         {
-        
+
         }
+
+        public void EnemyDetection()
+        {
+            Collider2D[] enemyColliders = Physics2D.OverlapCircleAll(transform.position, range, LayerMask.GetMask("Enemy"));
+            if (enemyColliders.Length > 0)
+            {
+                
+            }
+        }
+
+        
     }
     
     public enum Rarity { Common, Rare, Epic, Legendary, Mythic }
+    
+    public enum RangedType{ Ranged, Melee}
+    
+    public enum GuardianType{ Human, Robot, Element, Devil}
 }
 
