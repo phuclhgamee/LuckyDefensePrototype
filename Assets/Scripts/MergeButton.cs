@@ -38,7 +38,7 @@ namespace LuckyDenfensePrototype
             Guardian mergeGuardian = Instantiate(guardianPrefab,tileManager.GetSummonedPosition(mergedTile) 
                 ,Quaternion.identity,mergedTile.transform);
             guardianManager.summonedGuardians.Add(mergeGuardian);
-            tile.standingGuardians.Add(mergeGuardian);
+            mergedTile.standingGuardians.Add(mergeGuardian);
             
             OnCloseTileUIEvent.Raise();
         }

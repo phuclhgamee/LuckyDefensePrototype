@@ -9,12 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3de124d3cbaf4d1394ad29a85faeefa9, type: 3}
-  m_Name: Wave5
+  m_Script: {fileID: 11500000, guid: 00e822232e1447299dd257a82657d246, type: 3}
+  m_Name: BaronData
   m_EditorClassIdentifier: 
-  enemies:
-  - enemy: {fileID: 5529002075561139712, guid: af8349544831d7c4d908465d0d3298f4, type: 3}
-    number: 25
-    timeBetweenSpawn: 0.1
-  secondsForNextWave: 12
-  isBossWave: 0
+  speed: 1
+  heath: 10
