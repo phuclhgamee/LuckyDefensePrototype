@@ -9,6 +9,5 @@ namespace LuckyDenfensePrototype
     {
         public WaveData[] waves;
         public IntegerVariable limitNumberOfCreeps;
-        
     }
 }

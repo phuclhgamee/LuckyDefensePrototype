@@ -1,4 +1,5 @@
-﻿using LuckyDenfensePrototype;
+﻿using System.Collections.Generic;
+using LuckyDenfensePrototype;
 using UnityEngine;
 
 namespace LuckyDenfensePrototype
@@ -7,8 +8,9 @@ namespace LuckyDenfensePrototype
     public class WaveData : ScriptableObject
     {
         public Enemies[] enemies;
-        public float timer;
+        public float secondsForNextWave;
         public bool isBossWave;
+        //event được raise khi 1 wave end
     }
     [System.Serializable]
     public class Enemies
@@ -16,5 +18,7 @@ namespace LuckyDenfensePrototype
         public Enemy enemy;
         public int number;
         public float timeBetweenSpawn;
+
+        
     }
 }
