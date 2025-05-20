@@ -7,6 +7,7 @@ using Random = UnityEngine.Random;
 
 namespace LuckyDenfensePrototype
 {
+    
     [CreateAssetMenu(fileName = "GuardianManager", menuName = "Manager/GuardianManager")]
     public class GuardianManager : ScriptableObject
     {

@@ -27,7 +27,7 @@ namespace LuckyDefensePrototype
             tile.standingGuardians.Add(newGuardian);
             guardianManager.summonedGuardians.Add(newGuardian);
             newGuardian.Tile = tile;
-            //AvailableMythicDisplayEvent.Raise();
+            AvailableMythicDisplayEvent.Raise();
         }
     }
 }

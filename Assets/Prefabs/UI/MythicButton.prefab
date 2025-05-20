@@ -133,3 +133,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36c1e7d61760a1c4fa652d85544bfd16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  guardianManager: {fileID: 11400000, guid: 90586319648a5994faa9939a71e7eda8, type: 2}
+  tileManager: {fileID: 11400000, guid: 2507eac6a8efb414c92f7f2f85b667ca, type: 2}
+  AvailableMythicDisplayEvent: {fileID: 11400000, guid: 4c4020a97fec86f4b9a566347b4a7bc7, type: 2}
+  image: {fileID: 7171716049925903721}
+  button: {fileID: 2674183145745576728}

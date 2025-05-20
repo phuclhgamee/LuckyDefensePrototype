@@ -47,7 +47,18 @@ namespace LuckyDenfensePrototype
         {
             TileUICanvas.gameObject.SetActive(false);
         }
-        
+        public void ClearGuardian(Guardian guardian)
+        {
+            standingGuardians.Remove(guardian);
+            foreach (Transform child in transform)
+            {
+                Guardian g = child.GetComponent<Guardian>();
+                if (g != null && g == guardian)
+                {
+                    Destroy(child.gameObject);
+                }
+            }
+        }
         public void ClearAllStandingGuardians()
         {
             standingGuardians.Clear();
@@ -99,6 +110,8 @@ namespace LuckyDenfensePrototype
                 }
             }
         }
+
+        
         public void OnDrawGizmos()
         {
             Gizmos.color = Color.red;

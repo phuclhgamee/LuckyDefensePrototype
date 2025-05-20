@@ -5,16 +5,28 @@ namespace LuckyDenfensePrototype
     public class AvailableMythicPanel : MonoBehaviour
     {
         [SerializeField] private GuardianManager guardianManager;
-        [SerializeField] private MythicButton mythicUIButtonPrefab;
+        [SerializeField] private MythicSummonButton mythicUIButtonPrefab;
 
         public void OnDisplayMythicAvailable()
         {
+            ClearAllChildren();
             foreach (MythicGuardian mythGuardian in guardianManager.mythicGuardians)
             {
                 if (mythGuardian.CanBeSummoned(guardianManager.summonedGuardians))
                 {
-                    MythicButton mythicButton = Instantiate(mythicUIButtonPrefab, transform);
-                    mythicButton.Initialize(mythGuardian);
+                    MythicSummonButton mythicSummonButton = Instantiate(mythicUIButtonPrefab, transform);
+                    mythicSummonButton.Initialize(mythGuardian);
+                }
+            }
+        }
+
+        public void ClearAllChildren()
+        {
+            foreach (Transform child in transform)
+            {
+                if (child.gameObject.GetComponent<MythicSummonButton>() != null)
+                {
+                    Destroy(child.gameObject);
                 }
             }
         }

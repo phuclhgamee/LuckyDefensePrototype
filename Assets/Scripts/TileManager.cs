@@ -26,7 +26,7 @@ namespace LuckyDenfensePrototype
         {
             var existedGuardian = guardianManager.summonedGuardians
                 .FirstOrDefault(x=>x.Tile.standingGuardians.Count != Const.MaxGuardiansInATile
-                                   &&  x.GetType() == guardian.GetType());
+                                   &&  x.GetType() == guardian.GetType()&& x.rarity != Rarity.Mythic);
 
             if (existedGuardian !=null)
             {
