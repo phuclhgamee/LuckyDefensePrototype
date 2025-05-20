@@ -101,7 +101,11 @@ namespace LuckyDenfensePrototype
         }
         public void OnDrawGizmos()
         {
-            
+            Gizmos.color = Color.red;
+            if (standingGuardians.Count > 0)
+            {
+                Gizmos.DrawWireSphere(transform.position, standingGuardians[0].range);
+            }
         }
     }
 }

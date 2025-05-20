@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using DefaultNamespace;
 using Unity.VisualScripting.Dependencies.NCalc;
 using UnityEngine;
 using Random = UnityEngine.Random;
@@ -25,10 +24,9 @@ namespace LuckyDenfensePrototype
 
         public Tile GetSummonedTile(Guardian guardian)
         {
-            var summonedGuardian = guardianManager.summonedGuardians;
-            var existedGuardian = summonedGuardian
-                .FirstOrDefault(x=>x.GetType() == guardian.GetType()
-                                   && x.Tile.standingGuardians.Count != Const.MaxGuardiansInATile );
+            var existedGuardian = guardianManager.summonedGuardians
+                .FirstOrDefault(x=>x.Tile.standingGuardians.Count != Const.MaxGuardiansInATile
+                                   &&  x.GetType() == guardian.GetType());
 
             if (existedGuardian !=null)
             {

@@ -639,6 +639,7 @@ MonoBehaviour:
   tile: {fileID: 8613968875357997481}
   OnEnableMergeButtonEvent: {fileID: 11400000, guid: c7caccfdc4928f04a9d44105796921cf, type: 2}
   OnCloseTileUIEvent: {fileID: 11400000, guid: 094512eaf29fdaf49bc1050e002928d0, type: 2}
+  AvailableMythicDisplayEvent: {fileID: 11400000, guid: 4c4020a97fec86f4b9a566347b4a7bc7, type: 2}
 --- !u!1 &6532749066263462710
 GameObject:
   m_ObjectHideFlags: 0
@@ -831,7 +832,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 734461e339b055c48840a23c4c1fbf95, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 0.12156863}
   m_FlipX: 0

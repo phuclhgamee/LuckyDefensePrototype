@@ -1,9 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
-using DefaultNamespace;
 using LuckyDenfensePrototype;
 using UnityEngine;
 using UnityEngine.UI;
+using Event = LuckyDenfensePrototype.Event;
 
 namespace LuckyDefensePrototype
 {
@@ -14,7 +14,9 @@ namespace LuckyDefensePrototype
         [SerializeField] private GuardianManager guardianManager;
         [SerializeField] private SummonPercentageManager summonPercentageManager;
         [SerializeField] private TileManager tileManager;
-
+        
+        [Header("Events")]
+        [SerializeField] private Event AvailableMythicDisplayEvent;
         public void OnClick()
         {
             Rarity rarity = summonPercentageManager.GetSummonRarity();
@@ -25,6 +27,7 @@ namespace LuckyDefensePrototype
             tile.standingGuardians.Add(newGuardian);
             guardianManager.summonedGuardians.Add(newGuardian);
             newGuardian.Tile = tile;
+            //AvailableMythicDisplayEvent.Raise();
         }
     }
 }

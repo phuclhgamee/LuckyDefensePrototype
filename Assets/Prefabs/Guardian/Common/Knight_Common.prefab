@@ -16,7 +16,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &393497323024207716
 RectTransform:
   m_ObjectHideFlags: 0
@@ -177,8 +177,8 @@ GameObject:
   m_Component:
   - component: {fileID: 5215372558709104526}
   - component: {fileID: 6231724272048292889}
-  - component: {fileID: 1801143044246495216}
   - component: {fileID: 5137002276016317990}
+  - component: {fileID: 5557383352862546483}
   m_Layer: 0
   m_Name: Knight
   m_TagString: Untagged
@@ -243,7 +243,15 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &1801143044246495216
+--- !u!33 &5137002276016317990
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5373961087649593539}
+  m_Mesh: {fileID: 0}
+--- !u!114 &5557383352862546483
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -252,7 +260,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5373961087649593539}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e075b9a3e08e2f74fbd651c858ab16ed, type: 3}
+  m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   skeletonDataAsset: {fileID: 11400000, guid: 21a8beeaa1b8f4242aa0e86aa715005c, type: 2}
@@ -278,14 +286,11 @@ MonoBehaviour:
     materialsInsideMask: []
     materialsOutsideMask: []
   disableRenderingOnOverride: 1
---- !u!33 &5137002276016317990
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5373961087649593539}
-  m_Mesh: {fileID: 0}
+  updateTiming: 1
+  unscaledTime: 0
+  _animationName: 
+  loop: 0
+  timeScale: 1
 --- !u!1 &6036786907688839086
 GameObject:
   m_ObjectHideFlags: 0
@@ -332,8 +337,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a7acbf2b2b64db1b8eb97b8a7a6977e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonAnimation: {fileID: 0}
+  skeletonAnimation: {fileID: 5557383352862546483}
   rarity: 1
   rangedType: 0
   guardianType: 0
   range: 0.5
+  attackSpeed: 0

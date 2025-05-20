@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using Spine.Unity;
+using Unity.VisualScripting;
 using UnityEngine;
 
 namespace LuckyDenfensePrototype
@@ -17,10 +18,13 @@ namespace LuckyDenfensePrototype
         public float attackSpeed;
         public Tile Tile { get; set; }
 
-        // Update is called once per frame
-        void Update()
+        void Start()
         {
-
+            Initialize();
+        }
+        public virtual void Initialize()
+        {
+            
         }
 
         public void EnemyDetection()

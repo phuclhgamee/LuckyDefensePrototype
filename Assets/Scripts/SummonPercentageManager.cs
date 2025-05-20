@@ -2,7 +2,7 @@
 using LuckyDenfensePrototype;
 using UnityEngine;
 
-namespace DefaultNamespace
+namespace LuckyDenfensePrototype
 {
     [CreateAssetMenu(fileName = "SummonPercentageManager", menuName = "Manager/SummonPercentageManager")]
     public class SummonPercentageManager : ScriptableObject

@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2689766852202322620}
   - component: {fileID: 2705630866403580488}
-  - component: {fileID: 2845623167843530584}
   - component: {fileID: 325261932398844355}
+  - component: {fileID: 4100430297563186662}
   m_Layer: 0
   m_Name: Ninja
   m_TagString: Untagged
@@ -76,7 +76,15 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &2845623167843530584
+--- !u!33 &325261932398844355
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 160926145038704614}
+  m_Mesh: {fileID: 0}
+--- !u!114 &4100430297563186662
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -85,7 +93,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 160926145038704614}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e075b9a3e08e2f74fbd651c858ab16ed, type: 3}
+  m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   skeletonDataAsset: {fileID: 11400000, guid: 288c6f7b743c7b7418b64358ee8af5d2, type: 2}
@@ -111,14 +119,11 @@ MonoBehaviour:
     materialsInsideMask: []
     materialsOutsideMask: []
   disableRenderingOnOverride: 1
---- !u!33 &325261932398844355
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 160926145038704614}
-  m_Mesh: {fileID: 0}
+  updateTiming: 1
+  unscaledTime: 0
+  _animationName: 
+  loop: 0
+  timeScale: 1
 --- !u!1 &446937080973319116
 GameObject:
   m_ObjectHideFlags: 0
@@ -240,11 +245,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6c066820fbf47189a1de2f1ba77e9be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonAnimation: {fileID: 0}
+  skeletonAnimation: {fileID: 4100430297563186662}
   rarity: 2
   rangedType: 0
   guardianType: 0
   range: 2
+  attackSpeed: 0
 --- !u!1 &6474268233010827635
 GameObject:
   m_ObjectHideFlags: 0

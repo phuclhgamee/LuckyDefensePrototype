@@ -16,5 +16,11 @@ namespace LuckyDenfensePrototype
     {
         public static int MaxGuardiansInATile = 3;
     }
-    
+
+    public static class EnemyAnimation
+    {
+        public static string Idle = "Idle";
+        public static string Move = "Move";
+        public static string Die = "Die";
+    }
 }

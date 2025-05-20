@@ -1,18 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using LuckyDefensePrototype;
-using LuckyDenfensePrototype;
+
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-namespace DefaultNamespace
+namespace LuckyDenfensePrototype
 {
     [CreateAssetMenu(fileName = "GuardianManager", menuName = "Manager/GuardianManager")]
     public class GuardianManager : ScriptableObject
     {
         [SerializeField] private Guardian[] possibleSummonGuardians;
-        [SerializeField] private Guardian[] mythicGuardians;
+        [SerializeField] public Guardian[] mythicGuardians;
         
         public List<Guardian> summonedGuardians;
 
