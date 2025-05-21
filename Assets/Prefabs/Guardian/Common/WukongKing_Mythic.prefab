@@ -143,7 +143,8 @@ MonoBehaviour:
   rangedType: 1
   guardianType: 0
   range: 0.75
-  attackSpeed: 0
+  attackSpeed: 1.33
+  damage: 3750
   requiredGuardians:
   - {fileID: 8196319164255135782, guid: cfad9138033693d4fa5b07f1f6acede0, type: 3}
   - {fileID: 4537853701251201342, guid: c73ab11027033864f8f7f7c6d37d4555, type: 3}

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4867638191823304582}
   - component: {fileID: 351496699168672342}
   - component: {fileID: 2024002708476349246}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Spine GameObject (Boss2_Baron)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -133,7 +133,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8360607898617128827}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Visual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -166,7 +166,8 @@ GameObject:
   m_Component:
   - component: {fileID: 6275899451342914263}
   - component: {fileID: 5194489582867817063}
-  m_Layer: 0
+  - component: {fileID: 6612810412765926407}
+  m_Layer: 6
   m_Name: BossBaron_10_Normal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -203,3 +204,65 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   data: {fileID: 11400000, guid: 544cd62dd18eca74786232725587c8d5, type: 2}
   skeletonAnimation: {fileID: 2024002708476349246}
+--- !u!60 &6612810412765926407
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7876858974754830141}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.017947614, y: 0.42602348}
+      - {x: 0.10300183, y: 0.44309986}
+      - {x: 0.10624224, y: 0.5281899}
+      - {x: 0.12940246, y: 0.6845689}
+      - {x: 0.049504757, y: 0.81418335}
+      - {x: -0.12286258, y: 0.9109402}
+      - {x: -0.2501887, y: 1.0263357}
+      - {x: -0.31900078, y: 0.5460378}
+      - {x: -0.14975464, y: 0.3091272}
+      - {x: -0.14975464, y: 0.3091272}
+      - {x: -0.14984775, y: 0.23741186}
+      - {x: -0.19276047, y: 0.27406454}
+      - {x: -0.22567272, y: 0.2696119}
+      - {x: -0.2737276, y: 0.08081281}
+      - {x: -0.04694307, y: 0.013246477}
+      - {x: 0.27896208, y: 0.054641485}
+      - {x: 0.10984546, y: 0.32933515}
+  m_UseDelaunayMesh: 0

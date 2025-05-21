@@ -11,6 +11,22 @@ namespace LuckyDenfensePrototype
     {
         [SerializeField] private EnemyData data;
         [SerializeField] private SkeletonAnimation skeletonAnimation;
+        private float currentHealth;
+
+        public float CurrentHealth
+        {
+            get => currentHealth;
+            set
+            {
+                currentHealth = value;
+                if (currentHealth <= 0)
+                {
+                    Die();
+                }
+            }
+            
+        }
+        public float Speed { get; set; }
         
         private List<Transform> rotateDestinations = new();
         private int currentDestination;
@@ -22,6 +38,8 @@ namespace LuckyDenfensePrototype
             currentDestination = 0;
             velocity = Vector3.zero;
             lastPosition = transform.position;
+            CurrentHealth = data.heath;
+            Speed = data.speed;
             StartCoroutine(Move());
             skeletonAnimation.state.SetAnimation(0,EnemyAnimation.Idle,true);
         }
@@ -53,6 +71,15 @@ namespace LuckyDenfensePrototype
                 }
                 yield return null;
             }
+        }
+
+        public void Die()
+        {
+            var entry = skeletonAnimation.state.SetAnimation(0, "Die", false);
+            entry.Complete += (trackEntry) =>
+            {
+                gameObject.SetActive(false);
+            };
         }
         
     }

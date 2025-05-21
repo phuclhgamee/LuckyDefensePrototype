@@ -15,6 +15,7 @@ namespace LuckyDenfensePrototype
 
         [SerializeField] private Event UpdateTimerTextEvent;
         [SerializeField] private Event GameOverEvent;
+        [SerializeField] private Event StopBossTimerEvent;
         private float _timer;
 
         public float Timer

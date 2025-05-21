@@ -250,7 +250,8 @@ MonoBehaviour:
   rangedType: 0
   guardianType: 0
   range: 1.5
-  attackSpeed: 0
+  attackSpeed: 1.33
+  damage: 250
 --- !u!1 &6474268233010827635
 GameObject:
   m_ObjectHideFlags: 0

@@ -342,4 +342,5 @@ MonoBehaviour:
   rangedType: 0
   guardianType: 0
   range: 0.75
-  attackSpeed: 0
+  attackSpeed: 1
+  damage: 75
