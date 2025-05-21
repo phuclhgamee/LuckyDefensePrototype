@@ -11,6 +11,8 @@ namespace LuckyDenfensePrototype
     {
         [SerializeField] private EnemyData data;
         [SerializeField] private SkeletonAnimation skeletonAnimation;
+        [SerializeField] private IntegerVariable enemyCount;
+        
         private float currentHealth;
 
         public float CurrentHealth
@@ -79,6 +81,7 @@ namespace LuckyDenfensePrototype
             entry.Complete += (trackEntry) =>
             {
                 gameObject.SetActive(false);
+                enemyCount.Value--;
                 BossKilled();
             };
         }
