@@ -9,7 +9,7 @@ namespace LuckyDenfensePrototype
 {
     public class Guardian : MonoBehaviour
     {
-        [SerializeField] private SkeletonAnimation skeletonAnimation;
+        [SerializeField] protected SkeletonAnimation skeletonAnimation;
 
         [Header("Stat")] public Rarity rarity;
         public RangedType rangedType;

@@ -174,7 +174,7 @@ MonoBehaviour:
   rarity: 3
   rangedType: 0
   guardianType: 0
-  range: 0.5
+  range: 0.75
   attackSpeed: 0
 --- !u!1 &2642359143328647181
 GameObject:

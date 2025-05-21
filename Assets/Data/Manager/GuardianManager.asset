@@ -20,28 +20,4 @@ MonoBehaviour:
   - {fileID: 4537853701251201342, guid: c73ab11027033864f8f7f7c6d37d4555, type: 3}
   mythicGuardians:
   - {fileID: 6471829646279885462, guid: 3838ffcb08e8b9e42bdd3f385e7745ac, type: 3}
-  summonedGuardians:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  summonedGuardians: []

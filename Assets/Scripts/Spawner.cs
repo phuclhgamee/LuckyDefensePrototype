@@ -35,9 +35,9 @@ namespace LuckyDenfensePrototype
         private void Update()
         {
             Timer -= Time.deltaTime;
-            if (EnemyCount.Value > waveLevel.limitNumberOfCreeps.Value)
+            if (EnemyCount.Value >= waveLevel.limitNumberOfCreeps.Value)
             {
-                //GameOverEvent.Raise();
+                GameOverEvent.Raise();
             }
         }
         IEnumerator SpawnEnemy(Enemies enemies)
@@ -69,7 +69,7 @@ namespace LuckyDenfensePrototype
                 yield return StartCoroutine(SpawnWave(wave));
                 if (wave.isBossWave && Timer <= 0f)
                 {
-                    //GameOverEvent.Raise();
+                    GameOverEvent.Raise();
                 }
             }
         }

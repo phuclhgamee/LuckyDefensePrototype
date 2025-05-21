@@ -82,7 +82,8 @@ MonoBehaviour:
   rarity: 0
   rangedType: 0
   guardianType: 0
-  range: 2
+  range: 1.5
+  attackSpeed: 0
 --- !u!1 &2361433090511157050
 GameObject:
   m_ObjectHideFlags: 0

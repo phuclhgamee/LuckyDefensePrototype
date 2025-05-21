@@ -24,9 +24,11 @@ namespace LuckyDenfensePrototype
 
         public Tile GetSummonedTile(Guardian guardian)
         {
-            var existedGuardian = guardianManager.summonedGuardians
-                .FirstOrDefault(x=>x.Tile.standingGuardians.Count != Const.MaxGuardiansInATile
-                                   &&  x.GetType() == guardian.GetType()&& x.rarity != Rarity.Mythic);
+            var summonedGuardian = guardianManager.summonedGuardians;
+            
+            var existedGuardian = summonedGuardian
+                .FirstOrDefault(x=>x.GetType() == guardian.GetType()
+                                   && x.Tile.standingGuardians.Count != Const.MaxGuardiansInATile);
 
             if (existedGuardian !=null)
             {
