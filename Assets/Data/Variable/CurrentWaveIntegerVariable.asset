@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eca99a90053c4e8f8282b285926d4d06, type: 3}
   m_Name: CurrentWaveIntegerVariable
   m_EditorClassIdentifier: 
-  initializeValue: 0
+  initializeValue: 1
   isSavable: 0
   isRaiseEvent: 1

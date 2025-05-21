@@ -266,6 +266,7 @@ GameObject:
   m_Component:
   - component: {fileID: 44102008}
   - component: {fileID: 44102009}
+  - component: {fileID: 44102010}
   m_Layer: 0
   m_Name: EnemySpawner
   m_TagString: Untagged
@@ -311,6 +312,34 @@ MonoBehaviour:
   CurrentWave: {fileID: 11400000, guid: 40855efa9901daa40ac4db1789e6c5eb, type: 2}
   UpdateTimerTextEvent: {fileID: 11400000, guid: 6b52db45da37cf748b7b9532a7a60781, type: 2}
   GameOverEvent: {fileID: 11400000, guid: 26bd47f9038497c4994454b3e60bb54d, type: 2}
+--- !u!114 &44102010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 44102007}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb6e6e16386cc3e45886e46e26e1375d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BaseEvent: {fileID: 11400000, guid: d77d19a0d742b2443a0de300beb572e0, type: 2}
+  response:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 44102009}
+        m_TargetAssemblyTypeName: LuckyDenfensePrototype.Spawner, Assembly-CSharp
+        m_MethodName: OnBossKillEventListener
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &51085624
 GameObject:
   m_ObjectHideFlags: 0

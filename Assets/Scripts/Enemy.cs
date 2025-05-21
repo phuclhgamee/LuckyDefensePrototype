@@ -79,8 +79,13 @@ namespace LuckyDenfensePrototype
             entry.Complete += (trackEntry) =>
             {
                 gameObject.SetActive(false);
+                BossKilled();
             };
         }
-        
+
+        protected virtual void BossKilled()
+        {
+            
+        }
     }
 }

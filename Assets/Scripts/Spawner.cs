@@ -15,9 +15,9 @@ namespace LuckyDenfensePrototype
 
         [SerializeField] private Event UpdateTimerTextEvent;
         [SerializeField] private Event GameOverEvent;
-        [SerializeField] private Event StopBossTimerEvent;
+        
         private float _timer;
-
+        private bool isBossWaveCleared =false;
         public float Timer
         {
             get => _timer;
@@ -55,6 +55,10 @@ namespace LuckyDenfensePrototype
         IEnumerator SpawnWave(WaveData wave)
         {
             Timer = wave.secondsForNextWave;
+            if (wave.isBossWave)
+            {
+                isBossWaveCleared = false;
+            }
             foreach (Enemies enemies in wave.enemies)
             {
                 yield return StartCoroutine(SpawnEnemy(enemies));
@@ -70,9 +74,18 @@ namespace LuckyDenfensePrototype
                 yield return StartCoroutine(SpawnWave(wave));
                 if (wave.isBossWave && Timer <= 0f)
                 {
-                    GameOverEvent.Raise();
+                    if (!isBossWaveCleared)
+                    {
+                        GameOverEvent.Raise();
+                    }
                 }
             }
+        }
+
+        public void OnBossKillEventListener()
+        {
+            Timer = 3f;
+            isBossWaveCleared = true;
         }
     }
 }

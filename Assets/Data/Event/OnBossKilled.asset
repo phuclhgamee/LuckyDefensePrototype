@@ -9,12 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3de124d3cbaf4d1394ad29a85faeefa9, type: 3}
-  m_Name: Wave10
+  m_Script: {fileID: 11500000, guid: e263ad27ae27cfe4398a690f88c2fb5c, type: 3}
+  m_Name: OnBossKilled
   m_EditorClassIdentifier: 
-  enemies:
-  - enemy: {fileID: 7650108532400367952, guid: 3c84858f2f690044e8feb42949e3eb6b, type: 3}
-    number: 1
-    timeBetweenSpawn: 0.1
-  secondsForNextWave: 30
-  isBossWave: 1
