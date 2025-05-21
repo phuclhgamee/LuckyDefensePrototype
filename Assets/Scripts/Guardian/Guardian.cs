@@ -21,9 +21,10 @@ namespace LuckyDenfensePrototype
         public float damage;
         public Tile Tile { get; set; }
 
-        public Enemy Target;
-        private float attackCooldown = 0f;
+        public Enemy Target { get; set; }
         protected bool isAttacking;
+        private Vector3 previousDirection = Vector3.zero;
+        
         void Start()
         {
             Initialize();
@@ -38,21 +39,26 @@ namespace LuckyDenfensePrototype
             else if(!isAttacking)
             {
                 Attack();
+                Flip();
             }
-        }
-
-        private void CoolDownAttack()
-        {
-            if (attackCooldown <= 0f)
+            else
             {
-                Attack();
-                attackCooldown = attackSpeed;
+                Flip();
             }
-            else 
-            {
-                attackCooldown -= Time.deltaTime;
-            }
+            
         }
+        // private void CoolDownAttack()
+        // {
+        //     if (attackCooldown <= 0f)
+        //     {
+        //         Attack();
+        //         attackCooldown = attackSpeed;
+        //     }
+        //     else 
+        //     {
+        //         attackCooldown -= Time.deltaTime;
+        //     }
+        // }
         public void EnemyDetection()
         {
             Collider2D[] enemyColliders = Physics2D.OverlapCircleAll(Tile.transform.position, range, LayerMask.GetMask("Enemy"));
@@ -81,6 +87,26 @@ namespace LuckyDenfensePrototype
             }
 
             Target = targetEnemy;
+        }
+
+        public void Flip()
+        {
+            if (ToTargetDirection().x < 0)
+            {
+                transform.localScale = new Vector3(-Math.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+            }
+            else
+            {
+                transform.localScale = new Vector3(Math.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+            }
+        }
+        public Vector3 ToTargetDirection()
+        {
+            if (Target != null)
+            {
+                return Tile.transform.position - Target.transform.position;
+            }
+            return Vector3.zero;
         }
         protected virtual void Attack()
         {
