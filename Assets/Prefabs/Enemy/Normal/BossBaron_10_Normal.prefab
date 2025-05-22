@@ -165,8 +165,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6275899451342914263}
-  - component: {fileID: 6612810412765926407}
   - component: {fileID: 7650108532400367952}
+  - component: {fileID: 4928389887209577186}
   m_Layer: 6
   m_Name: BossBaron_10_Normal
   m_TagString: Untagged
@@ -190,8 +190,24 @@ Transform:
   - {fileID: 8360607898617128827}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &6612810412765926407
-PolygonCollider2D:
+--- !u!114 &7650108532400367952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7876858974754830141}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e98e20753654479ad6b6d15353fee7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: {fileID: 11400000, guid: 544cd62dd18eca74786232725587c8d5, type: 2}
+  skeletonAnimation: {fileID: 2024002708476349246}
+  enemyCount: {fileID: 11400000, guid: 00e3f0be54cc15a4088149a2ea44000e, type: 2}
+  onBossKilled: {fileID: 11400000, guid: d77d19a0d742b2443a0de300beb572e0, type: 2}
+--- !u!58 &4928389887209577186
+CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -222,49 +238,6 @@ PolygonCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.017947614, y: 0.42602348}
-      - {x: 0.10300183, y: 0.44309986}
-      - {x: 0.10624224, y: 0.5281899}
-      - {x: 0.12940246, y: 0.6845689}
-      - {x: 0.049504757, y: 0.81418335}
-      - {x: -0.12286258, y: 0.9109402}
-      - {x: -0.2501887, y: 1.0263357}
-      - {x: -0.31900078, y: 0.5460378}
-      - {x: -0.14975464, y: 0.3091272}
-      - {x: -0.14975464, y: 0.3091272}
-      - {x: -0.14984775, y: 0.23741186}
-      - {x: -0.19276047, y: 0.27406454}
-      - {x: -0.22567272, y: 0.2696119}
-      - {x: -0.2737276, y: 0.08081281}
-      - {x: -0.04694307, y: 0.013246477}
-      - {x: 0.27896208, y: 0.054641485}
-      - {x: 0.10984546, y: 0.32933515}
-  m_UseDelaunayMesh: 0
---- !u!114 &7650108532400367952
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7876858974754830141}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e98e20753654479ad6b6d15353fee7f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  data: {fileID: 11400000, guid: 544cd62dd18eca74786232725587c8d5, type: 2}
-  skeletonAnimation: {fileID: 2024002708476349246}
-  enemyCount: {fileID: 11400000, guid: 00e3f0be54cc15a4088149a2ea44000e, type: 2}
-  onBossKilled: {fileID: 11400000, guid: d77d19a0d742b2443a0de300beb572e0, type: 2}
+  m_Offset: {x: 0, y: 0.16667536}
+  serializedVersion: 2
+  m_Radius: 0.15085897
