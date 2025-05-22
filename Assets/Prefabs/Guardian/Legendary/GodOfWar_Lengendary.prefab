@@ -9,7 +9,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 935139773422513586}
-  - component: {fileID: 2166284158971888300}
   m_Layer: 0
   m_Name: GodOfWar_Lengendary
   m_TagString: Untagged
@@ -33,25 +32,6 @@ Transform:
   - {fileID: 577846454791100868}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2166284158971888300
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1732652130017522024}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6c066820fbf47189a1de2f1ba77e9be, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  skeletonAnimation: {fileID: 1625637727989693013}
-  rarity: 2
-  rangedType: 0
-  guardianType: 0
-  range: 1.5
-  attackSpeed: 1.33
-  damage: 250
 --- !u!1 &3050032414265002825
 GameObject:
   m_ObjectHideFlags: 0

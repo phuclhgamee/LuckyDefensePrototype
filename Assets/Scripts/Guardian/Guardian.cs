@@ -11,10 +11,17 @@ namespace LuckyDenfensePrototype
 {
     public class Guardian : MonoBehaviour
     {
+        [Header("Anim")]
         [SerializeField] protected SkeletonAnimation skeletonAnimation;
+
+        [SerializeField, SpineAnimation] protected string idleAnim;
+        [SerializeField, SpineAnimation] protected string walkAnim;
+        [SerializeField, SpineAnimation] protected string deathAnim;
+        [SerializeField, SpineAnimation] protected string attackAnim;
 
         [Header("Stat")] public Rarity rarity;
         public RangedType rangedType;
+        public GuardianClass guardianClass;
         public GuardianType guardianType;
         public float range;
         public float attackSpeed;
@@ -47,18 +54,7 @@ namespace LuckyDenfensePrototype
             }
             
         }
-        // private void CoolDownAttack()
-        // {
-        //     if (attackCooldown <= 0f)
-        //     {
-        //         Attack();
-        //         attackCooldown = attackSpeed;
-        //     }
-        //     else 
-        //     {
-        //         attackCooldown -= Time.deltaTime;
-        //     }
-        // }
+
         public void EnemyDetection()
         {
             Collider2D[] enemyColliders = Physics2D.OverlapCircleAll(Tile.transform.position, range, LayerMask.GetMask("Enemy"));
@@ -108,14 +104,34 @@ namespace LuckyDenfensePrototype
             }
             return Vector3.zero;
         }
-        protected virtual void Attack()
+        public void Attack()
         {
             isAttacking = true;
-        }
-
-        public virtual void Initialize()
-        {
+            float duration = skeletonAnimation.Skeleton.Data.FindAnimation(attackAnim)?.Duration ?? 0f;
+            float desiredDuration = 1f / attackSpeed;
+            float timeScale = duration/ desiredDuration;
+            skeletonAnimation.timeScale = timeScale;
+            var entry = skeletonAnimation.state.SetAnimation(0,attackAnim,false);
             
+            Debug.Log(timeScale);
+            entry.Complete += (trackEntry) =>
+            {
+                Target.CurrentHealth -= damage;
+                
+                if (Vector3.Distance(Tile.transform.position, Target.transform.position) > range || !Target.gameObject.activeInHierarchy)
+                {
+                    Target = null;
+                }
+                if (Target == null)
+                {
+                    skeletonAnimation.state.SetAnimation(0, idleAnim, true);
+                }
+                isAttacking = false;
+            };
+        }
+        public void Initialize()
+        {
+            skeletonAnimation.state.SetAnimation(0,idleAnim,true);
         }
         
     }
@@ -124,6 +140,15 @@ namespace LuckyDenfensePrototype
     
     public enum RangedType{ Ranged, Melee}
     
-    public enum GuardianType{ Human, Robot, Element, Devil}
+    public enum GuardianClass{ Human, Robot, Element, Devil}
+
+    public enum GuardianType
+    {
+        ArcherCommon, KnightCommon, WukongCommon, NinjaCommon, FarmerCommon,
+        ArcherRare, KnightRare, WizardRare, DruidRare, FarmerRare,
+        NinjaEpic, HerculesEpic, WukongEpic, WizardEpic, KnightEpic,
+        GOWLegend, ValkyrieLegend, BuddaLegend, NezhaLegend,
+        WukongKingMythic
+    }
 }
 

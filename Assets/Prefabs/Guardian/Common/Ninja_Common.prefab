@@ -55,7 +55,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 83f2bd49117fb5e4da4fdd9016625987, type: 2}
+  - {fileID: 2100000, guid: 6833df8c6151ad047bdfae8ca6ad6f09, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -134,7 +134,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2904853828889562041}
-  - component: {fileID: 8077663666519748669}
+  - component: {fileID: 3124680193948473596}
   m_Layer: 0
   m_Name: Ninja_Common
   m_TagString: Untagged
@@ -158,7 +158,7 @@ Transform:
   - {fileID: 6180003214858021292}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8077663666519748669
+--- !u!114 &3124680193948473596
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -167,13 +167,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 2097520093082329698}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6c066820fbf47189a1de2f1ba77e9be, type: 3}
+  m_Script: {fileID: 11500000, guid: ba3476fcbb03f314fa995b6e0b9d57bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   skeletonAnimation: {fileID: 4100430297563186662}
+  idleAnim: idle
+  walkAnim: move
+  deathAnim: dead
+  attackAnim: happy
   rarity: 2
   rangedType: 0
-  guardianType: 0
+  guardianClass: 0
+  guardianType: 3
   range: 1.5
   attackSpeed: 1.33
   damage: 250

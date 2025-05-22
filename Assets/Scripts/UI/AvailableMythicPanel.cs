@@ -12,7 +12,7 @@ namespace LuckyDenfensePrototype
             ClearAllChildren();
             foreach (MythicGuardian mythGuardian in guardianManager.mythicGuardians)
             {
-                if (mythGuardian.CanBeSummoned(guardianManager.summonedGuardians))
+                if (mythGuardian.mythicData.CanBeSummoned(guardianManager.summonedGuardians))
                 {
                     MythicSummonButton mythicSummonButton = Instantiate(mythicUIButtonPrefab, transform);
                     mythicSummonButton.Initialize(mythGuardian);

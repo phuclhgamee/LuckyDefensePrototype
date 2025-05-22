@@ -134,7 +134,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4499795702125803211}
-  - component: {fileID: 4537853701251201342}
+  - component: {fileID: 3301135975627861724}
   m_Layer: 0
   m_Name: Wukong_Common
   m_TagString: Untagged
@@ -158,7 +158,7 @@ Transform:
   - {fileID: 6085091824654081389}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &4537853701251201342
+--- !u!114 &3301135975627861724
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -167,13 +167,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 2182803413528856148}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9a8e85fd0f4b4685a069e394acea22a5, type: 3}
+  m_Script: {fileID: 11500000, guid: ba3476fcbb03f314fa995b6e0b9d57bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   skeletonAnimation: {fileID: 2226752748761367037}
+  idleAnim: idle
+  walkAnim: move
+  deathAnim: die
+  attackAnim: attack
   rarity: 3
-  rangedType: 0
-  guardianType: 0
+  rangedType: 1
+  guardianClass: 0
+  guardianType: 2
   range: 0.75
   attackSpeed: 1.33
   damage: 1500

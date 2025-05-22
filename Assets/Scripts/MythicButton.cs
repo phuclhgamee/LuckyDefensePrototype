@@ -15,15 +15,15 @@ namespace LuckyDenfensePrototype
         public Button button;
         public void Initialize(MythicGuardian mythicGuardian)
         {
-            image.sprite = mythicGuardian.sprite;
+            image.sprite = mythicGuardian.mythicData.sprite;
             button.onClick.AddListener(()=>OnClick(mythicGuardian));
         }
 
         public void OnClick(MythicGuardian mythicGuardian)
         {
-            foreach (Guardian guardian in mythicGuardian.requiredGuardians)
+            foreach (Guardian guardian in mythicGuardian.mythicData.requiredGuardians)
             {
-                var existedGuardian = guardianManager.summonedGuardians.FirstOrDefault(x=>x.GetType() == guardian.GetType());
+                var existedGuardian = guardianManager.summonedGuardians.FirstOrDefault(x=>x.guardianType == guardian.guardianType);
                 if (existedGuardian != null)
                 {
                     existedGuardian.Tile.ClearGuardian(existedGuardian);

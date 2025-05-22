@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddbb084ce0a943c9aa35598f7e8b9842, type: 3}
+  m_Name: WukongKing
+  m_EditorClassIdentifier: 
+  requiredGuardians:
+  - {fileID: 3301135975627861724, guid: c73ab11027033864f8f7f7c6d37d4555, type: 3}
+  - {fileID: 5757943837513534313, guid: cfad9138033693d4fa5b07f1f6acede0, type: 3}
+  - {fileID: 5757943837513534313, guid: cfad9138033693d4fa5b07f1f6acede0, type: 3}
+  sprite: {fileID: 21300000, guid: de8ec0f2b3bd90d47ace2993c6bcf5c1, type: 3}

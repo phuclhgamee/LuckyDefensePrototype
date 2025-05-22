@@ -41,7 +41,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 138073025798763671}
-  - component: {fileID: 561215973602349734}
+  - component: {fileID: -6320464497453098788}
   m_Layer: 0
   m_Name: Wukong_Epic
   m_TagString: Untagged
@@ -65,7 +65,7 @@ Transform:
   - {fileID: 6081592557975274237}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &561215973602349734
+--- !u!114 &-6320464497453098788
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -74,16 +74,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 1044766132278006250}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6c066820fbf47189a1de2f1ba77e9be, type: 3}
+  m_Script: {fileID: 11500000, guid: ba3476fcbb03f314fa995b6e0b9d57bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonAnimation: {fileID: 6258920435275043751}
-  rarity: 2
+  skeletonAnimation: {fileID: 0}
+  idleAnim: 
+  walkAnim: 
+  deathAnim: 
+  attackAnim: 
+  rarity: 0
   rangedType: 0
+  guardianClass: 0
   guardianType: 0
-  range: 1.5
-  attackSpeed: 1.33
-  damage: 250
+  range: 0
+  attackSpeed: 0
+  damage: 0
 --- !u!1 &2719954171645034091
 GameObject:
   m_ObjectHideFlags: 0

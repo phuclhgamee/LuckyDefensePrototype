@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8290243210720555273}
-  - component: {fileID: 8624638697349520012}
+  - component: {fileID: -4064696718321458224}
   m_Layer: 0
   m_Name: Archer_Rare
   m_TagString: Untagged
@@ -33,7 +33,7 @@ Transform:
   - {fileID: 4230845411248495068}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8624638697349520012
+--- !u!114 &-4064696718321458224
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -42,16 +42,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 866647451597287665}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6c066820fbf47189a1de2f1ba77e9be, type: 3}
+  m_Script: {fileID: 11500000, guid: ba3476fcbb03f314fa995b6e0b9d57bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonAnimation: {fileID: 7252114345289215379}
-  rarity: 2
+  skeletonAnimation: {fileID: 0}
+  idleAnim: 
+  walkAnim: 
+  deathAnim: 
+  attackAnim: 
+  rarity: 0
   rangedType: 0
+  guardianClass: 0
   guardianType: 0
-  range: 1.5
-  attackSpeed: 1.33
-  damage: 250
+  range: 0
+  attackSpeed: 0
+  damage: 0
 --- !u!1 &3306778346229748671
 GameObject:
   m_ObjectHideFlags: 0
