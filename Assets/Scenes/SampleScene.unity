@@ -397,7 +397,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Wave 1
+  m_text: Wave 0
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cd017cca35cf2224ca30fee1d345d91e, type: 2}
   m_sharedMaterial: {fileID: -4999434625469543984, guid: cd017cca35cf2224ca30fee1d345d91e, type: 2}
@@ -1269,6 +1269,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: {fileID: 25827480}
   restartButton: {fileID: 1152461987}
+  currentWaveVariable: {fileID: 11400000, guid: 40855efa9901daa40ac4db1789e6c5eb, type: 2}
+  tileManager: {fileID: 0}
+  guardianManager: {fileID: 0}
 --- !u!1 &767432206
 GameObject:
   m_ObjectHideFlags: 0
@@ -1807,7 +1810,7 @@ GameObject:
   - component: {fileID: 1152461988}
   - component: {fileID: 1152461987}
   m_Layer: 5
-  m_Name: Button
+  m_Name: PlayAgainBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1897,7 +1900,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 71395aa891b0559478751820748ebb3f, type: 2}
+  m_Sprite: {fileID: 21300000, guid: cf81add05416b424d8444fa5baf72b64, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2153,7 +2156,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 1 / 100
+  m_text: 0 / 100
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cd017cca35cf2224ca30fee1d345d91e, type: 2}
   m_sharedMaterial: {fileID: -4999434625469543984, guid: cd017cca35cf2224ca30fee1d345d91e, type: 2}

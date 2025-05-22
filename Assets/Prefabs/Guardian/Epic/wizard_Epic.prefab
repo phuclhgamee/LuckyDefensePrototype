@@ -291,7 +291,7 @@ MonoBehaviour:
   walkAnim: 
   deathAnim: 
   attackAnim: wizard_happy
-  rarity: 1
+  rarity: 2
   rangedType: 0
   guardianClass: 0
   guardianType: 13
