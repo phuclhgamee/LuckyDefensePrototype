@@ -28,7 +28,8 @@ namespace LuckyDenfensePrototype
             
             var existedGuardian = summonedGuardian
                 .FirstOrDefault(x=>x.guardianType == guardian.guardianType
-                                   && x.Tile.standingGuardians.Count != Const.MaxGuardiansInATile);
+                                   && x.Tile.standingGuardians.Count != Const.MaxGuardiansInATile
+                                   && x.rarity != Rarity.Mythic);
 
             if (existedGuardian !=null)
             {
@@ -53,13 +54,17 @@ namespace LuckyDenfensePrototype
             return tile.transform.position + new Vector3(-tile.Width/10,tile.Height/10, 0);
         }
 
-        public Vector3 GetSwapPosition(Tile tile, int index)
+        public Vector3 GetSwapPosition(Tile tile, int index, Guardian guardian)
         {
-            if (index == 1)
+            if (guardian.rarity == Rarity.Mythic)
+            {
+                return tile.transform.position;
+            }
+            else if (index == 1 && guardian.rarity!= Rarity.Mythic)
             {
                 return tile.transform.position + new Vector3(tile.Width/10,0,0);
             }
-            else if (index == 2)
+            else if (index == 2 && guardian.rarity!= Rarity.Mythic)
             {
                 return tile.transform.position + new Vector3(-tile.Width/10,-tile.Height/10,0);
             }
@@ -76,14 +81,16 @@ namespace LuckyDenfensePrototype
                 {
                     PointerUpTile.standingGuardians[i].Tile = PointerUpTile;
                     PointerUpTile.standingGuardians[i].transform.SetParent(PointerUpTile.transform);
-                    PointerUpTile.standingGuardians[i].transform.position = GetSwapPosition(PointerUpTile, i);
+                    PointerUpTile.standingGuardians[i].transform.position = GetSwapPosition(PointerUpTile, i,
+                        PointerUpTile.standingGuardians[i]);
                 }
 
                 for (int i =0; i< PointerDownTile.standingGuardians.Count; i++)
                 {
                     PointerDownTile.standingGuardians[i].Tile = PointerDownTile;
                     PointerDownTile.standingGuardians[i].transform.SetParent(PointerDownTile.transform);
-                    PointerDownTile.standingGuardians[i].transform.position = GetSwapPosition(PointerDownTile, i);
+                    PointerDownTile.standingGuardians[i].transform.position = GetSwapPosition(PointerDownTile, i
+                    , PointerDownTile.standingGuardians[i]);
                 }
             }
         }

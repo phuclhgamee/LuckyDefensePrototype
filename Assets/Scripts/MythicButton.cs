@@ -23,7 +23,8 @@ namespace LuckyDenfensePrototype
         {
             foreach (Guardian guardian in mythicGuardian.mythicData.requiredGuardians)
             {
-                var existedGuardian = guardianManager.summonedGuardians.FirstOrDefault(x=>x.guardianType == guardian.guardianType);
+                var existedGuardian = guardianManager.summonedGuardians
+                    .FirstOrDefault(x=>x.guardianType == guardian.guardianType);
                 if (existedGuardian != null)
                 {
                     existedGuardian.Tile.ClearGuardian(existedGuardian);

@@ -46,10 +46,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   skeletonAnimation: {fileID: 7252114345289215379}
-  idleAnim: 
+  idleAnim: archer_idle
   walkAnim: 
   deathAnim: 
-  attackAnim: 
+  attackAnim: archer_happy
   rarity: 1
   rangedType: 0
   guardianClass: 0

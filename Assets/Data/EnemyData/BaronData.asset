@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: BaronData
   m_EditorClassIdentifier: 
   speed: 1
-  heath: 10
+  heath: 1e+9

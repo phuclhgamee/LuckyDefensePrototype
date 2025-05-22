@@ -18,7 +18,49 @@ MonoBehaviour:
   - {fileID: 5757943837513534313, guid: cfad9138033693d4fa5b07f1f6acede0, type: 3}
   - {fileID: 3124680193948473596, guid: 7e8c32fa5a2887f4fb8d52d17b526842, type: 3}
   - {fileID: 3301135975627861724, guid: c73ab11027033864f8f7f7c6d37d4555, type: 3}
+  - {fileID: -4064696718321458224, guid: 518c339e198441744864bea7fb9ff17c, type: 3}
+  - {fileID: -1234212047001958881, guid: 3cd5b44e46099b849954a9d9c17e6cb5, type: 3}
+  - {fileID: -4137218943904501280, guid: f9ee03a8de8f9e549945f57fc8d413d9, type: 3}
+  - {fileID: 2351806926079189934, guid: 5e865f7e05d8a524192be030c9075853, type: 3}
+  - {fileID: 9141964229362307445, guid: d2dbddca09ee8e84aad78404d2298749, type: 3}
+  - {fileID: -5476658227984958895, guid: b4e79023582123a42ae10c4a13ebea4c, type: 3}
+  - {fileID: -9059381783361256790, guid: 499096f95f3dacc41a5ffdabcb4eb169, type: 3}
+  - {fileID: -3185734225825467154, guid: 001919d8bfd43974cbdb80b612022265, type: 3}
+  - {fileID: 5452676445431728181, guid: e23fdf05936d4794bac0d5a09c381c36, type: 3}
+  - {fileID: -6320464497453098788, guid: c492ac65d9f27fa4295e477fee0ff7cb, type: 3}
+  - {fileID: 7955080930251119651, guid: 59592b1fa39540e42a96cc5c293fe3e9, type: 3}
+  - {fileID: 2234643700231145679, guid: 9c5cf61b1c2eef549b70563a7c36eb91, type: 3}
+  - {fileID: 5011544335577334564, guid: 4c04fe1e2aace5944a9a61a1e9d911af, type: 3}
+  - {fileID: -5890123250021528060, guid: 2e353a25746548642953116589121c08, type: 3}
   mythicGuardians:
   - {fileID: 3082952991056098666, guid: 3838ffcb08e8b9e42bdd3f385e7745ac, type: 3}
+  - {fileID: -7089491141543961590, guid: 749bceaed1fa51f488c95ca71ec3173e, type: 3}
+  - {fileID: 24398897351528848, guid: 6c99c25cb1ead8547a8ce8e559d18e6b, type: 3}
+  - {fileID: 2327144717127600871, guid: c8f0f2ba4d01fdf4882003cf37b06e01, type: 3}
+  - {fileID: 2127039888486987003, guid: 747fac589b173bd4785fe27000f1ac61, type: 3}
+  - {fileID: 5773186437886712535, guid: 01d5b3328c3e58448aa8dc0aa0e5a234, type: 3}
+  - {fileID: 1850864793829887870, guid: fa85175ee1deae747ad2beb356b30c39, type: 3}
+  - {fileID: -2816732121355155005, guid: ce3bd1e7227cb1f4ca4eac28d72a76b6, type: 3}
+  - {fileID: 219551822135402626, guid: 3c18013988a955d47b9895a1471d8966, type: 3}
+  - {fileID: 3401386510158757816, guid: f4a14da22aef95045b0e7df16b680688, type: 3}
+  - {fileID: 1385957940657831710, guid: 81de0596baf3ffd479f52b7051296a91, type: 3}
   summonedGuardians:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 0}
