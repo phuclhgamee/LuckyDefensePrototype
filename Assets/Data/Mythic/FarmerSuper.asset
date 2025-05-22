@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddbb084ce0a943c9aa35598f7e8b9842, type: 3}
+  m_Name: FarmerSuper
+  m_EditorClassIdentifier: 
+  requiredGuardians:
+  - {fileID: 7955080930251119651, guid: 59592b1fa39540e42a96cc5c293fe3e9, type: 3}
+  - {fileID: -6320464497453098788, guid: c492ac65d9f27fa4295e477fee0ff7cb, type: 3}
+  - {fileID: 5757943837513534313, guid: cfad9138033693d4fa5b07f1f6acede0, type: 3}
+  - {fileID: 5757943837513534313, guid: cfad9138033693d4fa5b07f1f6acede0, type: 3}
+  sprite: {fileID: 21300000, guid: 1db399456af9c054a8778e186d9afabb, type: 3}

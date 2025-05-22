@@ -148,7 +148,8 @@ namespace LuckyDenfensePrototype
         ArcherRare, KnightRare, WizardRare, DruidRare, FarmerRare,
         NinjaEpic, HerculesEpic, WukongEpic, WizardEpic, KnightEpic,
         GOWLegend, ValkyrieLegend, BuddaLegend, NezhaLegend,
-        WukongKingMythic
+        WukongKingMythic, BuddaSuperMythic, DruidMythic, FarmerSuperMythic,GOW3Mythic, GOWSuperMythic,
+        HerculesSuperMythic, NezhaSuperMythic, NinjaSuperMythic, ValkyrieSuperMythic, Valkyrie3Mythic
     }
 }
 

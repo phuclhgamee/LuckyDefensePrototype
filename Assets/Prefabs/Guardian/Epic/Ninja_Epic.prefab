@@ -45,18 +45,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba3476fcbb03f314fa995b6e0b9d57bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonAnimation: {fileID: 0}
-  idleAnim: 
+  skeletonAnimation: {fileID: 977072707322310146}
+  idleAnim: idle
   walkAnim: 
   deathAnim: 
-  attackAnim: 
-  rarity: 0
+  attackAnim: happy
+  rarity: 2
   rangedType: 0
   guardianClass: 0
-  guardianType: 0
-  range: 0
-  attackSpeed: 0
-  damage: 0
+  guardianType: 10
+  range: 1.6
+  attackSpeed: 1.2
+  damage: 250
 --- !u!1 &1031391334155947512
 GameObject:
   m_ObjectHideFlags: 0

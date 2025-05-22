@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7208776718519355379}
+  - component: {fileID: -2816732121355155005}
   m_Layer: 0
   m_Name: NezhaSuper_Mythic
   m_TagString: Untagged
@@ -32,6 +33,31 @@ Transform:
   - {fileID: 3749595124771721641}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-2816732121355155005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 157350880878428194}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f3bc084bdc40b3bcfd47c4c91c0360, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skeletonAnimation: {fileID: 7095345904077836085}
+  idleAnim: idle
+  walkAnim: 
+  deathAnim: 
+  attackAnim: appear
+  rarity: 4
+  rangedType: 0
+  guardianClass: 0
+  guardianType: 26
+  range: 1.6
+  attackSpeed: 1.5
+  damage: 2500
+  mythicData: {fileID: 11400000, guid: 737f1abb1aabe7f41900da6071c5ac96, type: 2}
 --- !u!1 &1450854460428675417
 GameObject:
   m_ObjectHideFlags: 0

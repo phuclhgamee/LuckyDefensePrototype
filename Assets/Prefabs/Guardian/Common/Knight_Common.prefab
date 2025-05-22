@@ -291,10 +291,10 @@ MonoBehaviour:
   walkAnim: move
   deathAnim: die
   attackAnim: happy
-  rarity: 1
+  rarity: 0
   rangedType: 1
   guardianClass: 0
   guardianType: 1
   range: 0.75
   attackSpeed: 1
-  damage: 75
+  damage: 15

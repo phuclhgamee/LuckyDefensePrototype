@@ -41,6 +41,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1038644840800097211}
+  - component: {fileID: -7089491141543961590}
   m_Layer: 0
   m_Name: BuddaSuper_Mythic
   m_TagString: Untagged
@@ -64,6 +65,31 @@ Transform:
   - {fileID: 8986344835073092210}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-7089491141543961590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7850077842148578692}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f3bc084bdc40b3bcfd47c4c91c0360, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skeletonAnimation: {fileID: 8438937295638949209}
+  idleAnim: Idle
+  walkAnim: 
+  deathAnim: 
+  attackAnim: Fly
+  rarity: 4
+  rangedType: 1
+  guardianClass: 0
+  guardianType: 20
+  range: 0.8
+  attackSpeed: 1
+  damage: 3750
+  mythicData: {fileID: 11400000, guid: a6a0c5fe61436d54e90e3b613b8abdb5, type: 2}
 --- !u!1 &9209153762155463599
 GameObject:
   m_ObjectHideFlags: 0

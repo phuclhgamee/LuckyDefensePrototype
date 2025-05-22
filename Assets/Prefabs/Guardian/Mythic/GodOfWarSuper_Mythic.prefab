@@ -41,6 +41,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3620651257782735018}
+  - component: {fileID: 5773186437886712535}
   m_Layer: 0
   m_Name: GodOfWarSuper_Mythic
   m_TagString: Untagged
@@ -64,6 +65,31 @@ Transform:
   - {fileID: 5568261522895644457}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5773186437886712535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5091335337325092292}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f3bc084bdc40b3bcfd47c4c91c0360, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skeletonAnimation: {fileID: 4810675796837630975}
+  idleAnim: idle
+  walkAnim: 
+  deathAnim: 
+  attackAnim: appear
+  rarity: 4
+  rangedType: 1
+  guardianClass: 0
+  guardianType: 24
+  range: 0.8
+  attackSpeed: 1.2
+  damage: 3750
+  mythicData: {fileID: 11400000, guid: 08fed7f7799d0e24a849193a54bea9f6, type: 2}
 --- !u!1 &7959646759680576850
 GameObject:
   m_ObjectHideFlags: 0

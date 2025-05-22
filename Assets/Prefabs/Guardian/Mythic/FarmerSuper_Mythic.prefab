@@ -165,6 +165,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6088096549628302686}
+  - component: {fileID: 2327144717127600871}
   m_Layer: 0
   m_Name: FarmerSuper_Mythic
   m_TagString: Untagged
@@ -188,3 +189,28 @@ Transform:
   - {fileID: 2376936935364780978}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2327144717127600871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7652928243381214106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f3bc084bdc40b3bcfd47c4c91c0360, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skeletonAnimation: {fileID: 805999380751274288}
+  idleAnim: idle
+  walkAnim: 
+  deathAnim: 
+  attackAnim: godown
+  rarity: 4
+  rangedType: 1
+  guardianClass: 0
+  guardianType: 22
+  range: 0.8
+  attackSpeed: 1.1
+  damage: 3750
+  mythicData: {fileID: 11400000, guid: 679833466b6fd7947b6f1210bb679892, type: 2}
