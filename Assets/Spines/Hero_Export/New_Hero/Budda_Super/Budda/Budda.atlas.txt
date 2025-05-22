@@ -1,0 +1,43 @@
+Budda.png
+size:1124,1052
+filter:Linear,Linear
+pma:true
+Bighand1
+bounds:516,244,314,328
+offsets:1,1,316,330
+Bighand2
+bounds:669,589,453,459
+offsets:2,2,457,462
+Hair
+bounds:832,226,188,124
+offsets:1,1,190,126
+Head
+bounds:823,2,180,222
+L Arm
+bounds:516,57,87,70
+offsets:1,1,89,72
+L Armpit
+bounds:1005,101,98,118
+offsets:1,2,100,121
+L Hand
+bounds:605,47,63,80
+offsets:1,1,66,82
+Layer 1238
+bounds:832,352,241,235
+R Arm
+bounds:1005,27,99,72
+offsets:1,1,101,74
+R Armpit
+bounds:1022,221,75,129
+offsets:1,1,78,131
+R Hand
+bounds:670,48,62,79
+offsets:1,1,64,81
+Ray
+bounds:2,60,512,512
+dai_sen
+bounds:516,129,305,113
+offsets:1,1,307,115
+light_Light
+bounds:2,574,665,474
+offsets:0,12,665,498

@@ -1,0 +1,14 @@
+Hand_Budda.png
+size:493,2432
+filter:Linear,Linear
+pma:true
+Art_SkillNormal
+bounds:311,2204,180,226
+Light
+bounds:2,16,180,2414
+offsets:0,0,180,2500
+Ray
+bounds:184,2,125,2428
+offsets:0,22,126,2450
+Shadow
+bounds:311,1976,180,226

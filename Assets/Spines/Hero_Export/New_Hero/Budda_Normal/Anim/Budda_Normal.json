@@ -1,0 +1,52 @@
+{ "skeleton": { "images": "F:/GAMEE/Survivor/Heroes/Budda_Normal/Anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Carpet copy 2", "bone": "root", "attachment": "Carpet copy 2" },
+	{ "name": "L Armpit", "bone": "root", "attachment": "L Armpit" },
+	{ "name": "L Arm", "bone": "root", "attachment": "L Arm" },
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "R Armpit", "bone": "root", "attachment": "R Armpit" },
+	{ "name": "Towel", "bone": "root", "attachment": "Towel" },
+	{ "name": "R Arm", "bone": "root", "attachment": "R Arm" },
+	{ "name": "L Hand", "bone": "root", "attachment": "L Hand" },
+	{ "name": "R Hand", "bone": "root", "attachment": "R Hand" },
+	{ "name": "Head", "bone": "root", "attachment": "Head" }
+],
+"skins": {
+	"default": {
+		"Carpet copy 2": {
+			"Carpet copy 2": { "x": 269, "y": -297, "width": 236, "height": 88 }
+		},
+		"L Armpit": {
+			"L Armpit": { "x": 288, "y": -226.5, "width": 50, "height": 63 }
+		},
+		"L Arm": {
+			"L Arm": { "x": 312, "y": -235.5, "width": 54, "height": 43 }
+		},
+		"Body": {
+			"Body": { "x": 267, "y": -253, "width": 132, "height": 128 }
+		},
+		"R Armpit": {
+			"R Armpit": { "x": 229, "y": -234, "width": 48, "height": 60 }
+		},
+		"Towel": {
+			"Towel": { "x": 240, "y": -169, "width": 192, "height": 214 }
+		},
+		"R Arm": {
+			"R Arm": { "x": 236.5, "y": -252, "width": 57, "height": 38 }
+		},
+		"L Hand": {
+			"L Hand": { "x": 333, "y": -219, "width": 38, "height": 48 }
+		},
+		"R Hand": {
+			"R Hand": { "x": 261.5, "y": -252.5, "width": 41, "height": 33 }
+		},
+		"Head": {
+			"Head": { "x": 260, "y": -165, "width": 150, "height": 170 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -23,4 +23,12 @@ namespace LuckyDenfensePrototype
         public static string Move = "Move";
         public static string Die = "Die";
     }
+
+    public static class GuardianAnimation
+    {
+        public static string Idle = "Idle";
+        public static string Attack = "Attack";
+        
+        public static string BoolParamater = "AttackBool";
+    }
 }

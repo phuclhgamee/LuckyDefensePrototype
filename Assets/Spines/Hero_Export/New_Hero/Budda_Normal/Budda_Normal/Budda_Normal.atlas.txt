@@ -1,0 +1,48 @@
+Budda_Normal.png
+size:484,524
+filter:Linear,Linear
+pma:true
+Body
+bounds:348,215,131,127
+offsets:1,1,132,128
+Carpet copy 2
+bounds:196,432,235,88
+offsets:0,0,236,88
+Ellipse 4 copy 2
+bounds:2,19,136,71
+offsets:1,1,138,73
+Head
+bounds:196,172,150,170
+L Arm
+bounds:344,45,51,41
+offsets:1,1,54,43
+L Armpit
+bounds:140,30,47,60
+offsets:2,1,50,63
+L Hand
+bounds:433,414,36,46
+offsets:1,1,38,48
+R Arm
+bounds:397,50,54,36
+offsets:2,1,57,38
+R Armpit
+bounds:433,462,45,58
+offsets:2,1,48,60
+R Hand
+bounds:344,12,38,31
+offsets:1,1,41,33
+Skin2/Body
+bounds:348,88,129,125
+offsets:1,1,130,126
+Skin2/Carpet copy 4
+bounds:196,344,233,86
+offsets:0,0,234,86
+Skin2/Cham
+bounds:2,4,9,13
+offsets:2,1,11,14
+Skin2/Head
+bounds:194,2,148,168
+Skin2/Towel
+bounds:2,92,190,212
+Towel
+bounds:2,306,192,214
