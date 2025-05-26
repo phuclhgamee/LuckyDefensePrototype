@@ -67,15 +67,10 @@ namespace LuckyDenfensePrototype
                 yield return StartCoroutine(SpawnEnemy(enemies));
             }
             yield return new WaitUntil(()=>Timer <= 0f);
-            if (CurrentWave.Value < waveLevel.waves.Length - 1 && isBossWaveCleared)
-            {
-                VictoryEvent.Raise();
-            }
-            else
+            if (CurrentWave.Value < waveLevel.waves.Length - 1)
             {
                 CurrentWave.Value++;
             }
-            
         }
 
         IEnumerator SpawnAllWave()
@@ -88,6 +83,10 @@ namespace LuckyDenfensePrototype
                     if (!isBossWaveCleared)
                     {
                         GameOverEvent.Raise();
+                    }
+                    else if (CurrentWave.Value == waveLevel.waves.Length - 1 && isBossWaveCleared)
+                    {
+                        VictoryEvent.Raise();
                     }
                 }
             }

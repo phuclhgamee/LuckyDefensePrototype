@@ -86,11 +86,12 @@ MonoBehaviour:
   rarity: 4
   rangedType: 1
   guardianClass: 0
-  guardianType: 0
+  guardianType: 19
   range: 0.75
   attackSpeed: 1.33
   damage: 3750
   graphic: {fileID: 0}
+  Target: {fileID: 0}
   mythicData: {fileID: 11400000, guid: d2aac566b60936e4a86bcf9467b2413f, type: 2}
 --- !u!1 &6903667014487936979
 GameObject:
