@@ -485,8 +485,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e98e20753654479ad6b6d15353fee7f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  data: {fileID: 11400000, guid: 544cd62dd18eca74786232725587c8d5, type: 2}
   skeletonAnimation: {fileID: 2024002708476349246}
+  moveAnimation: Idle
+  deadAnimation: Die
+  data: {fileID: 11400000, guid: 544cd62dd18eca74786232725587c8d5, type: 2}
   enemyCount: {fileID: 11400000, guid: 00e3f0be54cc15a4088149a2ea44000e, type: 2}
   visual: {fileID: 3435603354544250843}
   healthBar: {fileID: 1554190263806231558}

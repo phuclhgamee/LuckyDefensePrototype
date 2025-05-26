@@ -10,10 +10,12 @@ namespace LuckyDenfensePrototype
 {
     public class Enemy : MonoBehaviour
     {
-        [SerializeField] private EnemyData data;
         [SerializeField] private SkeletonAnimation skeletonAnimation;
+        [SerializeField, SpineAnimation] private string moveAnimation;
+        [SerializeField, SpineAnimation] private string deadAnimation;
+        
+        [SerializeField] private EnemyData data;
         [SerializeField] private IntegerVariable enemyCount;
-
         [SerializeField] private GameObject visual;
         
         [Header("UI")]
@@ -48,7 +50,7 @@ namespace LuckyDenfensePrototype
             CurrentHealth = data.heath;
             Speed = data.speed;
             StartCoroutine(Move());
-            skeletonAnimation.state.SetAnimation(0,EnemyAnimation.Idle,true);
+            skeletonAnimation.state.SetAnimation(0,moveAnimation,true);
         }
 
         void Update()
@@ -58,12 +60,11 @@ namespace LuckyDenfensePrototype
         }
         IEnumerator Move()
         {
-            
             while (true)
             {
                 Transform target = rotateDestinations[currentDestination];
                 transform.position = Vector3.MoveTowards(transform.position, target.position
-                    , data.speed * Time.deltaTime);
+                    , Speed * Time.deltaTime);
                 if (velocity.x < 0)
                 {
                     visual.transform.localScale = new Vector3(-Math.Abs(visual.transform.localScale.x), visual.transform.localScale.y, visual.transform.localScale.z);
@@ -82,7 +83,8 @@ namespace LuckyDenfensePrototype
 
         public void Die()
         {
-            var entry = skeletonAnimation.state.SetAnimation(0, "Die", false);
+            Speed = 0;
+            var entry = skeletonAnimation.state.SetAnimation(0, deadAnimation, false);
             entry.Complete += (trackEntry) =>
             {
                 gameObject.SetActive(false);

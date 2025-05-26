@@ -110,6 +110,7 @@ namespace LuckyDenfensePrototype
         }
         public void Attack()
         {
+            if (Target.CurrentHealth <= 0) return;
             isAttacking = true;
             float duration = skeletonAnimation.Skeleton.Data.FindAnimation(attackAnim)?.Duration ?? 0f;
             float desiredDuration = 1f / attackSpeed;

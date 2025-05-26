@@ -69,7 +69,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0.00453, y: 0.29228}
+  m_AnchoredPosition: {x: 0.00453, y: 0.309}
   m_SizeDelta: {x: 247.45877, y: 39.01192}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &5647959785525261435
@@ -253,7 +253,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: -0.12, y: 0.12, z: 0.12}
+  m_LocalScale: {x: -0.1, y: 0.1, z: 0.1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 670173521204226163}
@@ -278,7 +278,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 627ad38d686c2074bb8d1b34b348bb8d, type: 2}
+  - {fileID: 2100000, guid: 4482e9cfb50d18949a29838d22db2dbf, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -312,7 +312,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: c8002079525027a40b729b7fdcbb365d, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 3f7fa0673a3f0ed4f9f1448c48d15296, type: 2}
   initialSkinName: 
   fixPrefabOverrideViaMeshFilter: 2
   initialFlipX: 0
@@ -448,7 +448,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6753793809112821342}
   - component: {fileID: 5529002075561139712}
-  - component: {fileID: 1563580578158752558}
+  - component: {fileID: 2099235540810604111}
   m_Layer: 6
   m_Name: Creep_normal_1-10
   m_TagString: Untagged
@@ -485,13 +485,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 060e6e4a92ec4765a072c2ae324b4297, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  data: {fileID: 11400000, guid: 2724f8f5fcf8fba45a410b11fc5c061a, type: 2}
   skeletonAnimation: {fileID: 2164540812451375078}
+  moveAnimation: orc4_move
+  deadAnimation: orc4_die
+  data: {fileID: 11400000, guid: 2724f8f5fcf8fba45a410b11fc5c061a, type: 2}
   enemyCount: {fileID: 11400000, guid: 00e3f0be54cc15a4088149a2ea44000e, type: 2}
   visual: {fileID: 815373750183514417}
   healthBar: {fileID: 6108989280944046941}
---- !u!60 &1563580578158752558
-PolygonCollider2D:
+--- !u!61 &2099235540810604111
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -522,7 +524,7 @@ PolygonCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.0035510361, y: 0.095647305}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -532,17 +534,6 @@ PolygonCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.050387196, y: 0.2324951}
-      - {x: -0.043683723, y: 0.26382503}
-      - {x: -0.100536406, y: 0.1936922}
-      - {x: -0.105709046, y: 0.13043627}
-      - {x: -0.06769555, y: 0.080483735}
-      - {x: -0.10920085, y: 0.032482266}
-      - {x: -0.08831146, y: 0.009680629}
-      - {x: -0.04616756, y: -0.005251527}
-      - {x: 0.03349112, y: -0.0010788441}
-      - {x: 0.06683853, y: 0.010317743}
-      - {x: 0.08381741, y: 0.15956616}
-  m_UseDelaunayMesh: 0
+  serializedVersion: 2
+  m_Size: {x: 0.10960847, y: 0.2054264}
+  m_EdgeRadius: 0

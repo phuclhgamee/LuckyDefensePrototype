@@ -26,8 +26,8 @@ namespace LuckyDenfensePrototype
                 Vector3 screenCenter = cam.WorldToScreenPoint(worldPosCenter);
                 Vector3 screenEdge = cam.WorldToScreenPoint(worldPosEdge);
                 
-                float diameterInPixels = Vector2.Distance(screenCenter, screenEdge) * 2f;
-                
+                float diameterInPixels = Vector2.Distance(screenCenter, screenEdge) * 2f * 3.65f;
+                Debug.Log("Diameter: "+diameterInPixels);
                 rangeCircleImage.rectTransform.sizeDelta = new Vector2(diameterInPixels, diameterInPixels);
             }
         }
