@@ -85,6 +85,7 @@ namespace LuckyDenfensePrototype
             {
                 tileManager.PointerDownTile = this;
             }
+            //CloseTileUIEvent.Raise();
         }
 
         public void OnPointerUp(PointerEventData eventData)
@@ -109,6 +110,7 @@ namespace LuckyDenfensePrototype
                     tileManager.PointerUpTile = null;
                 }
             }
+            CloseTileUIEvent.Raise();
         }
 
         

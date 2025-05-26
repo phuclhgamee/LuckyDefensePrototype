@@ -32,7 +32,7 @@ namespace LuckyDenfensePrototype
         [SerializeField] public SkeletonDataAsset graphic;
         public Tile Tile { get; set; }
 
-        public Enemy Target { get; set; }
+        public Enemy Target;
         protected bool isAttacking;
         private Vector3 previousDirection = Vector3.zero;
         
@@ -75,7 +75,7 @@ namespace LuckyDenfensePrototype
             foreach (Collider2D c in enemyColliders)
             {
                 Enemy e = c.GetComponent<Enemy>();
-                if (e != null)
+                if (e != null && e.CurrentHealth > 0)
                 {
                     float distance = Vector3.Distance(Tile.transform.position, e.transform.position);
                     if (distance < minDistance)
@@ -108,9 +108,9 @@ namespace LuckyDenfensePrototype
             }
             return Vector3.zero;
         }
+        //bug: still attack death enemy
         public void Attack()
         {
-            if (Target.CurrentHealth <= 0) return;
             isAttacking = true;
             float duration = skeletonAnimation.Skeleton.Data.FindAnimation(attackAnim)?.Duration ?? 0f;
             float desiredDuration = 1f / attackSpeed;
@@ -118,17 +118,17 @@ namespace LuckyDenfensePrototype
             skeletonAnimation.timeScale = timeScale;
             var entry = skeletonAnimation.state.SetAnimation(0,attackAnim,false);
             
-            Debug.Log(timeScale);
             entry.Complete += (trackEntry) =>
             {
-                Target.CurrentHealth -= damage;
-                
-                if (Vector3.Distance(Tile.transform.position, Target.transform.position) > range || !Target.gameObject.activeInHierarchy)
+                //prevent multiple death animation
+                if (Target.CurrentHealth > 0)
+                {
+                    Target.CurrentHealth -= damage;
+                }
+                if (Target.CurrentHealth <= 0 || Vector3.Distance(Tile.transform.position, Target.transform.position) > range 
+                    || !Target.gameObject.activeInHierarchy)
                 {
                     Target = null;
-                }
-                if (Target == null)
-                {
                     skeletonAnimation.state.SetAnimation(0, idleAnim, true);
                 }
                 isAttacking = false;

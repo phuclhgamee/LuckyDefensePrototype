@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Security.Cryptography;
 using LuckyDenfensePrototype;
 using TMPro;
 using UnityEngine;
@@ -31,10 +32,15 @@ namespace LuckyDefensePrototype2
         
         public string FormatTime(float seconds)
         {
-            int totalSeconds = Mathf.FloorToInt(seconds);
-            int minutes = totalSeconds / 60;
-            int secs = totalSeconds % 60;
-            return $"{minutes:D2}:{secs:D2}";
+            if (seconds >= 0)
+            {
+                int totalSeconds = Mathf.FloorToInt(seconds);
+                int minutes = totalSeconds / 60;
+                int secs = totalSeconds % 60;
+                return $"{minutes:D2}:{secs:D2}";
+            }
+
+            return "00:00";
         }
     }
 }

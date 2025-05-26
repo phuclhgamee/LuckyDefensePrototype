@@ -8,7 +8,7 @@ namespace LuckyDenfensePrototype
     {
         [SerializeField] private Tile tile;
         [SerializeField] private Image rangeCircleImage;
-
+        [SerializeField] private Canvas canvas;
         public void RangeSetup()
         {
             if (tile.standingGuardians.Count > 0)
@@ -16,19 +16,14 @@ namespace LuckyDenfensePrototype
                 transform.position = tile.transform.position;
                 Guardian guardian = tile.standingGuardians[0];
                 float range = guardian.range;
+                float diameter = range * 2f;
                 
-                Camera cam = Camera.main;
+                Vector3 canvasScale = canvas.transform.localScale;
+                Debug.Log(canvasScale);
+                float correctedDiameter = diameter / canvasScale.x;
                 
-                Vector3 worldPosCenter = tile.transform.position;
+                rangeCircleImage.rectTransform.sizeDelta = new Vector2(correctedDiameter, correctedDiameter);
                 
-                Vector3 worldPosEdge = worldPosCenter + Vector3.right * range;
-                
-                Vector3 screenCenter = cam.WorldToScreenPoint(worldPosCenter);
-                Vector3 screenEdge = cam.WorldToScreenPoint(worldPosEdge);
-                
-                float diameterInPixels = Vector2.Distance(screenCenter, screenEdge) * 2f * 3.65f;
-                Debug.Log("Diameter: "+diameterInPixels);
-                rangeCircleImage.rectTransform.sizeDelta = new Vector2(diameterInPixels, diameterInPixels);
             }
         }
     }

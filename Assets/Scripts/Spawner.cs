@@ -15,6 +15,7 @@ namespace LuckyDenfensePrototype
 
         [SerializeField] private Event UpdateTimerTextEvent;
         [SerializeField] private Event GameOverEvent;
+        [SerializeField] private Event VictoryEvent;
         
         private float _timer;
         private bool isBossWaveCleared =false;
@@ -40,6 +41,8 @@ namespace LuckyDenfensePrototype
             {
                 GameOverEvent.Raise();
             }
+
+            
         }
         IEnumerator SpawnEnemy(Enemies enemies)
         {
@@ -64,7 +67,15 @@ namespace LuckyDenfensePrototype
                 yield return StartCoroutine(SpawnEnemy(enemies));
             }
             yield return new WaitUntil(()=>Timer <= 0f);
-            CurrentWave.Value++;
+            if (CurrentWave.Value == waveLevel.waves.Length - 1)
+            {
+                VictoryEvent.Raise();
+            }
+            else
+            {
+                CurrentWave.Value++;
+            }
+            
         }
 
         IEnumerator SpawnAllWave()
