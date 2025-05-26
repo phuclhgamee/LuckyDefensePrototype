@@ -32,6 +32,11 @@ namespace LuckyDenfensePrototype
         {
             mythicInformationPanel.gameObject.SetActive(true);
         }
+
+        public void CloseMythicPanel()
+        {
+            mythicInformationPanel.gameObject.SetActive(false);
+        }
     }
 }
 

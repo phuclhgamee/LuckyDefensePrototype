@@ -67,7 +67,7 @@ namespace LuckyDenfensePrototype
                 yield return StartCoroutine(SpawnEnemy(enemies));
             }
             yield return new WaitUntil(()=>Timer <= 0f);
-            if (CurrentWave.Value == waveLevel.waves.Length - 1)
+            if (CurrentWave.Value < waveLevel.waves.Length - 1 && isBossWaveCleared)
             {
                 VictoryEvent.Raise();
             }
