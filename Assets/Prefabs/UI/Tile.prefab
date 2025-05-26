@@ -640,6 +640,81 @@ MonoBehaviour:
   OnEnableMergeButtonEvent: {fileID: 11400000, guid: c7caccfdc4928f04a9d44105796921cf, type: 2}
   OnCloseTileUIEvent: {fileID: 11400000, guid: 094512eaf29fdaf49bc1050e002928d0, type: 2}
   AvailableMythicDisplayEvent: {fileID: 11400000, guid: 4c4020a97fec86f4b9a566347b4a7bc7, type: 2}
+--- !u!1 &6358826966218073619
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9122524119430866265}
+  - component: {fileID: 6465129927840403120}
+  - component: {fileID: 6069944617763243851}
+  m_Layer: 0
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &9122524119430866265
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6358826966218073619}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5367920601094515569}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 8}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &6465129927840403120
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6358826966218073619}
+  m_CullTransparentMesh: 1
+--- !u!114 &6069944617763243851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6358826966218073619}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 8b3c84b4738bae545aeb03792879a65b, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
 --- !u!1 &6532749066263462710
 GameObject:
   m_ObjectHideFlags: 0
@@ -652,6 +727,7 @@ GameObject:
   - component: {fileID: 4570456788617350483}
   - component: {fileID: 6734071376843060225}
   - component: {fileID: 5175820145333456003}
+  - component: {fileID: 8943500125726595870}
   m_Layer: 0
   m_Name: Sell
   m_TagString: Untagged
@@ -670,7 +746,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 9122524119430866265}
   m_Father: {fileID: 8932570799807203377}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -706,7 +783,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c94b81688cafa9a49bbf9ea17328f510, type: 3}
+  m_Sprite: {fileID: 21300000, guid: cf81add05416b424d8444fa5baf72b64, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -759,7 +836,36 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 6734071376843060225}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 8943500125726595870}
+        m_TargetAssemblyTypeName: LuckyDenfensePrototype.SellButton, Assembly-CSharp
+        m_MethodName: OnClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &8943500125726595870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6532749066263462710}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fe87c3af767499a9ddc4c5b3b2c98b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tileManager: {fileID: 11400000, guid: 2507eac6a8efb414c92f7f2f85b667ca, type: 2}
+  guardianManager: {fileID: 11400000, guid: 90586319648a5994faa9939a71e7eda8, type: 2}
+  tile: {fileID: 8613968875357997481}
+  OnEnableMergeButtonEvent: {fileID: 0}
+  OnCloseTileUIEvent: {fileID: 11400000, guid: 094512eaf29fdaf49bc1050e002928d0, type: 2}
 --- !u!1 &7023263580225156365
 GameObject:
   m_ObjectHideFlags: 0
