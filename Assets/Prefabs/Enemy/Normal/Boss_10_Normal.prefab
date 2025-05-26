@@ -145,7 +145,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: -0.3, y: 0.36, z: 0.36}
+  m_LocalScale: {x: -0.2, y: 0.2, z: 0.2}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8360607898617128827}
@@ -178,7 +178,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 4603e5c90f9819145babb21deee7d114, type: 2}
+  - {fileID: 2100000, guid: 5c76b83dc85f64549b65c8ec32a0ac12, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -212,7 +212,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: e2ea8dd6e9960e548a1acb5f537a6c6e, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: e899d6d881f73ba448ffe4ecd023df40, type: 2}
   initialSkinName: 
   fixPrefabOverrideViaMeshFilter: 2
   initialFlipX: 0
@@ -450,7 +450,7 @@ GameObject:
   - component: {fileID: 7650108532400367952}
   - component: {fileID: 4928389887209577186}
   m_Layer: 6
-  m_Name: BossBaron_10_Normal
+  m_Name: Boss_10_Normal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -486,8 +486,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   skeletonAnimation: {fileID: 2024002708476349246}
-  moveAnimation: Idle
-  deadAnimation: Die
+  moveAnimation: move
+  deadAnimation: die
   data: {fileID: 11400000, guid: 544cd62dd18eca74786232725587c8d5, type: 2}
   enemyCount: {fileID: 11400000, guid: 00e3f0be54cc15a4088149a2ea44000e, type: 2}
   visual: {fileID: 3435603354544250843}

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Wave10
   m_EditorClassIdentifier: 
   enemies:
-  - enemy: {fileID: 7650108532400367952, guid: 3c84858f2f690044e8feb42949e3eb6b, type: 3}
+  - enemy: {fileID: 7650108532400367952, guid: 97675dc432c2c864c851c12d3685337f, type: 3}
     number: 1
     timeBetweenSpawn: 0.1
   secondsForNextWave: 30

@@ -15,6 +15,6 @@ MonoBehaviour:
   enemies:
   - enemy: {fileID: 5529002075561139712, guid: af8349544831d7c4d908465d0d3298f4, type: 3}
     number: 15
-    timeBetweenSpawn: 0.1
+    timeBetweenSpawn: 0.2
   secondsForNextWave: 10
   isBossWave: 0

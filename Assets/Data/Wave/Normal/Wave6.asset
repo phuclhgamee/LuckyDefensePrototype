@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Wave6
   m_EditorClassIdentifier: 
   enemies:
-  - enemy: {fileID: 5529002075561139712, guid: af8349544831d7c4d908465d0d3298f4, type: 3}
+  - enemy: {fileID: 5529002075561139712, guid: adae6706337bf514caba054c95e9fb1c, type: 3}
     number: 30
-    timeBetweenSpawn: 0.1
-  secondsForNextWave: 15
+    timeBetweenSpawn: 0.2
+  secondsForNextWave: 20
   isBossWave: 0
