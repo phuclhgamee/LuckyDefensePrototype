@@ -84,10 +84,12 @@ MonoBehaviour:
   attackAnim: archer_happy
   rarity: 0
   rangedType: 0
+  guardianClass: 0
   guardianType: 0
   range: 1.5
   attackSpeed: 1
   damage: 10
+  graphic: {fileID: 11400000, guid: f842d0ab801ad9a4b8d2bb0474f401a1, type: 2}
 --- !u!1 &2275325269695728275
 GameObject:
   m_ObjectHideFlags: 0

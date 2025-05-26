@@ -182,6 +182,7 @@ MonoBehaviour:
   range: 1.5
   attackSpeed: 1
   damage: 10
+  graphic: {fileID: 11400000, guid: 488da433ba2ed63488242f1b9934085b, type: 2}
 --- !u!1 &5713879122992618557
 GameObject:
   m_ObjectHideFlags: 0

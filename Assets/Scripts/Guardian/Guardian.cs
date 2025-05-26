@@ -13,7 +13,7 @@ namespace LuckyDenfensePrototype
     {
         [Header("Anim")]
         [SerializeField] protected SkeletonAnimation skeletonAnimation;
-
+        
         [SerializeField, SpineAnimation] protected string idleAnim;
         [SerializeField, SpineAnimation] protected string walkAnim;
         [SerializeField, SpineAnimation] protected string deathAnim;
@@ -26,6 +26,9 @@ namespace LuckyDenfensePrototype
         public float range;
         public float attackSpeed;
         public float damage;
+        
+        [Header("UI")]
+        [SerializeField] public SkeletonDataAsset graphic;
         public Tile Tile { get; set; }
 
         public Enemy Target { get; set; }

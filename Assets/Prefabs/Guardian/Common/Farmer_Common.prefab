@@ -298,3 +298,4 @@ MonoBehaviour:
   range: 0.75
   attackSpeed: 1
   damage: 15
+  graphic: {fileID: 11400000, guid: 6660fa0d83440da45ae3b44ec7fa21c5, type: 2}
