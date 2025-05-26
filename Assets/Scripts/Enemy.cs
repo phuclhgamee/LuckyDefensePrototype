@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using LuckyDefensePrototype;
 using Spine.Unity;
 using Unity.VisualScripting;
 using UnityEngine;
@@ -12,7 +13,11 @@ namespace LuckyDenfensePrototype
         [SerializeField] private EnemyData data;
         [SerializeField] private SkeletonAnimation skeletonAnimation;
         [SerializeField] private IntegerVariable enemyCount;
+
+        [SerializeField] private GameObject visual;
         
+        [Header("UI")]
+        [SerializeField] private HealthBar healthBar;
         private float currentHealth;
 
         public float CurrentHealth
@@ -21,12 +26,12 @@ namespace LuckyDenfensePrototype
             set
             {
                 currentHealth = value;
+                healthBar.SetHealth(currentHealth/data.heath);
                 if (currentHealth <= 0)
                 {
                     Die();
                 }
             }
-            
         }
         public float Speed { get; set; }
         
@@ -61,11 +66,11 @@ namespace LuckyDenfensePrototype
                     , data.speed * Time.deltaTime);
                 if (velocity.x < 0)
                 {
-                    transform.localScale = new Vector3(-Math.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+                    visual.transform.localScale = new Vector3(-Math.Abs(visual.transform.localScale.x), visual.transform.localScale.y, visual.transform.localScale.z);
                 }
                 else if (velocity.x > 0)
                 {
-                    transform.localScale = new Vector3(Math.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+                    visual.transform.localScale = new Vector3(Math.Abs(visual.transform.localScale.x), visual.transform.localScale.y, visual.transform.localScale.z);
                 }
                 if (Vector3.Distance(transform.position, target.position) < 0.01f)
                 {

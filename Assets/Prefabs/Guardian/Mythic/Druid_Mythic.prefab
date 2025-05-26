@@ -45,6 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6f3bc084bdc40b3bcfd47c4c91c0360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  visual: {fileID: 2086457250545715162}
   skeletonAnimation: {fileID: 790525050328336258}
   idleAnim: idle
   walkAnim: 
@@ -57,6 +58,7 @@ MonoBehaviour:
   range: 0.8
   attackSpeed: 1
   damage: 3750
+  graphic: {fileID: 0}
   mythicData: {fileID: 11400000, guid: 22b969dafdba1584784ebb25f2fadd31, type: 2}
 --- !u!1 &2086457250545715162
 GameObject:

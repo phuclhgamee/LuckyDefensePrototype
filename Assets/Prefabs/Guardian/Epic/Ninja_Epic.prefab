@@ -45,6 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba3476fcbb03f314fa995b6e0b9d57bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  visual: {fileID: 3616581546260039360}
   skeletonAnimation: {fileID: 977072707322310146}
   idleAnim: idle
   walkAnim: 

@@ -45,6 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba3476fcbb03f314fa995b6e0b9d57bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  visual: {fileID: 7549265200646006656}
   skeletonAnimation: {fileID: 737870467936011269}
   idleAnim: wizard_idle
   walkAnim: 

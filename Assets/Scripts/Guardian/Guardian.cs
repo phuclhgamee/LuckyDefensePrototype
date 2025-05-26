@@ -11,6 +11,7 @@ namespace LuckyDenfensePrototype
 {
     public class Guardian : MonoBehaviour
     {
+        [SerializeField] private GameObject visual;
         [Header("Anim")]
         [SerializeField] protected SkeletonAnimation skeletonAnimation;
         
@@ -92,11 +93,11 @@ namespace LuckyDenfensePrototype
         {
             if (ToTargetDirection().x < 0)
             {
-                transform.localScale = new Vector3(-Math.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+                visual.transform.localScale = new Vector3(-Math.Abs(visual.transform.localScale.x), visual.transform.localScale.y, visual.transform.localScale.z);
             }
             else
             {
-                transform.localScale = new Vector3(Math.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+                visual.transform.localScale = new Vector3(Math.Abs(visual.transform.localScale.x), visual.transform.localScale.y, visual.transform.localScale.z);
             }
         }
         public Vector3 ToTargetDirection()
